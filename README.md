@@ -2,7 +2,17 @@ This repository will be updated with all materials soon.
 
 # Genomic epidemiology of seasonal influenza circulation in China during prolonged border closure from 2020 to 2021
 
-Ruopeng Xie, Dillon C. Adam, Kimberly M. Edwards, Shreya Gurung, Xiaoman Wei, Benjamin J. Cowling, Vijaykrishna Dhanasekaran
+Ruopeng Xie1,2, Dillon C. Adam1, Kimberly M. Edwards1,2, Shreya Gurung1,2, Xiaoman Wei1,2, Benjamin J. Cowling1, Vijaykrishna Dhanasekaran1,2*
+
+1School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong, China
+2HKU-Pasteur Research Pole, School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, Hong Kong, China
+
+*Corresponding author: 
+Vijaykrishna Dhanasekaran, Associate Professor
+School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, 
+Hong Kong, China
+email: veej@hku.hk
+
 
 ---
 Check the [preprint](https://www.researchsquare.com/article/rs-1432770/v1).
