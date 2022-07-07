@@ -11,7 +11,7 @@ Ruopeng Xie1,2, Dillon C. Adam1, Kimberly M. Edwards1,2, Shreya Gurung1,2, Xiaom
 Vijaykrishna Dhanasekaran, Associate Professor
 School of Public Health, LKS Faculty of Medicine, The University of Hong Kong, 
 Hong Kong, China
-email: veej@hku.hk
+email: [veej@hku.hk](veej@hku.hk)
 
 
 ---
