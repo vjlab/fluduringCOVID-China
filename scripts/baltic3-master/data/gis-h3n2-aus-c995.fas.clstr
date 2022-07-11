@@ -1,0 +1,3778 @@
+>Cluster 0
+0	1701aa, >A/Sydney/153/2016|E... *
+1	1701aa, >A/Sydney/134/2016|E... at 99.65%
+2	1701aa, >A/Victoria/514/2016... at 99.65%
+3	1701aa, >A/Sydney/96/2016|EP... at 99.71%
+4	1701aa, >A/Sydney/95/2016|EP... at 100.00%
+5	1701aa, >A/Newcastle/1000/20... at 99.59%
+6	1701aa, >A/SouthAustralia/51... at 99.59%
+7	1701aa, >A/SouthAustralia/49... at 100.00%
+8	1701aa, >A/SouthAustralia/48... at 99.59%
+9	1701aa, >A/SouthAustralia/42... at 99.59%
+10	1701aa, >A/SouthAustralia/37... at 100.00%
+11	1701aa, >A/SouthAustralia/35... at 99.71%
+12	1701aa, >A/SouthAustralia/44... at 99.59%
+13	1701aa, >A/SouthAustralia/40... at 99.59%
+14	1701aa, >A/SouthAustralia/38... at 99.71%
+15	1701aa, >A/Sydney/1012/2016|... at 99.82%
+16	1701aa, >A/Victoria/12/2016|... at 99.53%
+17	1701aa, >A/Victoria/2/2016|E... at 99.94%
+18	1701aa, >A/Sydney/101/2016|E... at 99.82%
+19	1701aa, >A/Sydney/120/2016|E... at 99.76%
+20	1701aa, >A/Sydney/133/2016|E... at 99.88%
+21	1701aa, >A/Tasmania/3/2016|E... at 99.76%
+22	1701aa, >A/SouthAustralia/1/... at 99.76%
+23	1701aa, >A/Canberra/7/2016|E... at 99.76%
+24	1701aa, >A/Newcastle/30/2016... at 99.59%
+25	1701aa, >A/Sydney/52/2016|EP... at 99.94%
+26	1701aa, >A/Sydney/30/2016|EP... at 99.71%
+27	1701aa, >A/Brisbane/183/2015... at 99.53%
+28	1701aa, >A/Brisbane/197/2015... at 99.71%
+29	1701aa, >A/Perth/99/2015|EPI... at 99.53%
+30	1701aa, >A/Newcastle/1003/20... at 99.53%
+31	1701aa, >A/Sydney/1008/2015|... at 99.59%
+32	1701aa, >A/Perth/100/2015|EP... at 99.53%
+33	1701aa, >A/Brisbane/1004/201... at 99.53%
+34	1701aa, >A/Victoria/890/2015... at 99.53%
+35	1701aa, >A/Perth/67/2015|EPI... at 99.53%
+36	1701aa, >A/Canberra/46/2015|... at 99.65%
+37	1701aa, >A/Sydney/42/2015|EP... at 99.59%
+38	1701aa, >A/Brisbane/79/2015|... at 99.53%
+39	1701aa, >A/Sydney/78/2017|EP... at 99.71%
+40	1701aa, >A/Perth/64/2017|EPI... at 99.53%
+41	1701aa, >A/Sydney/58/2017|EP... at 99.53%
+42	1701aa, >A/Tasmania/6/2017|E... at 99.59%
+43	1701aa, >A/Tasmania/2/2017|E... at 99.94%
+44	1701aa, >A/Tasmania/1/2017|E... at 99.53%
+45	1701aa, >A/Newcastle/21/2017... at 99.53%
+46	1701aa, >A/Perth/4/2017|EPI_... at 99.53%
+47	1701aa, >A/SouthAustralia/18... at 99.71%
+48	1701aa, >A/Tasmania/12/2016|... at 99.94%
+49	1701aa, >A/Sydney/160/2016|E... at 99.88%
+50	1701aa, >A/Sydney/150/2016|E... at 99.88%
+51	1701aa, >A/Victoria/2505/201... at 99.59%
+52	1701aa, >A/Sydney/1063/2016|... at 99.59%
+53	1701aa, >A/Sydney/1062/2016|... at 99.88%
+54	1701aa, >A/SouthAustralia/10... at 99.88%
+55	1701aa, >A/Newcastle/83/2016... at 99.88%
+56	1701aa, >A/Perth/99/2016|EPI... at 99.88%
+57	1701aa, >A/Sydney/133/2016|E... at 99.88%
+58	1701aa, >A/Sydney/125/2016|E... at 99.82%
+59	1701aa, >A/Newcastle/61/2016... at 99.53%
+60	1701aa, >A/Newcastle/48/2016... at 99.65%
+61	1701aa, >A/Newcastle/30/2016... at 99.59%
+62	1701aa, >A/Canberra/7/2016|E... at 99.76%
+63	1701aa, >A/Victoria/2506/201... at 99.59%
+64	1701aa, >A/Victoria/2/2016|E... at 99.94%
+65	1701aa, >A/Victoria/12/2016|... at 99.53%
+66	1701aa, >A/Sydney/90/2016|EP... at 99.76%
+67	1701aa, >A/Sydney/88/2016|EP... at 99.71%
+68	1701aa, >A/Newcastle/1000/20... at 99.59%
+69	1701aa, >A/Darwin/1000/2016|... at 99.82%
+70	1701aa, >A/Victoria/2515/201... at 99.59%
+71	1701aa, >A/Victoria/2512/201... at 99.59%
+72	1701aa, >A/Newcastle/199/201... at 99.88%
+73	1701aa, >A/Perth/81/2016|EPI... at 100.00%
+74	1701aa, >A/Tasmania/200/2016... at 99.76%
+75	1701aa, >A/Perth/213/2016|EP... at 99.76%
+76	1701aa, >A/Perth/197/2016|EP... at 99.88%
+77	1701aa, >A/Perth/208/2016|EP... at 99.82%
+78	1701aa, >A/Perth/188/2016|EP... at 99.76%
+79	1701aa, >A/Perth/137/2016|EP... at 99.94%
+80	1701aa, >A/Perth/130/2016|EP... at 99.88%
+81	1701aa, >A/Perth/113/2016|EP... at 99.76%
+82	1701aa, >A/Perth/112/2016|EP... at 99.94%
+83	1701aa, >A/Perth/90/2016|EPI... at 99.76%
+84	1701aa, >A/Perth/89/2016|EPI... at 99.76%
+85	1701aa, >A/Perth/075/2016|EP... at 99.65%
+86	1701aa, >A/Perth/076/2016|EP... at 99.94%
+87	1701aa, >A/Perth/078/2016|EP... at 99.82%
+88	1701aa, >A/Perth/96/2016|EPI... at 99.59%
+89	1701aa, >A/Brisbane/314/2016... at 99.71%
+90	1701aa, >A/SouthAustralia/15... at 99.82%
+91	1701aa, >A/SouthAustralia/15... at 99.76%
+92	1701aa, >A/SouthAustralia/15... at 99.71%
+93	1701aa, >A/SouthAustralia/15... at 99.76%
+94	1701aa, >A/Sydney/343/2016|E... at 100.00%
+95	1701aa, >A/Sydney/311/2016|E... at 99.71%
+96	1701aa, >A/Sydney/308/2016|E... at 99.71%
+97	1701aa, >A/Brisbane/267/2016... at 99.94%
+98	1701aa, >A/Newcastle/204/201... at 99.88%
+99	1701aa, >A/Brisbane/311/2016... at 99.71%
+100	1701aa, >A/Townsville/47/201... at 99.76%
+101	1701aa, >A/SouthAustralia/17... at 99.76%
+102	1701aa, >A/SouthAustralia/16... at 99.65%
+103	1701aa, >A/SouthAustralia/16... at 99.76%
+104	1701aa, >A/SouthAustralia/10... at 99.76%
+105	1701aa, >A/SouthAustralia/16... at 99.88%
+106	1701aa, >A/SouthAustralia/16... at 99.71%
+107	1701aa, >A/SouthAustralia/16... at 99.82%
+108	1701aa, >A/SouthAustralia/17... at 99.76%
+109	1701aa, >A/SouthAustralia/16... at 99.71%
+110	1701aa, >A/SouthAustralia/16... at 99.82%
+111	1701aa, >A/SouthAustralia/16... at 99.94%
+112	1701aa, >A/Tasmania/202/2016... at 99.76%
+113	1701aa, >A/Victoria/670/2016... at 99.59%
+114	1701aa, >A/Townsville/37/201... at 99.88%
+115	1701aa, >A/Victoria/149/2016... at 99.71%
+116	1701aa, >A/Victoria/673/2016... at 99.88%
+117	1701aa, >A/Victoria/671/2016... at 99.82%
+118	1701aa, >A/Victoria/665/2016... at 99.76%
+119	1701aa, >A/Victoria/664/2016... at 99.82%
+120	1701aa, >A/Victoria/661/2016... at 100.00%
+121	1701aa, >A/Victoria/660/2016... at 99.71%
+122	1701aa, >A/Brisbane/303/2016... at 99.82%
+123	1701aa, >A/Brisbane/300/2016... at 99.88%
+124	1701aa, >A/Brisbane/298/2016... at 99.53%
+125	1701aa, >A/SouthAustralia/14... at 99.76%
+126	1701aa, >A/SouthAustralia/14... at 99.76%
+127	1701aa, >A/SouthAustralia/14... at 99.76%
+128	1701aa, >A/SouthAustralia/14... at 99.76%
+129	1701aa, >A/SouthAustralia/14... at 99.76%
+130	1701aa, >A/SouthAustralia/14... at 99.71%
+131	1701aa, >A/SouthAustralia/14... at 99.82%
+132	1701aa, >A/SouthAustralia/13... at 99.71%
+133	1701aa, >A/SouthAustralia/13... at 99.53%
+134	1701aa, >A/Brisbane/288/2016... at 99.71%
+135	1701aa, >A/Brisbane/287/2016... at 99.82%
+136	1701aa, >A/Brisbane/286/2016... at 99.53%
+137	1701aa, >A/SouthAustralia/10... at 99.82%
+138	1701aa, >A/Tasmania/187/2016... at 99.82%
+139	1701aa, >A/Victoria/2145/201... at 99.88%
+140	1701aa, >A/Victoria/2144/201... at 99.76%
+141	1701aa, >A/Victoria/657/2016... at 99.53%
+142	1701aa, >A/Canberra/92/2016|... at 99.82%
+143	1701aa, >A/Canberra/83/2016|... at 99.88%
+144	1701aa, >A/Canberra/81/2016|... at 99.88%
+145	1701aa, >A/Canberra/80/2016|... at 99.88%
+146	1701aa, >A/Canberra/70/2016|... at 99.82%
+147	1701aa, >A/Victoria/622/2016... at 99.88%
+148	1701aa, >A/Canberra/69/2016|... at 99.94%
+149	1701aa, >A/Newcastle/194/201... at 99.76%
+150	1701aa, >A/Victoria/135/2016... at 99.82%
+151	1701aa, >A/Victoria/129/2016... at 99.82%
+152	1701aa, >A/Victoria/118/2016... at 99.59%
+153	1701aa, >A/Victoria/116/2016... at 99.88%
+154	1701aa, >A/Victoria/113/2016... at 99.94%
+155	1701aa, >A/Victoria/109/2016... at 99.71%
+156	1701aa, >A/Victoria/125/2016... at 99.88%
+157	1701aa, >A/Victoria/126/2016... at 99.88%
+158	1701aa, >A/Tasmania/97/2016|... at 99.88%
+159	1701aa, >A/Victoria/133/2016... at 99.88%
+160	1701aa, >A/Victoria/131/2016... at 99.88%
+161	1701aa, >A/Tasmania/86/2016|... at 99.76%
+162	1701aa, >A/Newcastle/191/201... at 99.88%
+163	1701aa, >A/Newcastle/179/201... at 99.88%
+164	1701aa, >A/Newcastle/161/201... at 99.88%
+165	1701aa, >A/Brisbane/231/2016... at 99.53%
+166	1701aa, >A/SouthAustralia/12... at 99.76%
+167	1701aa, >A/SouthAustralia/12... at 99.88%
+168	1701aa, >A/SouthAustralia/12... at 99.82%
+169	1701aa, >A/Darwin/1006/2016|... at 99.88%
+170	1701aa, >A/Darwin/1005/2016|... at 99.94%
+171	1701aa, >A/Tasmania/1017/201... at 99.71%
+172	1701aa, >A/Tasmania/89/2016|... at 99.94%
+173	1701aa, >A/Sydney/297/2016|E... at 99.82%
+174	1701aa, >A/SouthAustralia/12... at 99.88%
+175	1701aa, >A/SouthAustralia/11... at 99.88%
+176	1701aa, >A/SouthAustralia/11... at 99.88%
+177	1701aa, >A/SouthAustralia/11... at 100.00%
+178	1701aa, >A/SouthAustralia/11... at 99.71%
+179	1701aa, >A/Victoria/1014/201... at 99.82%
+180	1701aa, >A/Sydney/1102/2016|... at 100.00%
+181	1701aa, >A/Brisbane/1024/201... at 99.94%
+182	1701aa, >A/Brisbane/1023/201... at 99.88%
+183	1701aa, >A/SouthAustralia/10... at 99.76%
+184	1701aa, >A/Victoria/1012/201... at 99.76%
+185	1701aa, >A/Tasmania/1014/201... at 99.82%
+186	1701aa, >A/Sydney/1094/2016|... at 99.76%
+187	1701aa, >A/Canberra/1007/201... at 99.94%
+188	1701aa, >A/Victoria/2517/201... at 99.88%
+189	1701aa, >A/Victoria/2516/201... at 99.76%
+190	1701aa, >A/Victoria/1011/201... at 99.94%
+191	1701aa, >A/SouthAustralia/10... at 99.94%
+192	1701aa, >A/SouthAustralia/11... at 99.71%
+193	1701aa, >A/Victoria/825/2016... at 99.59%
+194	1701aa, >A/Victoria/822/2016... at 99.94%
+195	1701aa, >A/Victoria/72/2016|... at 99.59%
+196	1701aa, >A/Newcastle/189/201... at 99.94%
+197	1701aa, >A/Darwin/1008/2016|... at 99.76%
+198	1701aa, >A/SouthAustralia/10... at 99.94%
+199	1701aa, >A/Brisbane/214/2016... at 99.71%
+200	1701aa, >A/Newcastle/174/201... at 99.88%
+201	1701aa, >A/Newcastle/173/201... at 99.82%
+202	1701aa, >A/Newcastle/170/201... at 99.88%
+203	1701aa, >A/Newcastle/201/201... at 99.76%
+204	1701aa, >A/Brisbane/224/2016... at 99.65%
+205	1701aa, >A/Victoria/623/2016... at 99.88%
+206	1701aa, >A/Victoria/1013/201... at 99.88%
+207	1701aa, >A/Tasmania/92/2016|... at 99.53%
+208	1701aa, >A/Tasmania/118/2016... at 99.76%
+209	1701aa, >A/Tasmania/117/2016... at 99.88%
+210	1701aa, >A/SouthAustralia/13... at 99.59%
+211	1701aa, >A/Canberra/1008/201... at 99.88%
+212	1701aa, >A/Brisbane/225/2016... at 99.59%
+213	1701aa, >A/Brisbane/216/2016... at 99.65%
+214	1701aa, >A/Canberra/7/2016|E... at 99.76%
+215	1701aa, >A/Canberra/7/2016|E... at 99.76%
+216	1701aa, >A/Newcastle/30/2016... at 99.53%
+217	1701aa, >A/Sydney/261/2016|E... at 99.76%
+218	1701aa, >A/Victoria/814/2016... at 99.76%
+219	1701aa, >A/Victoria/813/2016... at 99.88%
+220	1701aa, >A/Newcastle/134/201... at 99.82%
+221	1701aa, >A/Newcastle/83/2016... at 99.88%
+222	1701aa, >A/Sydney/188/2016|E... at 99.88%
+223	1701aa, >A/Newcastle/110/201... at 100.00%
+224	1701aa, >A/Darwin/1002/2016|... at 99.59%
+225	1701aa, >A/Newcastle/1002/20... at 99.71%
+226	1701aa, >A/Sydney/1036/2016|... at 99.82%
+227	1701aa, >A/Sydney/1025/2016|... at 100.00%
+228	1701aa, >A/Sydney/1024/2016|... at 99.76%
+229	1701aa, >A/Brisbane/1005/201... at 99.59%
+230	1701aa, >A/Sydney/1032/2016|... at 100.00%
+231	1701aa, >A/Victoria/1002/201... at 99.71%
+232	1701aa, >A/Canberra/1001/201... at 99.82%
+233	1701aa, >A/Canberra/1000/201... at 100.00%
+234	1701aa, >A/Newcastle/91/2016... at 99.94%
+235	1701aa, >A/Tasmania/24/2016|... at 99.88%
+236	1701aa, >A/Victoria/2072/201... at 99.94%
+237	1701aa, >A/Victoria/589/2016... at 99.53%
+238	1701aa, >A/Victoria/582/2016... at 99.65%
+239	1701aa, >A/Victoria/581/2016... at 99.94%
+240	1701aa, >A/Canberra/30/2016|... at 99.94%
+241	1701aa, >A/Victoria/2102/201... at 99.53%
+242	1701aa, >A/Victoria/2097/201... at 99.59%
+243	1701aa, >A/Newcastle/118/201... at 99.88%
+244	1701aa, >A/Victoria/559/2016... at 99.82%
+245	1701aa, >A/Victoria/2073/201... at 99.76%
+246	1701aa, >A/Brisbane/169/2016... at 99.88%
+247	1701aa, >A/Victoria/810/2016... at 99.94%
+248	1701aa, >A/Victoria/910/2016... at 99.88%
+249	1701aa, >A/Brisbane/168/2016... at 99.65%
+250	1701aa, >A/Victoria/2112/201... at 99.71%
+251	1701aa, >A/Newcastle/105/201... at 99.88%
+252	1701aa, >A/Newcastle/93/2016... at 100.00%
+253	1701aa, >A/Victoria/909/2016... at 99.53%
+254	1701aa, >A/Victoria/575/2016... at 99.82%
+255	1701aa, >A/Victoria/574/2016... at 99.82%
+256	1701aa, >A/Victoria/561/2016... at 99.76%
+257	1701aa, >A/Victoria/557/2016... at 99.88%
+258	1701aa, >A/Victoria/556/2016... at 99.59%
+259	1701aa, >A/Victoria/554/2016... at 99.76%
+260	1701aa, >A/Victoria/553/2016... at 99.88%
+261	1701aa, >A/Victoria/550/2016... at 99.88%
+262	1701aa, >A/Victoria/2089/201... at 99.82%
+263	1701aa, >A/Victoria/2088/201... at 99.65%
+264	1701aa, >A/Victoria/2086/201... at 99.65%
+265	1701aa, >A/Victoria/2076/201... at 99.88%
+266	1701aa, >A/Victoria/2111/201... at 99.53%
+267	1701aa, >A/Victoria/2108/201... at 99.65%
+268	1701aa, >A/Victoria/2103/201... at 99.82%
+269	1701aa, >A/Newcastle/120/201... at 99.88%
+270	1701aa, >A/Newcastle/115/201... at 99.88%
+271	1701aa, >A/Newcastle/104/201... at 99.88%
+272	1701aa, >A/Newcastle/102/201... at 99.65%
+273	1701aa, >A/Newcastle/98/2016... at 99.76%
+274	1701aa, >A/Newcastle/97/2016... at 100.00%
+275	1701aa, >A/Victoria/907/2016... at 99.59%
+276	1701aa, >A/Victoria/906/2016... at 99.82%
+277	1701aa, >A/Victoria/580/2016... at 99.82%
+278	1701aa, >A/Victoria/803/2016... at 99.82%
+279	1701aa, >A/Victoria/301/2016... at 99.94%
+280	1701aa, >A/Brisbane/165/2016... at 99.82%
+281	1701aa, >A/Victoria/2106/201... at 99.76%
+282	1701aa, >A/Victoria/805/2016... at 99.88%
+283	1701aa, >A/Victoria/808/2016... at 99.82%
+284	1701aa, >A/Victoria/546/2016... at 99.82%
+285	1701aa, >A/Newcastle/68/2016... at 99.82%
+286	1701aa, >A/Newcastle/78/2016... at 99.53%
+287	1701aa, >A/Victoria/542/2016... at 99.65%
+288	1701aa, >A/Tasmania/1000/201... at 100.00%
+289	1701aa, >A/Sydney/131/2016|E... at 99.88%
+290	1701aa, >A/Newcastle/64/2016... at 99.53%
+291	1701aa, >A/Newcastle/54/2016... at 99.76%
+292	1701aa, >A/Sydney/162/2016|E... at 99.88%
+293	1701aa, >A/Sydney/121/2016|E... at 100.00%
+294	1701aa, >A/Sydney/1069/2016|... at 99.88%
+295	1701aa, >A/Tasmania/1006/201... at 99.53%
+296	1701aa, >A/Sydney/1059/2016|... at 99.71%
+297	1701aa, >A/Sydney/1058/2016|... at 99.82%
+298	1701aa, >A/Brisbane/1009/201... at 99.76%
+299	1701aa, >A/Sydney/1046/2016|... at 99.82%
+300	1701aa, >A/SouthAustralia/10... at 99.88%
+301	1701aa, >A/Perth/102/2016|EP... at 99.88%
+302	1701aa, >A/Perth/101/2016|EP... at 99.88%
+303	1701aa, >A/Perth/99/2016|EPI... at 99.88%
+304	1701aa, >A/Perth/93/2016|EPI... at 99.53%
+305	1701aa, >A/Perth/86/2016|EPI... at 99.82%
+306	1701aa, >A/Perth/80/2016|EPI... at 99.53%
+307	1701aa, >A/Sydney/1039/2016|... at 100.00%
+308	1701aa, >A/Brisbane/1006/201... at 99.59%
+309	1701aa, >A/Sydney/1033/2016|... at 99.88%
+310	1701aa, >A/Brisbane/1014/201... at 99.59%
+311	1701aa, >A/Sydney/1067/2016|... at 99.94%
+312	1701aa, >A/Sydney/1064/2016|... at 100.00%
+313	1701aa, >A/Perth/84/2016|EPI... at 99.82%
+314	1701aa, >A/Perth/82/2016|EPI... at 99.76%
+315	1701aa, >A/Sydney/1044/2016|... at 99.88%
+316	1701aa, >A/Victoria/57/2016|... at 99.59%
+317	1701aa, >A/Victoria/54/2016|... at 99.71%
+318	1701aa, >A/Victoria/64/2016|... at 99.59%
+319	1701aa, >A/Victoria/63/2016|... at 99.76%
+320	1701aa, >A/Sydney/1037/2016|... at 99.94%
+321	1701aa, >A/Victoria/61/2016|... at 99.88%
+322	1701aa, >A/Perth/106/2016|EP... at 99.76%
+323	1701aa, >A/Perth/103/2016|EP... at 99.88%
+324	1701aa, >A/Perth/100/2016|EP... at 99.94%
+325	1701aa, >A/Perth/97/2016|EPI... at 99.82%
+326	1701aa, >A/Perth/96/2016|EPI... at 99.53%
+327	1701aa, >A/Perth/95/2016|EPI... at 99.76%
+328	1701aa, >A/Perth/94/2016|EPI... at 99.82%
+329	1701aa, >A/Perth/83/2016|EPI... at 100.00%
+330	1701aa, >A/Perth/76/2016|EPI... at 99.76%
+331	1701aa, >A/Perth/75/2016|EPI... at 99.82%
+332	1701aa, >A/Victoria/70/2016|... at 99.71%
+333	1701aa, >A/Victoria/68/2016|... at 99.94%
+334	1701aa, >A/Victoria/67/2016|... at 99.59%
+335	1701aa, >A/Victoria/66/2016|... at 99.88%
+336	1701aa, >A/Victoria/65/2016|... at 99.59%
+337	1701aa, >A/Victoria/58/2016|... at 99.94%
+338	1701aa, >A/Victoria/49/2016|... at 99.88%
+339	1701aa, >A/Victoria/48/2016|... at 99.65%
+340	1701aa, >A/Perth/68/2016|EPI... at 99.82%
+341	1701aa, >A/Perth/47/2016|EPI... at 99.82%
+342	1701aa, >A/Victoria/541/2016... at 99.82%
+343	1701aa, >A/Perth/62/2016|EPI... at 99.82%
+344	1701aa, >A/Perth/48/2016|EPI... at 99.71%
+345	1701aa, >A/Perth/40/2016|EPI... at 99.82%
+346	1701aa, >A/Victoria/41/2016|... at 99.94%
+347	1701aa, >A/SouthAustralia/33... at 99.65%
+348	1701aa, >A/Brisbane/92/2016|... at 99.82%
+349	1701aa, >A/SouthAustralia/30... at 100.00%
+350	1701aa, >A/Victoria/2015/201... at 99.65%
+351	1701aa, >A/Victoria/36/2016|... at 99.94%
+352	1701aa, >A/Victoria/35/2016|... at 99.71%
+353	1701aa, >A/Newcastle/75/2016... at 99.88%
+354	1701aa, >A/Newcastle/72/2016... at 99.88%
+355	1701aa, >A/Victoria/545/2016... at 99.53%
+356	1701aa, >A/Sydney/168/2016|E... at 99.53%
+357	1701aa, >A/Sydney/167/2016|E... at 99.88%
+358	1701aa, >A/Victoria/42/2016|... at 99.76%
+359	1701aa, >A/Newcastle/87/2016... at 99.53%
+360	1701aa, >A/Canberra/25/2016|... at 99.88%
+361	1701aa, >A/Sydney/154/2016|E... at 99.88%
+362	1701aa, >A/Sydney/149/2016|E... at 99.65%
+363	1701aa, >A/Sydney/144/2016|E... at 99.88%
+364	1701aa, >A/Sydney/140/2016|E... at 99.76%
+365	1701aa, >A/Sydney/139/2016|E... at 99.88%
+366	1701aa, >A/Sydney/115/2016|E... at 99.94%
+367	1701aa, >A/SouthAustralia/62... at 99.59%
+368	1701aa, >A/Victoria/522/2016... at 99.71%
+369	1701aa, >A/Victoria/518/2016... at 99.88%
+370	1701aa, >A/Sydney/130/2016|E... at 100.00%
+371	1701aa, >A/Sydney/126/2016|E... at 99.71%
+372	1701aa, >A/Sydney/124/2016|E... at 99.82%
+373	1701aa, >A/Sydney/122/2016|E... at 100.00%
+374	1701aa, >A/Sydney/116/2016|E... at 99.88%
+375	1701aa, >A/Brisbane/1001/201... at 99.88%
+376	1701aa, >A/SouthAustralia/60... at 99.71%
+377	1701aa, >A/Sydney/1013/2016|... at 99.76%
+378	1701aa, >A/Newcastle/58/2016... at 99.82%
+379	1701aa, >A/Sydney/129/2016|E... at 99.71%
+380	1701aa, >A/Sydney/106/2016|E... at 99.88%
+381	1701aa, >A/Sydney/105/2016|E... at 99.88%
+382	1701aa, >A/Sydney/1018/2016|... at 99.88%
+383	1701aa, >A/Tasmania/1001/201... at 99.82%
+384	1701aa, >A/Sydney/1015/2016|... at 99.88%
+385	1701aa, >A/Sydney/1014/2016|... at 99.82%
+386	1701aa, >A/SouthAustralia/55... at 99.53%
+387	1701aa, >A/Sydney/1087/2016|... at 99.82%
+388	1701aa, >A/Sydney/1073/2016|... at 99.53%
+389	1701aa, >A/Perth/277/2016|EP... at 99.65%
+390	1701aa, >A/Perth/247/2016|EP... at 99.88%
+391	1701aa, >A/Perth/246/2016|EP... at 99.53%
+392	1701aa, >A/Perth/203/2016|EP... at 99.53%
+393	1701aa, >A/Perth/202/2016|EP... at 99.53%
+394	1701aa, >A/Perth/178/2016|EP... at 99.53%
+395	1701aa, >A/Perth/167/2016|EP... at 99.76%
+396	1701aa, >A/Perth/145/2016|EP... at 99.71%
+397	1701aa, >A/Perth/144/2016|EP... at 99.53%
+398	1701aa, >A/Perth/128/2016|EP... at 99.82%
+399	1701aa, >A/Perth/129/2016|EP... at 99.82%
+400	1701aa, >A/Perth/108/2016|EP... at 99.94%
+401	1701aa, >A/Brisbane/1031/201... at 99.76%
+402	1701aa, >A/Sydney/1105/2016|... at 100.00%
+403	1701aa, >A/Tasmania/1018/201... at 99.76%
+404	1701aa, >A/Victoria/2015/201... at 99.65%
+405	1701aa, >A/Sydney/80/2016|EP... at 99.65%
+406	1701aa, >A/Tasmania/3/2016|E... at 99.82%
+407	1701aa, >A/Canberra/7/2016|E... at 99.76%
+408	1701aa, >A/Newcastle/30/2016... at 99.59%
+409	1701aa, >A/Brisbane/66/2016|... at 99.59%
+410	1701aa, >A/SouthAustralia/35... at 99.71%
+411	1701aa, >A/SouthAustralia/38... at 99.71%
+412	1701aa, >A/Victoria/12/2016|... at 99.53%
+413	1701aa, >A/Sydney/101/2016|E... at 99.82%
+414	1701aa, >A/Newcastle/1000/20... at 99.59%
+415	1701aa, >A/Newcastle/58/2016... at 99.82%
+416	1701aa, >A/Sydney/129/2016|E... at 99.71%
+417	1701aa, >A/Sydney/1018/2016|... at 99.88%
+418	1701aa, >A/Tasmania/1001/201... at 99.82%
+419	1701aa, >A/Sydney/1014/2016|... at 99.82%
+420	1701aa, >A/SouthAustralia/55... at 99.53%
+421	1701aa, >A/SouthAustralia/51... at 99.59%
+422	1701aa, >A/SouthAustralia/62... at 99.59%
+423	1701aa, >A/Brisbane/1001/201... at 99.88%
+424	1701aa, >A/SouthAustralia/60... at 99.71%
+425	1701aa, >A/Newcastle/64/2016... at 99.53%
+426	1701aa, >A/Sydney/140/2016|E... at 99.76%
+427	1701aa, >A/Sydney/115/2016|E... at 99.94%
+428	1701aa, >A/Sydney/1013/2016|... at 99.76%
+429	1701aa, >A/Victoria/542/2016... at 99.65%
+430	1701aa, >A/Sydney/171/2016|E... at 100.00%
+431	1701aa, >A/Victoria/808/2016... at 99.82%
+432	1701aa, >A/Victoria/546/2016... at 99.82%
+433	1701aa, >A/Newcastle/68/2016... at 99.82%
+434	1701aa, >A/Victoria/42/2016|... at 99.76%
+435	1701aa, >A/Newcastle/78/2016... at 99.53%
+436	1701aa, >A/Newcastle/102/201... at 99.65%
+437	1701aa, >A/Victoria/70/2016|... at 99.71%
+438	1701aa, >A/Victoria/580/2016... at 99.82%
+439	1701aa, >A/Brisbane/165/2016... at 99.82%
+440	1701aa, >A/Canberra/1001/201... at 99.82%
+441	1701aa, >A/Victoria/63/2016|... at 99.76%
+442	1701aa, >A/Newcastle/91/2016... at 99.94%
+443	1701aa, >A/Victoria/909/2016... at 99.53%
+444	1701aa, >A/Victoria/561/2016... at 99.76%
+445	1701aa, >A/Victoria/554/2016... at 99.76%
+446	1701aa, >A/Victoria/2111/201... at 99.53%
+447	1701aa, >A/Victoria/589/2016... at 99.53%
+448	1701aa, >A/Victoria/582/2016... at 99.65%
+449	1701aa, >A/Brisbane/1014/201... at 99.59%
+450	1701aa, >A/Victoria/2102/201... at 99.53%
+451	1701aa, >A/Victoria/2097/201... at 99.59%
+452	1701aa, >A/Victoria/2073/201... at 99.76%
+453	1701aa, >A/Darwin/1002/2016|... at 99.59%
+454	1701aa, >A/Sydney/1059/2016|... at 99.71%
+455	1701aa, >A/Brisbane/1009/201... at 99.76%
+456	1701aa, >A/Tasmania/24/2016|... at 99.88%
+457	1701aa, >A/Victoria/72/2016|... at 99.59%
+458	1701aa, >A/Newcastle/134/201... at 99.82%
+459	1701aa, >A/SouthAustralia/11... at 99.88%
+460	1701aa, >A/SouthAustralia/11... at 99.71%
+461	1701aa, >A/Victoria/1014/201... at 99.82%
+462	1701aa, >A/SouthAustralia/10... at 99.76%
+463	1701aa, >A/Victoria/1012/201... at 99.76%
+464	1701aa, >A/Sydney/1094/2016|... at 99.76%
+465	1701aa, >A/Victoria/2516/201... at 99.76%
+466	1701aa, >A/SouthAustralia/11... at 99.71%
+467	1701aa, >A/Brisbane/225/2016... at 99.59%
+468	1701aa, >A/Brisbane/224/2016... at 99.65%
+469	1701aa, >A/SouthAustralia/12... at 99.76%
+470	1701aa, >A/Darwin/1006/2016|... at 99.88%
+471	1701aa, >A/Sydney/297/2016|E... at 99.82%
+472	1701aa, >A/Canberra/80/2016|... at 99.88%
+473	1701aa, >A/Newcastle/201/201... at 99.76%
+474	1701aa, >A/Victoria/109/2016... at 99.71%
+475	1701aa, >A/Tasmania/97/2016|... at 99.88%
+476	1701aa, >A/Tasmania/92/2016|... at 99.53%
+477	1701aa, >A/Newcastle/180/201... at 99.88%
+478	1701aa, >A/Darwin/1008/2016|... at 99.76%
+479	1701aa, >A/Brisbane/231/2016... at 99.53%
+480	1701aa, >A/SouthAustralia/13... at 99.53%
+481	1701aa, >A/Brisbane/287/2016... at 99.82%
+482	1701aa, >A/Victoria/657/2016... at 99.53%
+483	1701aa, >A/SouthAustralia/14... at 99.71%
+484	1701aa, >A/SouthAustralia/14... at 99.76%
+485	1701aa, >A/SouthAustralia/14... at 99.71%
+486	1701aa, >A/Victoria/670/2016... at 99.59%
+487	1701aa, >A/Victoria/660/2016... at 99.71%
+488	1701aa, >A/Brisbane/303/2016... at 99.82%
+489	1701aa, >A/Brisbane/300/2016... at 99.88%
+490	1701aa, >A/Brisbane/298/2016... at 99.53%
+491	1701aa, >A/SouthAustralia/17... at 99.76%
+492	1701aa, >A/SouthAustralia/16... at 99.71%
+493	1701aa, >A/SouthAustralia/16... at 99.82%
+494	1701aa, >A/Perth/78A/2016|EP... at 99.82%
+495	1701aa, >A/Newcastle/12/2015... at 99.59%
+496	1701aa, >A/Brisbane/79/2015|... at 99.59%
+497	1701aa, >A/Newcastle/1001/20... at 99.59%
+498	1701aa, >A/Sydney/52/2015|EP... at 99.59%
+499	1701aa, >A/Perth/53/2015|EPI... at 99.53%
+500	1701aa, >A/Brisbane/1004/201... at 99.53%
+501	1701aa, >A/Sydney/1019/2015|... at 99.59%
+502	1701aa, >A/Newcastle/1003/20... at 99.53%
+503	1701aa, >A/Sydney/1022/2015|... at 99.53%
+504	1701aa, >A/Perth/76/2015|EPI... at 99.94%
+505	1701aa, >A/SouthAustralia/10... at 99.65%
+506	1701aa, >A/Brisbane/183/2015... at 99.53%
+507	1701aa, >A/Sydney/241/2015|E... at 99.94%
+508	1701aa, >A/Sydney/242/2015|E... at 99.53%
+509	1701aa, >A/SouthAustralia/17... at 99.76%
+510	1701aa, >A/Brisbane/197/2015... at 99.71%
+511	1701aa, >A/Perth/64/2017|EPI... at 99.53%
+512	1701aa, >A/Tasmania/20/2017|... at 99.65%
+513	1701aa, >A/SouthAustralia/13... at 99.59%
+514	1701aa, >A/Canberra/7/2016|E... at 99.65%
+>Cluster 1
+0	1701aa, >A/Victoria/512/2016... *
+1	1701aa, >A/SouthAustralia/18... at 99.53%
+2	1701aa, >A/SouthAustralia/17... at 99.82%
+3	1701aa, >A/SouthAustralia/14... at 99.88%
+4	1701aa, >A/Sydney/1013/2017|... at 99.65%
+5	1701aa, >A/Sydney/52/2017|EP... at 99.59%
+6	1701aa, >A/Sydney/112/2017|E... at 99.53%
+7	1701aa, >A/Sydney/94/2017|EP... at 99.82%
+8	1701aa, >A/Sydney/93/2017|EP... at 99.53%
+9	1701aa, >A/Sydney/91/2017|EP... at 99.88%
+10	1701aa, >A/Sydney/90/2017|EP... at 99.88%
+11	1701aa, >A/Sydney/80/2017|EP... at 99.94%
+12	1701aa, >A/Sydney/79/2017|EP... at 99.94%
+13	1701aa, >A/Newcastle/52/2017... at 99.94%
+14	1701aa, >A/Newcastle/34/2017... at 99.65%
+15	1701aa, >A/SouthAustralia/13... at 99.76%
+16	1701aa, >A/SouthAustralia/13... at 99.53%
+17	1701aa, >A/Victoria/544/2017... at 99.82%
+18	1701aa, >A/Victoria/531/2017... at 99.71%
+19	1701aa, >A/Victoria/522/2017... at 99.82%
+20	1701aa, >A/Victoria/513/2017... at 99.71%
+21	1701aa, >A/Sydney/145/2017|E... at 99.71%
+22	1701aa, >A/Victoria/537/2017... at 99.71%
+23	1701aa, >A/Victoria/519/2017... at 99.76%
+24	1701aa, >A/Victoria/16/2017|... at 99.82%
+25	1701aa, >A/Victoria/2500/201... at 99.76%
+26	1701aa, >A/SouthAustralia/17... at 99.53%
+27	1701aa, >A/SouthAustralia/17... at 99.71%
+28	1701aa, >A/SouthAustralia/15... at 99.53%
+29	1701aa, >A/SouthAustralia/15... at 99.76%
+30	1701aa, >A/SouthAustralia/14... at 99.53%
+31	1701aa, >A/Townsville/1002/2... at 99.71%
+32	1701aa, >A/Newcastle/88/2017... at 99.53%
+33	1701aa, >A/Newcastle/87/2017... at 99.65%
+34	1701aa, >A/Newcastle/54/2017... at 99.65%
+35	1701aa, >A/Victoria/505/2017... at 99.71%
+36	1701aa, >A/Victoria/504/2017... at 99.76%
+37	1701aa, >A/Victoria/502/2017... at 99.82%
+38	1701aa, >A/Perth/87/2017|EPI... at 99.94%
+39	1701aa, >A/Perth/86/2017|EPI... at 99.71%
+40	1701aa, >A/Sydney/136/2017|E... at 99.88%
+41	1701aa, >A/Sydney/128/2017|E... at 99.53%
+42	1701aa, >A/Sydney/125/2017|E... at 99.53%
+43	1701aa, >A/Sydney/124/2017|E... at 99.53%
+44	1701aa, >A/Sydney/122/2017|E... at 99.53%
+45	1701aa, >A/Sydney/123/2017|E... at 99.53%
+46	1701aa, >A/Sydney/52/2017|EP... at 99.65%
+47	1701aa, >A/Sydney/121/2017|E... at 99.59%
+48	1701aa, >A/Sydney/119/2017|E... at 99.53%
+49	1701aa, >A/Victoria/10/2017|... at 99.53%
+50	1701aa, >A/Victoria/9/2017|E... at 99.82%
+51	1701aa, >A/SouthAustralia/13... at 99.53%
+52	1701aa, >A/SouthAustralia/13... at 99.71%
+53	1701aa, >A/SouthAustralia/13... at 99.53%
+54	1701aa, >A/SouthAustralia/12... at 99.59%
+55	1701aa, >A/SouthAustralia/12... at 99.53%
+56	1701aa, >A/SouthAustralia/12... at 99.88%
+57	1701aa, >A/SouthAustralia/12... at 99.53%
+58	1701aa, >A/SouthAustralia/12... at 99.76%
+59	1701aa, >A/SouthAustralia/12... at 99.53%
+60	1701aa, >A/SouthAustralia/11... at 99.76%
+61	1701aa, >A/SouthAustralia/11... at 99.53%
+62	1701aa, >A/SouthAustralia/11... at 99.53%
+63	1701aa, >A/SouthAustralia/11... at 99.88%
+64	1701aa, >A/SouthAustralia/11... at 99.88%
+65	1701aa, >A/Brisbane/39/2017|... at 99.59%
+66	1701aa, >A/Perth/73/2017|EPI... at 99.94%
+67	1701aa, >A/Perth/71/2017|EPI... at 99.59%
+68	1701aa, >A/Perth/70/2017|EPI... at 99.59%
+69	1701aa, >A/SouthAustralia/11... at 99.82%
+70	1701aa, >A/SouthAustralia/10... at 99.53%
+71	1701aa, >A/SouthAustralia/10... at 99.53%
+72	1701aa, >A/SouthAustralia/99... at 99.88%
+73	1701aa, >A/SouthAustralia/94... at 99.53%
+74	1701aa, >A/SouthAustralia/91... at 99.76%
+75	1701aa, >A/SouthAustralia/89... at 99.88%
+76	1701aa, >A/SouthAustralia/88... at 99.53%
+77	1701aa, >A/SouthAustralia/87... at 99.59%
+78	1701aa, >A/SouthAustralia/86... at 99.82%
+79	1701aa, >A/SouthAustralia/85... at 99.53%
+80	1701aa, >A/SouthAustralia/83... at 99.88%
+81	1701aa, >A/SouthAustralia/82... at 99.88%
+82	1701aa, >A/Sydney/1003/2017|... at 99.88%
+83	1701aa, >A/Sydney/84/2017|EP... at 99.59%
+84	1701aa, >A/Canberra/6/2017|E... at 99.65%
+85	1701aa, >A/Canberra/5/2017|E... at 99.53%
+86	1701aa, >A/SouthAustralia/69... at 99.59%
+87	1701aa, >A/SouthAustralia/81... at 99.76%
+88	1701aa, >A/SouthAustralia/77... at 99.59%
+89	1701aa, >A/SouthAustralia/68... at 99.94%
+90	1701aa, >A/SouthAustralia/79... at 99.88%
+91	1701aa, >A/SouthAustralia/66... at 99.76%
+92	1701aa, >A/SouthAustralia/64... at 99.94%
+93	1701aa, >A/SouthAustralia/60... at 99.94%
+94	1701aa, >A/Sydney/68/2017|EP... at 99.94%
+95	1701aa, >A/Sydney/62/2017|EP... at 99.88%
+96	1701aa, >A/Sydney/52/2017|EP... at 99.88%
+97	1701aa, >A/SouthAustralia/55... at 99.94%
+98	1701aa, >A/SouthAustralia/53... at 99.94%
+99	1701aa, >A/SouthAustralia/52... at 99.82%
+100	1701aa, >A/SouthAustralia/51... at 99.59%
+101	1701aa, >A/SouthAustralia/10... at 99.94%
+102	1701aa, >A/Perth/57/2017|EPI... at 99.94%
+103	1701aa, >A/Newcastle/19/2017... at 99.76%
+104	1701aa, >A/Brisbane/10/2017|... at 99.88%
+105	1701aa, >A/SouthAustralia/30... at 99.88%
+106	1701aa, >A/Victoria/1000/201... at 99.71%
+107	1701aa, >A/Newcastle/4/2017|... at 99.53%
+108	1701aa, >A/SouthAustralia/7/... at 99.94%
+109	1701aa, >A/SouthAustralia/2/... at 99.94%
+110	1701aa, >A/SouthAustralia/12... at 99.94%
+111	1701aa, >A/SouthAustralia/14... at 99.94%
+112	1701aa, >A/Sydney/60/2017|EP... at 99.82%
+113	1701aa, >A/SouthAustralia/62... at 99.94%
+114	1701aa, >A/SouthAustralia/59... at 99.59%
+115	1701aa, >A/SouthAustralia/54... at 99.94%
+116	1701aa, >A/Newcastle/30/2017... at 99.76%
+117	1701aa, >A/SouthAustralia/32... at 99.94%
+118	1701aa, >A/Victoria/2165/201... at 99.88%
+119	1701aa, >A/Perth/77/2016|EPI... at 100.00%
+120	1701aa, >A/Brisbane/319/2016... at 99.82%
+121	1701aa, >A/SouthAustralia/13... at 99.94%
+122	1701aa, >A/Victoria/150/2016... at 99.76%
+123	1701aa, >A/Victoria/667/2016... at 100.00%
+124	1701aa, >A/Brisbane/299/2016... at 99.59%
+125	1701aa, >A/Tasmania/186/2016... at 99.59%
+126	1701aa, >A/Victoria/110/2016... at 99.94%
+127	1701aa, >A/Victoria/128/2016... at 99.88%
+128	1701aa, >A/Newcastle/187/201... at 99.88%
+129	1701aa, >A/Sydney/246/2016|E... at 99.94%
+130	1701aa, >A/Victoria/2062/201... at 99.94%
+131	1701aa, >A/Newcastle/114/201... at 100.00%
+132	1701aa, >A/Sydney/1061/2016|... at 100.00%
+133	1701aa, >A/Sydney/1035/2016|... at 99.94%
+134	1701aa, >A/Perth/71/2016|EPI... at 100.00%
+135	1701aa, >A/Victoria/801/2016... at 99.94%
+136	1701aa, >A/SouthAustralia/10... at 99.59%
+137	1701aa, >A/SouthAustralia/10... at 99.76%
+138	1701aa, >A/SouthAustralia/10... at 99.76%
+139	1701aa, >A/SouthAustralia/10... at 99.65%
+140	1701aa, >A/SouthAustralia/10... at 99.65%
+141	1701aa, >A/SouthAustralia/10... at 99.76%
+142	1701aa, >A/SouthAustralia/10... at 99.59%
+143	1701aa, >A/Newcastle/1004/20... at 99.71%
+144	1701aa, >A/SouthAustralia/10... at 99.71%
+145	1701aa, >A/Newcastle/36/2017... at 99.71%
+146	1701aa, >A/Newcastle/35/2017... at 99.65%
+147	1701aa, >A/Perth/132/2016|EP... at 100.00%
+148	1701aa, >A/Victoria/512/2016... at 100.00%
+149	1701aa, >A/Newcastle/187/201... at 99.71%
+150	1701aa, >A/Victoria/718/2017... at 99.59%
+151	1701aa, >A/Victoria/683/2017... at 99.71%
+152	1701aa, >A/Victoria/2111/201... at 99.59%
+153	1701aa, >A/Brisbane/1064/201... at 99.76%
+154	1701aa, >A/Darwin/1014/2017|... at 99.71%
+155	1701aa, >A/Darwin/1012/2017|... at 99.71%
+156	1701aa, >A/Brisbane/1061/201... at 99.65%
+157	1701aa, >A/Sydney/1136/2017|... at 99.71%
+158	1701aa, >A/Newcastle/1003/20... at 99.82%
+159	1701aa, >A/Brisbane/1059/201... at 99.59%
+160	1701aa, >A/Tasmania/1019/201... at 99.82%
+161	1701aa, >A/Darwin/1011/2017|... at 99.65%
+162	1701aa, >A/Darwin/1010/2017|... at 99.53%
+163	1701aa, >A/SouthAustralia/10... at 99.65%
+164	1701aa, >A/Darwin/1009/2017|... at 99.59%
+165	1701aa, >A/SouthAustralia/10... at 99.59%
+166	1701aa, >A/Darwin/1008/2017|... at 99.71%
+167	1701aa, >A/Canberra/1010/201... at 99.59%
+168	1701aa, >A/Sydney/1126/2017|... at 99.71%
+169	1701aa, >A/Victoria/1022/201... at 99.82%
+170	1701aa, >A/Victoria/1021/201... at 99.82%
+171	1701aa, >A/Tasmania/1015/201... at 99.59%
+172	1701aa, >A/Sydney/1124/2017|... at 99.76%
+173	1701aa, >A/Brisbane/1044/201... at 99.82%
+174	1701aa, >A/Newcastle/1002/20... at 99.82%
+175	1701aa, >A/Sydney/1122/2017|... at 99.53%
+176	1701aa, >A/Sydney/1120/2017|... at 99.82%
+177	1701aa, >A/Tasmania/1014/201... at 99.59%
+178	1701aa, >A/Sydney/1118/2017|... at 99.71%
+179	1701aa, >A/Victoria/740/2017... at 99.53%
+180	1701aa, >A/Victoria/82/2017|... at 99.88%
+181	1701aa, >A/Victoria/2072/201... at 99.59%
+182	1701aa, >A/Victoria/2024/201... at 99.76%
+183	1701aa, >A/SouthAustralia/11... at 99.82%
+184	1701aa, >A/Brisbane/299/2016... at 99.59%
+185	1701aa, >A/Victoria/150/2016... at 99.76%
+186	1701aa, >A/Sydney/1101/2017|... at 99.65%
+187	1701aa, >A/Victoria/211/2017... at 99.59%
+188	1701aa, >A/Victoria/697/2017... at 99.59%
+189	1701aa, >A/Canberra/26/2017|... at 99.76%
+190	1701aa, >A/Victoria/621/2017... at 99.82%
+191	1701aa, >A/SouthAustralia/90... at 99.53%
+192	1701aa, >A/SouthAustralia/14... at 99.53%
+193	1701aa, >A/Sydney/81/2017|EP... at 99.82%
+194	1701aa, >A/Perth/57/2017|EPI... at 99.94%
+195	1701aa, >A/Sydney/1032/2017|... at 99.65%
+196	1701aa, >A/Tasmania/32/2017|... at 99.53%
+197	1701aa, >A/Tasmania/30/2017|... at 99.65%
+198	1701aa, >A/Tasmania/31/2017|... at 99.76%
+199	1701aa, >A/Victoria/582/2017... at 99.53%
+200	1701aa, >A/Victoria/548/2017... at 99.65%
+201	1701aa, >A/Victoria/547/2017... at 99.71%
+202	1701aa, >A/Victoria/546/2017... at 99.82%
+203	1701aa, >A/Victoria/566/2017... at 99.65%
+204	1701aa, >A/Tasmania/37/2017|... at 99.53%
+205	1701aa, >A/Tasmania/33/2017|... at 99.71%
+206	1701aa, >A/Victoria/538/2017... at 99.65%
+207	1701aa, >A/Victoria/530/2017... at 99.71%
+208	1701aa, >A/Victoria/2087/201... at 99.76%
+209	1701aa, >A/Victoria/2081/201... at 99.88%
+210	1701aa, >A/Victoria/2062/201... at 99.88%
+211	1701aa, >A/Victoria/655/2017... at 99.53%
+212	1701aa, >A/Victoria/2069/201... at 99.65%
+213	1701aa, >A/Tasmania/54/2017|... at 99.76%
+214	1701aa, >A/Tasmania/50/2017|... at 99.76%
+215	1701aa, >A/Tasmania/48/2017|... at 99.82%
+216	1701aa, >A/Brisbane/125/2017... at 99.76%
+217	1701aa, >A/Canberra/51/2017|... at 99.71%
+218	1701aa, >A/Victoria/653/2017... at 99.65%
+219	1701aa, >A/Victoria/643/2017... at 99.76%
+220	1701aa, >A/Victoria/631/2017... at 99.71%
+221	1701aa, >A/Victoria/626/2017... at 99.71%
+222	1701aa, >A/Sydney/165/2017|E... at 99.76%
+223	1701aa, >A/Sydney/164/2017|E... at 99.82%
+224	1701aa, >A/Victoria/624/2017... at 99.53%
+225	1701aa, >A/Victoria/646/2017... at 99.53%
+226	1701aa, >A/Brisbane/1017/201... at 99.59%
+227	1701aa, >A/Canberra/1001/201... at 99.71%
+228	1701aa, >A/Sydney/1079/2017|... at 99.53%
+229	1701aa, >A/Sydney/1062/2017|... at 99.82%
+230	1701aa, >A/Sydney/1060/2017|... at 99.82%
+231	1701aa, >A/Sydney/1057/2017|... at 99.71%
+232	1701aa, >A/Sydney/1049/2017|... at 99.59%
+233	1701aa, >A/Sydney/1058/2017|... at 99.82%
+234	1701aa, >A/Townsville/1006/2... at 99.65%
+235	1701aa, >A/Victoria/619/2017... at 99.76%
+236	1701aa, >A/Victoria/594/2017... at 99.53%
+237	1701aa, >A/Victoria/593/2017... at 99.53%
+238	1701aa, >A/Victoria/49/2017|... at 99.76%
+239	1701aa, >A/Victoria/32/2017|... at 99.71%
+240	1701aa, >A/Victoria/29/2017|... at 99.88%
+241	1701aa, >A/Victoria/2055/201... at 99.76%
+242	1701aa, >A/Victoria/2052/201... at 99.59%
+243	1701aa, >A/Victoria/2034/201... at 99.76%
+244	1701aa, >A/Victoria/1008/201... at 99.65%
+245	1701aa, >A/Tasmania/15/2017|... at 99.76%
+246	1701aa, >A/Tasmania/13/2017|... at 99.76%
+247	1701aa, >A/Tasmania/12/2017|... at 99.71%
+248	1701aa, >A/Tasmania/1000/201... at 99.82%
+249	1701aa, >A/Tasmania/10/2017|... at 99.71%
+250	1701aa, >A/Sydney/1030/2017|... at 99.76%
+251	1701aa, >A/SouthAustralia/22... at 99.71%
+252	1701aa, >A/Perth/94/2017|EPI... at 99.71%
+253	1701aa, >A/Perth/117/2017|EP... at 99.76%
+254	1701aa, >A/Victoria/612/2017... at 99.53%
+255	1701aa, >A/Victoria/596/2017... at 99.53%
+256	1701aa, >A/Perth/110/2017|EP... at 99.71%
+257	1701aa, >A/Tasmania/38/2017|... at 99.76%
+258	1701aa, >A/Victoria/56/2017|... at 99.76%
+259	1701aa, >A/Victoria/33/2017|... at 99.76%
+260	1701aa, >A/Tasmania/26/2017|... at 99.82%
+261	1701aa, >A/Tasmania/25/2017|... at 99.76%
+262	1701aa, >A/Tasmania/23/2017|... at 99.82%
+263	1701aa, >A/SouthAustralia/20... at 99.65%
+264	1701aa, >A/SouthAustralia/20... at 99.53%
+265	1701aa, >A/Victoria/58/2017|... at 99.82%
+266	1701aa, >A/Tasmania/17/2017|... at 99.71%
+267	1701aa, >A/Victoria/1005/201... at 99.88%
+268	1701aa, >A/Canberra/20/2017|... at 99.65%
+269	1701aa, >A/Victoria/753/2018... at 99.53%
+270	1701aa, >A/Newcastle/105/201... at 99.53%
+271	1701aa, >A/Newcastle/83/2018... at 99.53%
+272	1701aa, >A/Newcastle/82/2018... at 99.53%
+273	1701aa, >A/Canberra/345/2018... at 99.53%
+274	1701aa, >A/SouthAustralia/11... at 99.53%
+275	1701aa, >A/SouthAustralia/75... at 99.53%
+276	1701aa, >A/Newcastle/55/2018... at 99.76%
+277	1701aa, >A/SouthAustralia/10... at 99.53%
+278	1701aa, >A/Perth/1029/2018|E... at 99.53%
+279	1701aa, >A/SouthAustralia/10... at 99.53%
+280	1701aa, >A/Sydney/166/2018|E... at 99.53%
+281	1701aa, >A/Sydney/161/2018|E... at 99.53%
+282	1701aa, >A/Victoria/38/2018|... at 99.53%
+283	1701aa, >A/Townsville/39/201... at 99.53%
+284	1701aa, >A/Victoria/718/2018... at 99.59%
+285	1701aa, >A/Sydney/121/2018|E... at 99.59%
+286	1701aa, >A/Victoria/2038/201... at 99.59%
+287	1701aa, >A/SouthAustralia/28... at 99.53%
+288	1701aa, >A/Victoria/17/2018|... at 99.53%
+289	1701aa, >A/Brisbane/115/2018... at 99.53%
+290	1701aa, >A/Brisbane/104/2018... at 99.53%
+291	1701aa, >A/Perth/16/2018|EPI... at 99.65%
+292	1701aa, >A/SouthAustralia/12... at 99.59%
+293	1701aa, >A/Newcastle/17/2018... at 99.59%
+294	1701aa, >A/Newcastle/15/2018... at 99.76%
+295	1701aa, >A/Brisbane/60/2018|... at 99.59%
+296	1701aa, >A/Brisbane/29/2018|... at 99.65%
+297	1701aa, >A/Brisbane/31/2018|... at 99.59%
+298	1701aa, >A/Darwin/1000/2018|... at 99.65%
+299	1701aa, >A/Canberra/1000/201... at 99.65%
+300	1701aa, >A/Darwin/1001/2018|... at 99.65%
+301	1701aa, >A/Darwin/1006/2018|... at 99.71%
+302	1701aa, >A/Darwin/1004/2018|... at 99.71%
+303	1701aa, >A/SouthAustralia/1/... at 99.71%
+304	1701aa, >A/SouthAustralia/7/... at 99.53%
+305	1701aa, >A/Sydney/20/2018|EP... at 99.65%
+306	1701aa, >A/Brisbane/44/2018|... at 99.59%
+307	1701aa, >A/Brisbane/42/2018|... at 99.59%
+308	1701aa, >A/Sydney/22/2018|EP... at 99.53%
+309	1701aa, >A/Darwin/1007/2018|... at 99.65%
+310	1701aa, >A/SouthAustralia/10... at 99.65%
+311	1701aa, >A/SouthAustralia/10... at 99.65%
+312	1701aa, >A/Brisbane/1091/201... at 99.59%
+313	1701aa, >A/Victoria/1039/201... at 99.71%
+314	1701aa, >A/Victoria/1038/201... at 99.71%
+315	1701aa, >A/Brisbane/1088/201... at 99.82%
+316	1701aa, >A/Sydney/1187/2017|... at 99.71%
+317	1701aa, >A/SouthAustralia/10... at 99.71%
+318	1701aa, >A/SouthAustralia/10... at 99.76%
+319	1701aa, >A/Sydney/1185/2017|... at 99.53%
+320	1701aa, >A/Victoria/236/2017... at 99.82%
+321	1701aa, >A/Victoria/235/2017... at 99.65%
+322	1701aa, >A/Victoria/234/2017... at 99.65%
+323	1701aa, >A/Perth/294/2017|EP... at 99.71%
+324	1701aa, >A/Perth/262/2017|EP... at 99.59%
+325	1701aa, >A/Victoria/173/2017... at 99.82%
+326	1701aa, >A/Victoria/172/2017... at 99.71%
+327	1701aa, >A/Victoria/143/2017... at 99.76%
+328	1701aa, >A/Victoria/103/2017... at 99.59%
+329	1701aa, >A/Victoria/137/2017... at 99.76%
+330	1701aa, >A/Victoria/136/2017... at 99.76%
+331	1701aa, >A/Victoria/124/2017... at 99.76%
+332	1701aa, >A/Victoria/114/2017... at 99.65%
+333	1701aa, >A/Victoria/92/2017|... at 99.82%
+334	1701aa, >A/Perth/143/2017|EP... at 99.71%
+335	1701aa, >A/Brisbane/1033/201... at 99.71%
+336	1701aa, >A/Sydney/1108/2017|... at 99.71%
+337	1701aa, >A/Sydney/1107/2017|... at 99.76%
+338	1701aa, >A/Perth/149/2017|EP... at 99.71%
+339	1701aa, >A/Sydney/1103/2017|... at 99.76%
+340	1701aa, >A/Brisbane/207/2017... at 99.53%
+341	1701aa, >A/SouthAustralia/26... at 99.76%
+342	1701aa, >A/Victoria/946/2017... at 99.65%
+343	1701aa, >A/Perth/2/2018|EPI_... at 99.76%
+344	1701aa, >A/Brisbane/204/2017... at 99.82%
+345	1701aa, >A/Brisbane/199/2017... at 99.71%
+346	1701aa, >A/Brisbane/198/2017... at 99.65%
+347	1701aa, >A/Brisbane/197/2017... at 99.65%
+348	1701aa, >A/Sydney/13/2018|EP... at 99.71%
+349	1701aa, >A/Sydney/12/2018|EP... at 99.65%
+350	1701aa, >A/Sydney/8/2018|EPI... at 99.71%
+351	1701aa, >A/Sydney/5/2018|EPI... at 99.71%
+352	1701aa, >A/Brisbane/22/2018|... at 99.59%
+353	1701aa, >A/Brisbane/14/2018|... at 99.59%
+354	1701aa, >A/Brisbane/13/2018|... at 99.53%
+355	1701aa, >A/Brisbane/07/2018|... at 99.53%
+356	1701aa, >A/Newcastle/4/2018|... at 99.71%
+357	1701aa, >A/Newcastle/207/201... at 99.59%
+358	1701aa, >A/Sydney/543/2017|E... at 99.59%
+359	1701aa, >A/Brisbane/1099/201... at 99.76%
+360	1701aa, >A/Sydney/236/2017|E... at 99.82%
+361	1701aa, >A/Townsville/18/201... at 99.59%
+362	1701aa, >A/Darwin/1022/2017|... at 99.59%
+363	1701aa, >A/Brisbane/1097/201... at 99.65%
+364	1701aa, >A/SouthAustralia/10... at 99.76%
+365	1701aa, >A/Sydney/1199/2017|... at 99.71%
+366	1701aa, >A/Sydney/235/2017|E... at 99.82%
+367	1701aa, >A/Brisbane/1094/201... at 99.65%
+368	1701aa, >A/Perth/330/2017|EP... at 99.71%
+369	1701aa, >A/Perth/329/2017|EP... at 99.65%
+370	1701aa, >A/Victoria/899/2017... at 99.53%
+371	1701aa, >A/Perth/285/2017|EP... at 99.59%
+372	1701aa, >A/Perth/331/2017|EP... at 99.59%
+373	1701aa, >A/Perth/325/2017|EP... at 99.76%
+374	1701aa, >A/Perth/333/2017|EP... at 99.53%
+375	1701aa, >A/Perth/322/2017|EP... at 99.59%
+376	1701aa, >A/Brisbane/1096/201... at 99.65%
+377	1701aa, >A/Brisbane/187/2017... at 99.59%
+378	1701aa, >A/Brisbane/185/2017... at 99.59%
+379	1701aa, >A/Tasmania/75/2017|... at 99.76%
+380	1701aa, >A/Tasmania/69/2017|... at 99.59%
+381	1701aa, >A/SouthAustralia/26... at 99.76%
+382	1701aa, >A/SouthAustralia/25... at 99.82%
+383	1701aa, >A/Victoria/186/2017... at 99.59%
+384	1701aa, >A/Victoria/185/2017... at 99.82%
+385	1701aa, >A/Victoria/182/2017... at 99.59%
+386	1701aa, >A/Victoria/180/2017... at 99.65%
+387	1701aa, >A/Victoria/233/2017... at 99.71%
+388	1701aa, >A/Victoria/222/2017... at 99.82%
+389	1701aa, >A/Victoria/634/2017... at 99.71%
+390	1701aa, >A/Victoria/206/2017... at 99.76%
+391	1701aa, >A/Victoria/205/2017... at 99.76%
+392	1701aa, >A/Tasmania/64/2017|... at 99.76%
+393	1701aa, >A/Tasmania/62/2017|... at 99.76%
+394	1701aa, >A/Perth/303/2017|EP... at 99.65%
+395	1701aa, >A/Perth/240/2017|EP... at 99.71%
+396	1701aa, >A/Victoria/871/2017... at 99.53%
+397	1701aa, >A/Victoria/217/2017... at 99.65%
+398	1701aa, >A/Victoria/218/2017... at 99.59%
+399	1701aa, >A/Canberra/73/2017|... at 99.82%
+400	1701aa, >A/Canberra/68/2017|... at 99.71%
+401	1701aa, >A/SouthAustralia/25... at 99.76%
+402	1701aa, >A/SouthAustralia/25... at 99.71%
+403	1701aa, >A/SouthAustralia/25... at 99.82%
+404	1701aa, >A/SouthAustralia/24... at 99.71%
+405	1701aa, >A/SouthAustralia/24... at 99.76%
+406	1701aa, >A/Victoria/883/2017... at 99.71%
+407	1701aa, >A/Tasmania/66/2017|... at 99.76%
+408	1701aa, >A/Canberra/75/2017|... at 99.71%
+409	1701aa, >A/Victoria/863/2017... at 99.71%
+410	1701aa, >A/Victoria/861/2017... at 99.71%
+411	1701aa, >A/Victoria/858/2017... at 99.71%
+412	1701aa, >A/Victoria/853/2017... at 99.82%
+413	1701aa, >A/Victoria/851/2017... at 99.76%
+414	1701aa, >A/Victoria/830/2017... at 99.76%
+415	1701aa, >A/Victoria/870/2017... at 99.65%
+416	1701aa, >A/Victoria/856/2017... at 99.59%
+417	1701aa, >A/Victoria/852/2017... at 99.76%
+418	1701aa, >A/Victoria/845/2017... at 99.76%
+419	1701aa, >A/Victoria/842/2017... at 99.65%
+420	1701aa, >A/Victoria/686/2017... at 99.71%
+421	1701aa, >A/Victoria/655/2017... at 99.53%
+422	1701aa, >A/Victoria/653/2017... at 99.65%
+423	1701aa, >A/Victoria/624/2017... at 99.53%
+424	1701aa, >A/Victoria/157/2017... at 99.82%
+425	1701aa, >A/Victoria/740/2017... at 99.53%
+426	1701aa, >A/Victoria/745/2017... at 99.59%
+427	1701aa, >A/Victoria/2162/201... at 99.71%
+428	1701aa, >A/SouthAustralia/24... at 99.59%
+429	1701aa, >A/Victoria/189/2017... at 99.71%
+>Cluster 2
+0	1701aa, >A/Newcastle/67/2016... *
+1	1701aa, >A/Newcastle/53/2016... at 99.71%
+2	1701aa, >A/Victoria/2031/201... at 99.71%
+3	1701aa, >A/SouthAustralia/41... at 99.65%
+4	1701aa, >A/Sydney/142/2016|E... at 100.00%
+5	1701aa, >A/Victoria/508/2016... at 99.94%
+6	1701aa, >A/Brisbane/7/2017|E... at 99.65%
+7	1701aa, >A/Brisbane/5/2017|E... at 99.71%
+8	1701aa, >A/Tasmania/1002/201... at 99.65%
+9	1701aa, >A/Victoria/2031/201... at 99.71%
+10	1701aa, >A/Victoria/139/2016... at 99.76%
+11	1701aa, >A/Perth/127/2016|EP... at 99.82%
+12	1701aa, >A/Perth/0109/2016|E... at 99.53%
+13	1701aa, >A/Townsville/48/201... at 99.71%
+14	1701aa, >A/Brisbane/309/2016... at 99.71%
+15	1701aa, >A/Brisbane/304/2016... at 99.71%
+16	1701aa, >A/Townsville/45/201... at 99.59%
+17	1701aa, >A/Brisbane/260/2016... at 99.71%
+18	1701aa, >A/Brisbane/317/2016... at 99.82%
+19	1701aa, >A/Brisbane/320/2016... at 99.53%
+20	1701aa, >A/Townsville/50/201... at 99.65%
+21	1701aa, >A/Brisbane/315/2016... at 99.59%
+22	1701aa, >A/Townsville/49/201... at 99.59%
+23	1701aa, >A/Townsville/46/201... at 99.71%
+24	1701aa, >A/SouthAustralia/15... at 99.76%
+25	1701aa, >A/Brisbane/302/2016... at 99.76%
+26	1701aa, >A/Brisbane/301/2016... at 99.71%
+27	1701aa, >A/Townsville/44/201... at 99.71%
+28	1701aa, >A/Brisbane/293/2016... at 99.71%
+29	1701aa, >A/Brisbane/292/2016... at 99.71%
+30	1701aa, >A/Brisbane/280/2016... at 99.65%
+31	1701aa, >A/Townsville/43/201... at 99.71%
+32	1701aa, >A/Brisbane/281/2016... at 99.76%
+33	1701aa, >A/Townsville/41/201... at 99.82%
+34	1701aa, >A/SouthAustralia/13... at 99.71%
+35	1701aa, >A/Townsville/1003/2... at 99.71%
+36	1701aa, >A/Victoria/124/2016... at 99.82%
+37	1701aa, >A/Victoria/114/2016... at 99.82%
+38	1701aa, >A/Brisbane/291/2016... at 99.59%
+39	1701aa, >A/Victoria/669/2016... at 99.76%
+40	1701aa, >A/SouthAustralia/10... at 99.59%
+41	1701aa, >A/Sydney/1093/2016|... at 100.00%
+42	1701aa, >A/Brisbane/235/2016... at 99.71%
+43	1701aa, >A/Townsville/34/201... at 99.65%
+44	1701aa, >A/Brisbane/230/2016... at 99.82%
+45	1701aa, >A/Townsville/33/201... at 99.82%
+46	1701aa, >A/Townsville/32/201... at 99.82%
+47	1701aa, >A/Townsville/30/201... at 99.65%
+48	1701aa, >A/Victoria/828/2016... at 99.82%
+49	1701aa, >A/Victoria/140/2016... at 99.76%
+50	1701aa, >A/Tasmania/75/2016|... at 99.65%
+51	1701aa, >A/Tasmania/199/2016... at 99.65%
+52	1701aa, >A/Tasmania/141/2016... at 99.65%
+53	1701aa, >A/Sydney/1095/2016|... at 99.65%
+54	1701aa, >A/SouthAustralia/11... at 99.71%
+55	1701aa, >A/Newcastle/205/201... at 99.59%
+56	1701aa, >A/Newcastle/1004/20... at 99.71%
+57	1701aa, >A/Brisbane/265/2016... at 99.76%
+58	1701aa, >A/Brisbane/200/2016... at 99.71%
+59	1701aa, >A/Sydney/142/2016|E... at 99.88%
+60	1701aa, >A/SouthAustralia/54... at 99.53%
+61	1701aa, >A/SouthAustralia/54... at 99.53%
+62	1701aa, >A/Sydney/142/2016|E... at 100.00%
+63	1701aa, >A/Sydney/142/2016|E... at 100.00%
+64	1701aa, >A/Victoria/2049/201... at 99.65%
+65	1701aa, >A/Victoria/2080/201... at 99.71%
+66	1701aa, >A/Tasmania/1002/201... at 99.65%
+67	1701aa, >A/Tasmania/16/2016|... at 99.82%
+68	1701aa, >A/Tasmania/1003/201... at 99.65%
+69	1701aa, >A/Sydney/142/2016|E... at 99.82%
+70	1701aa, >A/SouthAustralia/54... at 99.53%
+71	1701aa, >A/Tasmania/21/2016|... at 99.88%
+72	1701aa, >A/Victoria/601/2016... at 99.65%
+73	1701aa, >A/Sydney/266/2016|E... at 99.71%
+74	1701aa, >A/Sydney/250/2016|E... at 99.71%
+75	1701aa, >A/Sydney/241/2016|E... at 99.65%
+76	1701aa, >A/Victoria/815/2016... at 99.76%
+77	1701aa, >A/Tasmania/58/2016|... at 99.65%
+78	1701aa, >A/Tasmania/39/2016|... at 99.71%
+79	1701aa, >A/Victoria/2083/201... at 99.82%
+80	1701aa, >A/Victoria/2077/201... at 99.88%
+81	1701aa, >A/Victoria/908/2016... at 99.82%
+82	1701aa, >A/Victoria/809/2016... at 99.82%
+83	1701aa, >A/Victoria/807/2016... at 99.71%
+84	1701aa, >A/Victoria/534/2016... at 99.94%
+85	1701aa, >A/Sydney/1045/2016|... at 99.82%
+86	1701aa, >A/Canberra/1003/201... at 99.76%
+87	1701aa, >A/Tasmania/1005/201... at 99.65%
+88	1701aa, >A/Victoria/62/2016|... at 99.82%
+89	1701aa, >A/Victoria/55/2016|... at 99.82%
+90	1701aa, >A/Perth/109/2016|EP... at 99.71%
+91	1701aa, >A/Perth/79/2016|EPI... at 99.71%
+92	1701aa, >A/Victoria/505/2016... at 99.82%
+93	1701aa, >A/Victoria/504/2016... at 99.82%
+94	1701aa, >A/Canberra/13/2016|... at 100.00%
+95	1701aa, >A/Victoria/539/2016... at 99.71%
+96	1701aa, >A/Perth/261/2016|EP... at 99.65%
+97	1701aa, >A/Perth/262/2016|EP... at 99.82%
+98	1701aa, >A/Perth/215/2016|EP... at 99.65%
+99	1701aa, >A/Perth/187/2016|EP... at 99.71%
+100	1701aa, >A/Perth/236/2016|EP... at 99.88%
+101	1701aa, >A/SouthAustralia/41... at 99.65%
+102	1701aa, >A/SouthAustralia/54... at 99.65%
+103	1701aa, >A/Canberra/13/2016|... at 100.00%
+104	1701aa, >A/Sydney/142/2016|E... at 100.00%
+105	1701aa, >A/Victoria/508/2016... at 99.94%
+106	1701aa, >A/Victoria/539/2016... at 99.71%
+107	1701aa, >A/Victoria/2049/201... at 99.71%
+108	1701aa, >A/Tasmania/21/2016|... at 99.88%
+109	1701aa, >A/Sydney/266/2016|E... at 99.71%
+110	1701aa, >A/SouthAustralia/11... at 99.76%
+111	1701aa, >A/SouthAustralia/10... at 99.59%
+112	1701aa, >A/Brisbane/200/2016... at 99.71%
+113	1701aa, >A/Tasmania/141/2016... at 99.65%
+114	1701aa, >A/Sydney/142/2016|E... at 100.00%
+115	1701aa, >A/Brisbane/291/2016... at 99.65%
+116	1701aa, >A/Townsville/1003/2... at 99.71%
+117	1701aa, >A/Brisbane/280/2016... at 99.65%
+118	1701aa, >A/Brisbane/302/2016... at 99.76%
+>Cluster 3
+0	1701aa, >A/Victoria/7/2016|E... *
+1	1701aa, >A/SouthAustralia/34... at 99.82%
+2	1701aa, >A/Sydney/20/2016|EP... at 99.82%
+3	1701aa, >A/Brisbane/30/2016|... at 99.76%
+4	1701aa, >A/Victoria/7/2016|E... at 100.00%
+5	1701aa, >A/Victoria/576/2016... at 99.71%
+6	1701aa, >A/Brisbane/122/2016... at 99.88%
+7	1701aa, >A/Brisbane/206/2016... at 99.76%
+8	1701aa, >A/Sydney/40/2016|EP... at 99.65%
+9	1701aa, >A/Victoria/37/2016|... at 99.82%
+10	1701aa, >A/Brisbane/30/2016|... at 99.76%
+11	1701aa, >A/SouthAustralia/34... at 99.82%
+12	1701aa, >A/Brisbane/122/2016... at 99.88%
+13	1701aa, >A/Victoria/576/2016... at 99.71%
+>Cluster 4
+0	1701aa, >A/SouthAustralia/39... *
+1	1701aa, >A/SouthAustralia/39... at 100.00%
+2	1701aa, >A/SouthAustralia/39... at 100.00%
+>Cluster 5
+0	1701aa, >A/Newcastle/43/2016... *
+1	1701aa, >A/Canberra/5/2016|E... at 99.94%
+2	1701aa, >A/Victoria/2071/201... at 99.71%
+3	1701aa, >A/Sydney/199/2015|E... at 99.65%
+4	1701aa, >A/Brisbane/1009/201... at 99.76%
+5	1701aa, >A/SouthAustralia/13... at 99.53%
+6	1701aa, >A/Victoria/1011/201... at 99.65%
+7	1701aa, >A/Brisbane/1006/201... at 99.76%
+8	1701aa, >A/SouthAustralia/10... at 99.53%
+9	1701aa, >A/SouthAustralia/10... at 99.53%
+10	1701aa, >A/Victoria/43/2015|... at 99.71%
+11	1701aa, >A/Victoria/42/2015|... at 99.65%
+12	1701aa, >A/Sydney/1034/2015|... at 99.71%
+13	1701aa, >A/SouthAustralia/10... at 99.53%
+14	1701aa, >A/Victoria/39/2015|... at 99.65%
+15	1701aa, >A/Brisbane/1008/201... at 99.53%
+16	1701aa, >A/Sydney/1015/2015|... at 99.71%
+17	1701aa, >A/Tasmania/1015/201... at 99.59%
+18	1701aa, >A/Sydney/1011/2015|... at 99.59%
+19	1701aa, >A/Sydney/1026/2015|... at 99.71%
+20	1701aa, >A/Perth/116/2015|EP... at 99.53%
+21	1701aa, >A/Perth/113/2015|EP... at 99.59%
+22	1701aa, >A/Perth/101/2015|EP... at 99.53%
+23	1701aa, >A/Perth/74/2015|EPI... at 99.59%
+24	1701aa, >A/Victoria/30/2015|... at 99.71%
+25	1701aa, >A/Victoria/21/2015|... at 99.71%
+26	1701aa, >A/SouthAustralia/10... at 99.53%
+27	1701aa, >A/Brisbane/1001/201... at 99.76%
+28	1701aa, >A/Sydney/1031/2015|... at 99.76%
+29	1701aa, >A/Sydney/1028/2015|... at 99.71%
+30	1701aa, >A/Brisbane/1005/201... at 99.71%
+31	1701aa, >A/SouthAustralia/10... at 99.53%
+32	1701aa, >A/Perth/48/2015|EPI... at 99.76%
+33	1701aa, >A/Brisbane/82/2015|... at 99.59%
+34	1701aa, >A/Brisbane/82/2015|... at 99.59%
+35	1701aa, >A/Brisbane/82/2015|... at 99.59%
+36	1701aa, >A/Victoria/835/2015... at 99.71%
+37	1701aa, >A/Townsville/17/201... at 99.71%
+38	1701aa, >A/Brisbane/133/2015... at 99.76%
+39	1701aa, >A/Brisbane/132/2015... at 99.53%
+40	1701aa, >A/Brisbane/130/2015... at 99.71%
+41	1701aa, >A/Victoria/528/2015... at 99.53%
+42	1701aa, >A/Victoria/512/2015... at 99.53%
+43	1701aa, >A/SouthAustralia/80... at 99.53%
+44	1701aa, >A/SouthAustralia/78... at 99.53%
+45	1701aa, >A/Brisbane/116/2015... at 99.71%
+46	1701aa, >A/Victoria/11/2015|... at 99.88%
+47	1701aa, >A/Perth/40/2015|EPI... at 99.59%
+48	1701aa, >A/Brisbane/80/2015|... at 99.53%
+49	1701aa, >A/SouthAustralia/54... at 99.53%
+50	1701aa, >A/Victoria/509/2015... at 99.65%
+51	1701aa, >A/Townsville/14/201... at 99.71%
+52	1701aa, >A/Sydney/19/2015|EP... at 99.65%
+53	1701aa, >A/Townsville/11/201... at 99.59%
+54	1701aa, >A/Victoria/2010/201... at 99.53%
+55	1701aa, >A/Brisbane/43/2015|... at 99.59%
+56	1701aa, >A/Townsville/8/2015... at 99.53%
+57	1701aa, >A/Sydney/501/2015|E... at 99.76%
+58	1701aa, >A/Sydney/506/2015|E... at 99.53%
+59	1701aa, >A/SouthAustralia/37... at 99.65%
+60	1701aa, >A/Sydney/500/2015|E... at 99.65%
+61	1701aa, >A/Tasmania/2/2015|E... at 99.59%
+62	1701aa, >A/Perth/1055/2014|E... at 99.65%
+63	1701aa, >A/Sydney/505/2015|E... at 99.82%
+64	1701aa, >A/Sydney/509/2015|E... at 99.53%
+65	1701aa, >A/Sydney/507/2015|E... at 99.53%
+66	1701aa, >A/Sydney/502/2015|E... at 99.53%
+67	1701aa, >A/SouthAustralia/73... at 99.53%
+68	1701aa, >A/SouthAustralia/10... at 99.53%
+69	1701aa, >A/Newcastle/9/2015|... at 99.53%
+70	1701aa, >A/Brisbane/97/2015|... at 99.65%
+71	1701aa, >A/Brisbane/82/2015|... at 99.59%
+72	1701aa, >A/Brisbane/71/2015|... at 99.59%
+73	1701aa, >A/Victoria/5003/201... at 99.53%
+74	1701aa, >A/Sydney/4/2015|EPI... at 99.65%
+75	1701aa, >A/Sydney/14/2015|EP... at 99.53%
+76	1701aa, >A/Sydney/10/2015|EP... at 99.53%
+77	1701aa, >A/SouthAustralia/2/... at 99.53%
+78	1701aa, >A/SouthAustralia/14... at 99.76%
+79	1701aa, >A/Perth/1055/2014|E... at 99.65%
+80	1701aa, >A/Victoria/944/2014... at 99.59%
+81	1701aa, >A/Brisbane/341/2014... at 99.53%
+82	1701aa, >A/SOUTHAUSTRALIA/44... at 99.65%
+83	1701aa, >A/VICTORIA/2131/201... at 99.53%
+84	1701aa, >A/VICTORIA/5060/201... at 99.53%
+85	1701aa, >A/VICTORIA/265/2014... at 99.59%
+86	1701aa, >A/SYDNEY/117/2014|E... at 99.53%
+87	1701aa, >A/CANBERRA/82/2014|... at 99.71%
+88	1701aa, >A/CANBERRA/31/2014|... at 99.53%
+89	1701aa, >A/Sydney/71/2014|EP... at 99.59%
+90	1701aa, >A/Sydney/71/2014|EP... at 99.59%
+91	1701aa, >A/PERTH/515/2014|EP... at 99.53%
+92	1701aa, >A/BRISBANE/100/2014... at 99.53%
+93	1701aa, >A/BRISBANE/47/2014|... at 99.53%
+94	1701aa, >A/Sydney/20/2014|EP... at 99.59%
+95	1701aa, >A/SYDNEY/71/2014|EP... at 99.59%
+96	1701aa, >A/SouthAustralia/63... at 99.82%
+97	1701aa, >A/SouthAustralia/13... at 99.53%
+98	1701aa, >A/SouthAustralia/10... at 99.82%
+99	1701aa, >A/Victoria/73/2016|... at 99.82%
+100	1701aa, >A/Townsville/38/201... at 99.76%
+101	1701aa, >A/SouthAustralia/91... at 99.82%
+102	1701aa, >A/SouthAustralia/90... at 99.82%
+103	1701aa, >A/Brisbane/68/2016|... at 99.71%
+104	1701aa, >A/Brisbane/1008/201... at 99.65%
+105	1701aa, >A/Brisbane/77/2016|... at 99.71%
+106	1701aa, >A/Canberra/5/2016|E... at 99.94%
+107	1701aa, >A/Brisbane/68/2016|... at 99.71%
+108	1701aa, >A/SouthAustralia/27... at 99.59%
+109	1701aa, >A/SouthAustralia/90... at 99.82%
+110	1701aa, >A/Brisbane/1008/201... at 99.65%
+111	1701aa, >A/SouthAustralia/10... at 99.82%
+112	1701aa, >A/SouthAustralia/13... at 99.53%
+113	1701aa, >A/Sydney/20/2014|EP... at 99.59%
+114	1701aa, >A/Sydney/71/2014|EP... at 99.59%
+115	1701aa, >A/Brisbane/100/2014... at 99.53%
+116	1701aa, >A/Perth/526/2014|EP... at 99.65%
+117	1701aa, >A/Canberra/82/2014|... at 99.71%
+118	1701aa, >A/Canberra/31/2014|... at 99.65%
+119	1701aa, >A/Victoria/265/2014... at 99.59%
+120	1701aa, >A/Victoria/5060/201... at 99.53%
+121	1701aa, >A/Victoria/5003/201... at 99.53%
+122	1701aa, >A/Brisbane/341/2014... at 99.53%
+123	1701aa, >A/Perth/1055/2014|E... at 99.65%
+124	1701aa, >A/Sydney/4/2015|EPI... at 99.65%
+125	1701aa, >A/Tasmania/2/2015|E... at 99.59%
+126	1701aa, >A/Sydney/500/2015|E... at 99.65%
+127	1701aa, >A/Sydney/10/2015|EP... at 99.53%
+128	1701aa, >A/Townsville/8/2015... at 99.53%
+129	1701aa, >A/SouthAustralia/37... at 99.65%
+130	1701aa, >A/Victoria/509/2015... at 99.65%
+131	1701aa, >A/Brisbane/43/2015|... at 99.59%
+132	1701aa, >A/Canberra/13/2015|... at 99.53%
+133	1701aa, >A/Brisbane/82/2015|... at 99.59%
+134	1701aa, >A/Brisbane/71/2015|... at 99.59%
+135	1701aa, >A/Perth/40/2015|EPI... at 99.59%
+136	1701aa, >A/Victoria/11/2015|... at 99.88%
+137	1701aa, >A/Victoria/7/2015|E... at 99.59%
+138	1701aa, >A/Victoria/4/2015|E... at 99.53%
+139	1701aa, >A/SouthAustralia/10... at 99.53%
+140	1701aa, >A/Victoria/5/2015|E... at 99.53%
+141	1701aa, >A/Newcastle/14/2015... at 99.53%
+142	1701aa, >A/Victoria/528/2015... at 99.53%
+143	1701aa, >A/Brisbane/132/2015... at 99.53%
+144	1701aa, >A/Brisbane/130/2015... at 99.71%
+145	1701aa, >A/Victoria/862/2015... at 99.76%
+146	1701aa, >A/Victoria/835/2015... at 99.71%
+147	1701aa, >A/Sydney/54/2015|EP... at 99.53%
+148	1701aa, >A/Perth/50/2015|EPI... at 99.59%
+149	1701aa, >A/Sydney/1028/2015|... at 99.71%
+150	1701aa, >A/Brisbane/1005/201... at 99.71%
+151	1701aa, >A/Perth/113/2015|EP... at 99.59%
+152	1701aa, >A/Perth/97/2015|EPI... at 99.65%
+153	1701aa, >A/Perth/69/2015|EPI... at 99.53%
+154	1701aa, >A/Victoria/21/2015|... at 99.71%
+155	1701aa, >A/Tasmania/1015/201... at 99.59%
+156	1701aa, >A/Sydney/1011/2015|... at 99.59%
+157	1701aa, >A/Perth/116/2015|EP... at 99.53%
+158	1701aa, >A/Victoria/43/2015|... at 99.71%
+159	1701aa, >A/Sydney/1034/2015|... at 99.71%
+160	1701aa, >A/Victoria/3079/201... at 99.71%
+161	1701aa, >A/Victoria/3072/201... at 99.65%
+162	1701aa, >A/Brisbane/1009/201... at 99.76%
+163	1701aa, >A/SouthAustralia/10... at 99.53%
+164	1701aa, >A/Perth/92/2015|EPI... at 99.59%
+165	1701aa, >A/Brisbane/171/2015... at 99.59%
+166	1701aa, >A/Townsville/29/201... at 99.59%
+167	1701aa, >A/Brisbane/172/2015... at 99.65%
+168	1701aa, >A/Brisbane/174/2015... at 99.53%
+169	1701aa, >A/Victoria/64/2015|... at 99.65%
+170	1701aa, >A/Sydney/1042/2015|... at 99.65%
+171	1701aa, >A/Sydney/1043/2015|... at 99.59%
+172	1701aa, >A/Sydney/223/2015|E... at 99.53%
+173	1701aa, >A/Townsville/32/201... at 99.65%
+174	1701aa, >A/Sydney/225/2015|E... at 99.59%
+175	1701aa, >A/Sydney/224/2015|E... at 99.59%
+176	1701aa, >A/Townsville/37/201... at 99.53%
+177	1701aa, >A/Brisbane/188/2015... at 99.53%
+>Cluster 6
+0	1701aa, >A/Brisbane/6/2016|E... *
+1	1701aa, >A/Canberra/101/2015... at 99.76%
+2	1701aa, >A/SouthAustralia/13... at 99.82%
+3	1701aa, >A/SouthAustralia/13... at 99.82%
+4	1701aa, >A/SouthAustralia/12... at 99.82%
+5	1701aa, >A/SouthAustralia/10... at 99.82%
+6	1701aa, >A/SouthAustralia/10... at 99.76%
+7	1701aa, >A/SouthAustralia/10... at 99.76%
+8	1701aa, >A/SouthAustralia/10... at 99.82%
+9	1701aa, >A/SouthAustralia/10... at 99.82%
+10	1701aa, >A/Sydney/1024/2015|... at 99.65%
+11	1701aa, >A/SouthAustralia/10... at 99.82%
+12	1701aa, >A/SouthAustralia/10... at 99.82%
+13	1701aa, >A/Victoria/33/2015|... at 99.82%
+14	1701aa, >A/Victoria/28/2015|... at 99.65%
+15	1701aa, >A/Victoria/17/2015|... at 99.65%
+16	1701aa, >A/Victoria/639/2015... at 99.76%
+17	1701aa, >A/Sydney/145/2015|E... at 99.82%
+18	1701aa, >A/SouthAustralia/10... at 99.82%
+19	1701aa, >A/SouthAustralia/10... at 99.82%
+20	1701aa, >A/Victoria/823/2015... at 99.59%
+21	1701aa, >A/Victoria/524/2015... at 99.71%
+22	1701aa, >A/Victoria/519/2015... at 99.71%
+23	1701aa, >A/SouthAustralia/76... at 99.82%
+24	1701aa, >A/Victoria/803/2015... at 99.82%
+25	1701aa, >A/Canberra/101/2015... at 99.76%
+26	1701aa, >A/Newcastle/64/2015... at 99.71%
+27	1701aa, >A/SouthAustralia/31... at 99.59%
+28	1701aa, >A/Victoria/803/2015... at 99.82%
+29	1701aa, >A/SouthAustralia/79... at 99.76%
+30	1701aa, >A/Victoria/519/2015... at 99.76%
+31	1701aa, >A/Victoria/853/2015... at 99.53%
+32	1701aa, >A/Victoria/837/2015... at 99.53%
+33	1701aa, >A/SouthAustralia/10... at 99.82%
+34	1701aa, >A/Victoria/17/2015|... at 99.65%
+35	1701aa, >A/SouthAustralia/10... at 99.82%
+36	1701aa, >A/SouthAustralia/10... at 99.76%
+37	1701aa, >A/Victoria/3070/201... at 99.82%
+38	1701aa, >A/SouthAustralia/10... at 99.82%
+39	1701aa, >A/Sydney/1024/2015|... at 99.65%
+40	1701aa, >A/Victoria/3036/201... at 99.82%
+41	1701aa, >A/Victoria/3085/201... at 99.76%
+42	1701aa, >A/Victoria/3100/201... at 99.65%
+43	1701aa, >A/SouthAustralia/13... at 99.82%
+44	1701aa, >A/SouthAustralia/13... at 99.82%
+45	1701aa, >A/SouthAustralia/14... at 99.82%
+46	1701aa, >A/Victoria/55/2015|... at 99.71%
+47	1701aa, >A/SouthAustralia/13... at 99.65%
+48	1701aa, >A/SouthAustralia/16... at 99.82%
+49	1701aa, >A/SouthAustralia/16... at 99.82%
+50	1701aa, >A/Darwin/1000/2015|... at 99.71%
+51	1701aa, >A/Brisbane/179/2015... at 99.76%
+52	1701aa, >A/SouthAustralia/16... at 99.76%
+53	1701aa, >A/SouthAustralia/10... at 99.71%
+>Cluster 7
+0	1701aa, >A/SouthAustralia/9/... *
+1	1701aa, >A/SouthAustralia/9/... at 99.76%
+2	1701aa, >A/SOUTHAUSTRALIA/9/... at 99.94%
+3	1701aa, >A/SouthAustralia/09... at 99.88%
+4	1701aa, >A/SouthAustralia/9/... at 99.94%
+5	1701aa, >A/SouthAustralia/9/... at 99.53%
+6	1701aa, >A/SouthAustralia/9/... at 99.53%
+>Cluster 8
+0	1701aa, >A/SouthAustralia/3/... *
+1	1701aa, >A/Sydney/29/2016|EP... at 99.65%
+2	1701aa, >A/SouthAustralia/3/... at 100.00%
+3	1701aa, >A/Sydney/29/2016|EP... at 99.65%
+>Cluster 9
+0	1701aa, >A/Sydney/9/2016|EPI... *
+1	1701aa, >A/Victoria/44/2015|... at 99.59%
+2	1701aa, >A/Perth/90/2015|EPI... at 99.53%
+3	1701aa, >A/Victoria/2024/201... at 99.53%
+4	1701aa, >A/Townsville/10/201... at 99.59%
+5	1701aa, >A/Brisbane/12/2015|... at 99.53%
+6	1701aa, >A/Brisbane/20/2015|... at 99.53%
+7	1701aa, >A/Brisbane/18/2015|... at 99.53%
+8	1701aa, >A/Brisbane/15/2015|... at 99.59%
+9	1701aa, >A/SouthAustralia/66... at 99.53%
+10	1701aa, >A/Brisbane/86/2015|... at 99.59%
+11	1701aa, >A/Victoria/503/2015... at 99.59%
+12	1701aa, >A/Brisbane/12/2015|... at 99.53%
+13	1701aa, >A/Brisbane/22/2015|... at 99.53%
+14	1701aa, >A/Brisbane/20/2015|... at 99.53%
+15	1701aa, >A/Townsville/10/201... at 99.59%
+16	1701aa, >A/SouthAustralia/10... at 99.59%
+17	1701aa, >A/Brisbane/141/2015... at 99.59%
+18	1701aa, >A/Sydney/9/2016|EPI... at 100.00%
+>Cluster 10
+0	1701aa, >A/Brisbane/6/2012|E... *
+1	1701aa, >A/Victoria/57/2012|... at 99.53%
+2	1701aa, >A/Victoria/144/2012... at 99.65%
+3	1701aa, >A/Victoria/119/2012... at 99.53%
+4	1701aa, >A/Perth/254/2012|EP... at 99.65%
+5	1701aa, >A/Perth/196/2011|EP... at 99.59%
+6	1701aa, >A/Perth/229/2012|EP... at 99.59%
+7	1701aa, >A/VICTORIA/162/2012... at 99.53%
+8	1701aa, >A/VICTORIA/125/2012... at 99.53%
+9	1701aa, >A/VICTORIA/33/2012|... at 99.53%
+10	1701aa, >A/VICTORIA/162/2012... at 99.53%
+11	1701aa, >A/VICTORIA/125/2012... at 99.53%
+12	1701aa, >A/VICTORIA/33/2012|... at 99.53%
+13	1701aa, >A/VICTORIA/874/2012... at 99.53%
+14	1701aa, >A/VICTORIA/552/2012... at 99.53%
+15	1701aa, >A/SOUTHAUSTRALIA/72... at 99.53%
+16	1701aa, >A/SOUTHAUSTRALIA/41... at 99.53%
+17	1701aa, >A/VICTORIA/516/2012... at 99.53%
+18	1701aa, >A/BRISBANE/29/2012|... at 99.53%
+19	1701aa, >A/VICTORIA/508/2012... at 99.59%
+20	1701aa, >A/SOUTHAUSTRALIA/23... at 99.53%
+21	1701aa, >A/TOWNSVILLE/3/2012... at 99.65%
+22	1701aa, >A/TOWNSVILLE/1/2012... at 99.65%
+23	1701aa, >A/BRISBANE/6/2012|E... at 99.82%
+24	1701aa, >A/TASMANIA/2/2012|E... at 99.53%
+25	1701aa, >A/TOWNSVILLE/133/20... at 99.71%
+26	1701aa, >A/PERTH/219/2011|EP... at 99.71%
+27	1701aa, >A/Brisbane/6/2012|E... at 99.88%
+28	1701aa, >A/Victoria/508/2012... at 99.65%
+29	1701aa, >A/Sydney/21/2012|EP... at 99.53%
+30	1701aa, >A/Perth/229/2012|EP... at 99.59%
+31	1701aa, >A/Perth/254/2012|EP... at 99.65%
+>Cluster 11
+0	1701aa, >A/Brisbane/1/2012|E... *
+1	1701aa, >A/Brisbane/1/2012|E... at 99.94%
+2	1701aa, >A/BRISBANE/1/2012|E... at 99.88%
+3	1701aa, >A/BRISBANE/402/2011... at 99.94%
+4	1701aa, >A/Brisbane/1/2012|E... at 99.94%
+>Cluster 12
+0	1701aa, >A/Victoria/506/2013... *
+1	1701aa, >A/Victoria/504/2013... at 99.65%
+2	1701aa, >A/Perth/239/2013|EP... at 99.59%
+3	1701aa, >A/Brisbane/198/2013... at 99.59%
+4	1701aa, >A/BRISBANE/193/2013... at 99.53%
+5	1701aa, >A/PERTH/258/2013|EP... at 99.59%
+6	1701aa, >A/BRISBANE/141/2013... at 99.53%
+7	1701aa, >A/PERTH/98/2013|EPI... at 99.53%
+8	1701aa, >A/PERTH/509/2013|EP... at 99.59%
+9	1701aa, >A/VICTORIA/506/2013... at 99.88%
+10	1701aa, >A/VICTORIA/504/2013... at 99.82%
+11	1701aa, >A/Victoria/506/2013... at 100.00%
+12	1701aa, >A/Victoria/506/2013... at 99.94%
+13	1701aa, >A/PERTH/59/2013|EPI... at 99.59%
+14	1701aa, >A/BRISBANE/57/2013|... at 99.53%
+15	1701aa, >A/PERTH/60/2013|EPI... at 99.59%
+16	1701aa, >A/VICTORIA/528/2013... at 99.71%
+17	1701aa, >A/PERTH/508/2013|EP... at 99.59%
+18	1701aa, >A/VICTORIA/522/2013... at 99.82%
+19	1701aa, >A/SYDNEY/28/2013|EP... at 99.53%
+20	1701aa, >A/Victoria/504/2013... at 99.65%
+21	1701aa, >A/TOWNSVILLE/33/201... at 99.59%
+22	1701aa, >A/TOWNSVILLE/16/201... at 99.71%
+23	1701aa, >A/Victoria/692/2012... at 99.59%
+24	1701aa, >A/Victoria/692/2012... at 99.59%
+25	1701aa, >A/Victoria/528/2013... at 99.71%
+26	1701aa, >A/Perth/508/2013|EP... at 99.59%
+27	1701aa, >A/Sydney/28/2013|EP... at 99.59%
+28	1701aa, >A/Victoria/506/2013... at 99.88%
+29	1701aa, >A/Victoria/504/2013... at 99.82%
+30	1701aa, >A/Brisbane/141/2013... at 99.53%
+31	1701aa, >A/Brisbane/204/2013... at 99.53%
+32	1701aa, >A/Brisbane/198/2013... at 99.53%
+33	1701aa, >A/Brisbane/193/2013... at 99.53%
+>Cluster 13
+0	1701aa, >A/Victoria/505/2013... *
+1	1701aa, >A/Perth/2/2014|EPI_... at 99.59%
+2	1701aa, >A/Perth/1/2014|EPI_... at 99.59%
+3	1701aa, >A/Newcastle/1/2013|... at 99.53%
+4	1701aa, >A/Victoria/214/2012... at 99.59%
+5	1701aa, >A/SouthAustralia/17... at 99.53%
+6	1701aa, >A/CANBERRA/127/2013... at 99.59%
+7	1701aa, >A/CANBERRA/124/2013... at 99.59%
+8	1701aa, >A/VICTORIA/232/2013... at 99.65%
+9	1701aa, >A/VICTORIA/657/2013... at 99.53%
+10	1701aa, >A/SOUTHAUSTRALIA/79... at 99.53%
+11	1701aa, >A/VICTORIA/505/2013... at 99.76%
+12	1701aa, >A/SYDNEY/1015/2013|... at 99.59%
+13	1701aa, >A/SYDNEY/506/2013|E... at 99.71%
+14	1701aa, >A/Victoria/505/2013... at 99.88%
+15	1701aa, >A/VICTORIA/500/2013... at 99.71%
+16	1701aa, >A/VICTORIA/203/2012... at 99.65%
+17	1701aa, >A/VICTORIA/203/2012... at 99.65%
+18	1701aa, >A/VICTORIA/116/2012... at 99.65%
+19	1701aa, >A/VICTORIA/116/2012... at 99.65%
+20	1701aa, >A/VICTORIA/110/2012... at 99.65%
+21	1701aa, >A/VICTORIA/886/2012... at 99.59%
+22	1701aa, >A/SOUTHAUSTRALIA/16... at 99.59%
+23	1701aa, >A/Victoria/505/2013... at 99.76%
+24	1701aa, >A/Sydney/1015/2013|... at 99.59%
+25	1701aa, >A/SouthAustralia/79... at 99.53%
+26	1701aa, >A/Perth/2/2014|EPI_... at 99.53%
+27	1701aa, >A/Canberra/127/2013... at 99.59%
+>Cluster 14
+0	1701aa, >A/Victoria/710/2013... *
+1	1701aa, >A/Victoria/700/2013... at 99.76%
+2	1701aa, >A/Victoria/710/2013... at 99.88%
+3	1701aa, >A/Victoria/707/2013... at 99.88%
+4	1701aa, >A/Victoria/700/2013... at 99.88%
+5	1701aa, >A/VICTORIA/711/2013... at 99.88%
+6	1701aa, >A/Victoria/700/2013... at 99.88%
+7	1701aa, >A/Victoria/710/2013... at 99.88%
+>Cluster 15
+0	1701aa, >A/SouthAustralia/40... *
+1	1701aa, >A/SouthAustralia/24... at 99.53%
+2	1701aa, >A/Victoria/69/2014|... at 99.59%
+3	1701aa, >A/Victoria/24/2014|... at 99.65%
+4	1701aa, >A/Perth/551/2014|EP... at 99.53%
+5	1701aa, >A/SouthAustralia/55... at 99.59%
+6	1701aa, >A/Brisbane/368/2014... at 99.59%
+7	1701aa, >A/TASMANIA/54/2014|... at 99.65%
+8	1701aa, >A/SYDNEY/120/2014|E... at 99.71%
+9	1701aa, >A/CANBERRA/29/2014|... at 99.59%
+10	1701aa, >A/SouthAustralia/55... at 99.59%
+11	1701aa, >A/SouthAustralia/55... at 99.53%
+12	1701aa, >A/SouthAustralia/55... at 99.59%
+13	1701aa, >A/Tasmania/11/2014|... at 99.65%
+14	1701aa, >A/Tasmania/11/2014|... at 99.53%
+15	1701aa, >A/SouthAustralia/55... at 99.59%
+16	1701aa, >A/Tasmania/11/2014|... at 99.53%
+17	1701aa, >A/SouthAustralia/55... at 99.59%
+18	1701aa, >A/Tasmania/11/2014|... at 99.65%
+19	1701aa, >A/SOUTHAUSTRALIA/24... at 99.65%
+20	1701aa, >A/SYDNEY/95/2014|EP... at 99.71%
+21	1701aa, >A/SYDNEY/82/2014|EP... at 99.71%
+22	1701aa, >A/VICTORIA/27/2014|... at 99.53%
+23	1701aa, >A/VICTORIA/806/2014... at 99.53%
+24	1701aa, >A/Sydney/63/2014|EP... at 99.59%
+25	1701aa, >A/Tasmania/11/2014|... at 99.53%
+26	1701aa, >A/Tasmania/11/2014|... at 99.65%
+27	1701aa, >A/Victoria/806/2014... at 99.53%
+28	1701aa, >A/Tasmania/11/2014|... at 99.65%
+29	1701aa, >A/SouthAustralia/24... at 99.65%
+30	1701aa, >A/Victoria/27/2014|... at 99.53%
+31	1701aa, >A/Victoria/24/2014|... at 99.65%
+32	1701aa, >A/SouthAustralia/55... at 99.59%
+33	1701aa, >A/SouthAustralia/40... at 99.88%
+34	1701aa, >A/Victoria/69/2014|... at 99.59%
+35	1701aa, >A/Perth/551/2014|EP... at 99.53%
+36	1701aa, >A/Brisbane/368/2014... at 99.59%
+>Cluster 16
+0	1701aa, >A/SouthAustralia/2/... *
+1	1701aa, >A/SOUTHAUSTRALIA/2/... at 99.88%
+2	1701aa, >A/SouthAustralia/2/... at 99.88%
+>Cluster 17
+0	1701aa, >A/Perth/98/2013|EPI... *
+1	1701aa, >A/Perth/110/2013|EP... at 99.71%
+2	1701aa, >A/Brisbane/204/2013... at 99.88%
+3	1701aa, >A/VICTORIA/573/2013... at 99.71%
+>Cluster 18
+0	1701aa, >A/Canberra/3/2014|E... *
+1	1701aa, >A/Brisbane/43/2014|... at 99.59%
+2	1701aa, >A/BRISBANE/165/2013... at 99.59%
+3	1701aa, >A/Brisbane/43/2014|... at 99.59%
+4	1701aa, >A/Canberra/3/2014|E... at 99.82%
+>Cluster 19
+0	1701aa, >A/Canberra/2/2014|E... *
+1	1701aa, >A/CANBERRA/2/2014|E... at 99.76%
+2	1701aa, >A/SYDNEY/26/2014|EP... at 99.65%
+3	1701aa, >A/Sydney/25/2014|EP... at 99.65%
+4	1701aa, >A/SYDNEY/1014/2013|... at 99.65%
+5	1701aa, >A/Sydney/1014/2013|... at 99.65%
+6	1701aa, >A/Canberra/2/2014|E... at 99.76%
+7	1701aa, >A/Sydney/26/2014|EP... at 99.59%
+>Cluster 20
+0	1701aa, >A/Brisbane/1/2013|E... *
+1	1701aa, >A/BRISBANE/1/2013|E... at 99.76%
+2	1701aa, >A/Brisbane/01/2013|... at 100.00%
+3	1701aa, >A/Brisbane/1/2013|E... at 99.76%
+>Cluster 21
+0	1701aa, >A/Brisbane/21/2013|... *
+1	1701aa, >A/BRISBANE/21/2013|... at 99.82%
+2	1701aa, >A/Brisbane/21/2013|... at 99.82%
+>Cluster 22
+0	1701aa, >A/Brisbane/183/2015... *
+1	1701aa, >A/Brisbane/341/2014... at 99.59%
+2	1701aa, >A/Victoria/265/2014... at 99.65%
+3	1701aa, >A/Sydney/1022/2015|... at 99.59%
+4	1701aa, >A/Perth/59/2015|EPI... at 99.59%
+5	1701aa, >A/Townsville/1004/2... at 99.59%
+6	1701aa, >A/Victoria/531/2015... at 99.59%
+7	1701aa, >A/VICTORIA/673/2014... at 99.53%
+8	1701aa, >A/Victoria/673/2014... at 99.53%
+9	1701aa, >A/Victoria/265/2014... at 99.65%
+10	1701aa, >A/Brisbane/341/2014... at 99.59%
+11	1701aa, >A/VIctoria/673/2014... at 99.53%
+12	1701aa, >A/Tasmania/7/2015|E... at 99.53%
+13	1701aa, >A/Perth/59/2015|EPI... at 99.59%
+14	1701aa, >A/Perth/51/2015|EPI... at 99.59%
+15	1701aa, >A/Perth/61/2015|EPI... at 99.59%
+16	1701aa, >A/Perth/62/2015|EPI... at 99.59%
+17	1701aa, >A/Sydney/1023/2015|... at 99.59%
+18	1701aa, >A/Perth/118/2015|EP... at 99.59%
+19	1701aa, >A/Victoria/3071/201... at 99.59%
+20	1701aa, >A/Sydney/98/2015|EP... at 99.59%
+21	1701aa, >A/Victoria/63/2015|... at 99.59%
+22	1701aa, >A/Victoria/50/2015|... at 99.53%
+23	1701aa, >A/Victoria/53/2015|... at 99.59%
+24	1701aa, >A/Sydney/248/2015|E... at 99.53%
+25	1701aa, >A/Victoria/56/2015|... at 99.53%
+>Cluster 23
+0	1701aa, >A/Victoria/6001/201... *
+1	1701aa, >A/Victoria/511/2015... at 99.53%
+2	1701aa, >A/Victoria/664/2015... at 99.53%
+3	1701aa, >A/Victoria/511/2015... at 99.65%
+4	1701aa, >A/Victoria/511/2015... at 99.65%
+5	1701aa, >A/Victoria/35/2015|... at 99.59%
+6	1701aa, >A/Victoria/29/2015|... at 99.53%
+7	1701aa, >A/Victoria/27/2015|... at 99.59%
+8	1701aa, >A/Victoria/18/2015|... at 99.53%
+9	1701aa, >A/Victoria/511/2015... at 99.53%
+10	1701aa, >A/Victoria/525/2015... at 99.59%
+11	1701aa, >A/Tasmania/1002/201... at 99.53%
+12	1701aa, >A/Victoria/2014/201... at 99.59%
+13	1701aa, >A/Victoria/511/2015... at 99.65%
+14	1701aa, >A/Victoria/533/2015... at 99.59%
+15	1701aa, >A/Victoria/511/2015... at 99.65%
+16	1701aa, >A/Victoria/508/2015... at 99.65%
+17	1701aa, >A/Tasmania/24/2015|... at 99.53%
+18	1701aa, >A/Victoria/92/2014|... at 99.59%
+19	1701aa, >A/Victoria/88/2014|... at 99.59%
+20	1701aa, >A/Victoria/5065/201... at 99.59%
+21	1701aa, >A/Victoria/5059/201... at 99.65%
+22	1701aa, >A/Victoria/5054/201... at 99.59%
+23	1701aa, >A/Victoria/5053/201... at 99.65%
+24	1701aa, >A/Victoria/5043/201... at 99.65%
+25	1701aa, >A/Victoria/5025/201... at 99.53%
+26	1701aa, >A/Sydney/1005/2014|... at 99.65%
+27	1701aa, >A/Perth/19/2015|EPI... at 99.65%
+28	1701aa, >A/Perth/1053/2014|E... at 99.65%
+29	1701aa, >A/Sydney/306/2014|E... at 99.53%
+30	1701aa, >A/Victoria/4094/201... at 99.65%
+31	1701aa, >A/Townsville/107/20... at 99.65%
+32	1701aa, >A/Townsville/101/20... at 99.65%
+33	1701aa, >A/Brisbane/349/2014... at 99.71%
+34	1701aa, >A/VICTORIA/2078/201... at 99.53%
+35	1701aa, >A/VICTORIA/528/2014... at 99.59%
+36	1701aa, >A/TASMANIA/45/2014|... at 99.71%
+37	1701aa, >A/SYDNEY/1016/2014|... at 99.59%
+38	1701aa, >A/SYDNEY/1004/2014|... at 99.59%
+39	1701aa, >A/SYDNEY/1001/2014|... at 99.59%
+40	1701aa, >A/SOUTHAUSTRALIA/10... at 99.59%
+41	1701aa, >A/NEWCASTLE/79/2014... at 99.65%
+42	1701aa, >A/NEWCASTLE/63/2014... at 99.59%
+43	1701aa, >A/NEWCASTLE/54/2014... at 99.65%
+44	1701aa, >A/NEWCASTLE/34/2014... at 99.65%
+45	1701aa, >A/NEWCASTLE/107/201... at 99.65%
+46	1701aa, >A/CANBERRA/44/2014|... at 99.59%
+47	1701aa, >A/CANBERRA/101/2014... at 99.59%
+48	1701aa, >A/Newcastle/22/2014... at 99.65%
+49	1701aa, >A/Newcastle/22/2014... at 99.53%
+50	1701aa, >A/Newcastle/22/2014... at 99.65%
+51	1701aa, >A/Newcastle/22/2014... at 99.65%
+52	1701aa, >A/NEWCASTLE/26/2014... at 99.65%
+53	1701aa, >A/VICTORIA/76/2014|... at 99.65%
+54	1701aa, >A/NEWCASTLE/28/2014... at 99.65%
+55	1701aa, >A/NEWCASTLE/25/2014... at 99.59%
+56	1701aa, >A/Newcastle/22/2014... at 99.53%
+57	1701aa, >A/Victoria/5025/201... at 99.59%
+58	1701aa, >A/Newcastle/25/2014... at 99.59%
+59	1701aa, >A/Newcastle/22/2014... at 99.65%
+60	1701aa, >A/Sydney/1005/2014|... at 99.65%
+61	1701aa, >A/Victoria/528/2014... at 99.59%
+62	1701aa, >A/Newcastle/63/2014... at 99.59%
+63	1701aa, >A/Sydney/1004/2014|... at 99.59%
+64	1701aa, >A/Tasmania/122/2014... at 99.53%
+65	1701aa, >A/Victoria/5054/201... at 99.59%
+66	1701aa, >A/SouthAustralia/10... at 99.59%
+67	1701aa, >A/Victoria/5071/201... at 99.53%
+68	1701aa, >A/Victoria/5065/201... at 99.65%
+69	1701aa, >A/Victoria/6001/201... at 99.76%
+70	1701aa, >A/Victoria/511/2015... at 99.65%
+71	1701aa, >A/Victoria/3047/201... at 99.53%
+72	1701aa, >A/Victoria/51/2015|... at 99.53%
+73	1701aa, >A/Newcastle/22/2014... at 99.65%
+>Cluster 24
+0	1701aa, >A/Victoria/503/2015... *
+1	1701aa, >A/Sydney/1029/2015|... at 99.53%
+2	1701aa, >A/Brisbane/127/2015... at 99.53%
+3	1701aa, >A/Newcastle/13/2015... at 99.53%
+4	1701aa, >A/SouthAustralia/10... at 99.53%
+5	1701aa, >A/Tasmania/21/2015|... at 99.53%
+6	1701aa, >A/Tasmania/13/2015|... at 99.53%
+7	1701aa, >A/Tasmania/14/2015|... at 99.53%
+8	1701aa, >A/Brisbane/73/2015|... at 99.53%
+9	1701aa, >A/Victoria/505/2015... at 99.53%
+10	1701aa, >A/SouthAustralia/46... at 99.53%
+11	1701aa, >A/Victoria/2021/201... at 99.53%
+12	1701aa, >A/Victoria/922/2015... at 99.53%
+13	1701aa, >A/Victoria/921/2015... at 99.53%
+14	1701aa, >A/Victoria/920/2015... at 99.53%
+15	1701aa, >A/Brisbane/21/2015|... at 99.53%
+16	1701aa, >A/Sydney/530/2014|E... at 99.53%
+17	1701aa, >A/Victoria/503/2015... at 99.76%
+18	1701aa, >A/Victoria/503/2015... at 99.88%
+19	1701aa, >A/Townsville/1001/2... at 99.53%
+20	1701aa, >A/Sydney/530/2014|E... at 99.53%
+21	1701aa, >A/SouthAustralia/10... at 99.53%
+22	1701aa, >A/Brisbane/127/2015... at 99.59%
+23	1701aa, >A/Sydney/1029/2015|... at 99.53%
+24	1701aa, >A/Victoria/3011/201... at 99.53%
+>Cluster 25
+0	1701aa, >A/Victoria/5006/201... *
+1	1701aa, >A/Victoria/5006/201... at 99.88%
+2	1701aa, >A/Victoria/5006/201... at 99.94%
+3	1701aa, >A/VICTORIA/5006/201... at 99.82%
+4	1701aa, >A/NEWCASTLE/1016/20... at 99.65%
+5	1701aa, >A/SYDNEY/81/2014|EP... at 99.59%
+6	1701aa, >A/Sydney/81/2014|EP... at 99.65%
+7	1701aa, >A/Newcastle/1016/20... at 99.65%
+8	1701aa, >A/Victoria/5006/201... at 99.82%
+>Cluster 26
+0	1701aa, >A/Victoria/1000/201... *
+1	1701aa, >A/Victoria/3061/201... at 99.82%
+2	1701aa, >A/Victoria/3059/201... at 99.71%
+3	1701aa, >A/Victoria/3016/201... at 99.82%
+4	1701aa, >A/Victoria/47/2015|... at 99.76%
+5	1701aa, >A/Victoria/40/2015|... at 99.82%
+6	1701aa, >A/Victoria/38/2015|... at 99.82%
+7	1701aa, >A/Victoria/37/2015|... at 99.71%
+8	1701aa, >A/Victoria/36/2015|... at 99.71%
+9	1701aa, >A/Victoria/26/2015|... at 99.82%
+10	1701aa, >A/Victoria/25/2015|... at 99.82%
+11	1701aa, >A/Victoria/1001/201... at 99.82%
+12	1701aa, >A/Victoria/3063/201... at 99.82%
+13	1701aa, >A/Victoria/34/2015|... at 99.82%
+14	1701aa, >A/Victoria/3054/201... at 99.76%
+15	1701aa, >A/Victoria/849/2015... at 99.76%
+16	1701aa, >A/Victoria/818/2015... at 99.82%
+17	1701aa, >A/Victoria/532/2015... at 99.76%
+18	1701aa, >A/Victoria/520/2015... at 99.82%
+19	1701aa, >A/Victoria/517/2015... at 99.82%
+20	1701aa, >A/SouthAustralia/75... at 99.76%
+21	1701aa, >A/Victoria/814/2015... at 99.71%
+22	1701aa, >A/Victoria/1000/201... at 99.82%
+23	1701aa, >A/Townsville/1002/2... at 99.76%
+24	1701aa, >A/Sydney/327/2014|E... at 99.65%
+25	1701aa, >B/Victoria/108/2015... at 99.82%
+26	1701aa, >A/Sydney/327/2014|E... at 99.65%
+27	1701aa, >A/Townsville/1002/2... at 99.76%
+28	1701aa, >A/Victoria/1000/201... at 99.82%
+29	1701aa, >A/Victoria/523/2015... at 99.82%
+30	1701aa, >A/Victoria/861/2015... at 99.65%
+31	1701aa, >A/Victoria/1001/201... at 99.82%
+32	1701aa, >A/Victoria/37/2015|... at 99.71%
+33	1701aa, >A/Victoria/36/2015|... at 99.71%
+34	1701aa, >A/Victoria/3054/201... at 99.76%
+35	1701aa, >A/Victoria/629/2015... at 99.76%
+36	1701aa, >A/Victoria/1014/201... at 99.76%
+>Cluster 27
+0	1701aa, >A/Tasmania/1012/201... *
+1	1701aa, >A/Tasmania/1021/201... at 99.88%
+2	1701aa, >A/Tasmania/1020/201... at 99.88%
+3	1701aa, >A/Tasmania/1018/201... at 99.88%
+4	1701aa, >A/Tasmania/1017/201... at 99.88%
+5	1701aa, >A/Tasmania/1016/201... at 99.82%
+6	1701aa, >A/Tasmania/1019/201... at 99.88%
+7	1701aa, >A/Tasmania/1012/201... at 99.88%
+8	1701aa, >A/Tasmania/28/2015|... at 99.76%
+9	1701aa, >A/SouthAustralia/64... at 99.71%
+10	1701aa, >A/Newcastle/11/2015... at 99.82%
+11	1701aa, >A/SouthAustralia/64... at 99.71%
+12	1701aa, >A/Tasmania/28/2015|... at 99.76%
+13	1701aa, >A/Tasmania/1012/201... at 99.88%
+14	1701aa, >A/Tasmania/1016/201... at 99.82%
+15	1701aa, >A/Tasmania/1021/201... at 99.88%
+16	1701aa, >A/Victoria/3015/201... at 99.71%
+17	1701aa, >A/Tasmania/1022/201... at 99.88%
+>Cluster 28
+0	1701aa, >A/SouthAustralia/21... *
+1	1701aa, >A/SouthAustralia/21... at 99.94%
+2	1701aa, >A/SouthAustralia/21... at 99.82%
+3	1701aa, >A/SouthAustralia/21... at 99.82%
+4	1701aa, >A/SouthAustralia/62... at 99.82%
+5	1701aa, >A/SouthAustralia/59... at 99.82%
+6	1701aa, >A/SouthAustralia/63... at 99.82%
+7	1701aa, >A/SouthAustralia/58... at 99.82%
+8	1701aa, >A/SouthAustralia/52... at 99.71%
+9	1701aa, >A/SouthAustralia/56... at 99.82%
+10	1701aa, >A/SouthAustralia/51... at 99.65%
+11	1701aa, >A/SouthAustralia/50... at 99.71%
+12	1701aa, >A/Sydney/23/2015|EP... at 99.82%
+13	1701aa, >A/SouthAustralia/47... at 99.82%
+14	1701aa, >A/Victoria/2009/201... at 99.71%
+15	1701aa, >A/SouthAustralia/34... at 99.76%
+16	1701aa, >A/SouthAustralia/32... at 99.82%
+17	1701aa, >A/SouthAustralia/33... at 99.76%
+18	1701aa, >A/Sydney/8/2015|EPI... at 99.71%
+19	1701aa, >A/SouthAustralia/21... at 99.82%
+20	1701aa, >A/SouthAustralia/67... at 99.71%
+21	1701aa, >A/SouthAustralia/21... at 99.82%
+22	1701aa, >A/SouthAustralia/36... at 99.82%
+23	1701aa, >A/SouthAustralia/21... at 99.82%
+24	1701aa, >A/SouthAustralia/34... at 99.76%
+25	1701aa, >A/SouthAustralia/33... at 99.76%
+26	1701aa, >A/SouthAustralia/62... at 99.82%
+27	1701aa, >A/SouthAustralia/52... at 99.71%
+>Cluster 29
+0	1701aa, >A/Brisbane/82/2015|... *
+1	1701aa, >A/Brisbane/71/2015|... at 99.88%
+2	1701aa, >A/Brisbane/82/2015|... at 100.00%
+3	1701aa, >A/Brisbane/88/2015|... at 99.76%
+4	1701aa, >A/Brisbane/82/2015|... at 100.00%
+5	1701aa, >A/Perth/39/2015|EPI... at 99.88%
+6	1701aa, >A/Brisbane/80/2015|... at 99.88%
+7	1701aa, >A/Brisbane/88/2015|... at 99.76%
+8	1701aa, >A/Perth/39/2015|EPI... at 99.88%
+>Cluster 30
+0	1701aa, >A/Brisbane/47/2015|... *
+1	1701aa, >A/Perth/68/2015|EPI... at 99.59%
+2	1701aa, >A/Perth/57/2015|EPI... at 99.59%
+3	1701aa, >A/Victoria/23/2015|... at 99.53%
+4	1701aa, >A/Tasmania/29/2015|... at 99.59%
+5	1701aa, >A/Victoria/527/2015... at 99.59%
+6	1701aa, >A/Brisbane/123/2015... at 99.53%
+7	1701aa, >A/Perth/31/2015|EPI... at 99.59%
+8	1701aa, >A/SouthAustralia/70... at 99.59%
+9	1701aa, >A/SouthAustralia/68... at 99.59%
+10	1701aa, >A/Sydney/29/2015|EP... at 99.59%
+11	1701aa, >A/BRISBANE/47/2015|... at 99.94%
+12	1701aa, >A/Perth/37/2015|EPI... at 99.59%
+13	1701aa, >A/Brisbane/47/2015|... at 99.71%
+14	1701aa, >A/Brisbane/47/2015|... at 99.94%
+15	1701aa, >A/Brisbane/47/2015|... at 99.94%
+16	1701aa, >A/Sydney/29/2015|EP... at 99.59%
+17	1701aa, >A/Brisbane/47/2015|... at 99.71%
+18	1701aa, >A/Perth/31/2015|EPI... at 99.59%
+19	1701aa, >A/SouthAustralia/70... at 99.59%
+20	1701aa, >A/Brisbane/123/2015... at 99.53%
+21	1701aa, >A/Victoria/527/2015... at 99.59%
+22	1701aa, >A/Perth/89/2015|EPI... at 99.59%
+23	1701aa, >A/Victoria/23/2015|... at 99.53%
+>Cluster 31
+0	1701aa, >A/Brisbane/174/2015... *
+>Cluster 32
+0	1701aa, >A/Victoria/455/2015... *
+1	1701aa, >A/Brisbane/140/2015... at 99.59%
+2	1701aa, >A/Brisbane/122/2015... at 99.65%
+3	1701aa, >A/Brisbane/114/2015... at 99.65%
+4	1701aa, >A/Brisbane/112/2015... at 99.59%
+5	1701aa, >A/Brisbane/107/2015... at 99.65%
+6	1701aa, >A/Brisbane/140/2015... at 99.59%
+7	1701aa, >A/Victoria/455/2015... at 99.94%
+>Cluster 33
+0	1701aa, >A/Brisbane/195/2015... *
+1	1701aa, >A/SouthAustralia/14... at 99.59%
+2	1701aa, >A/Brisbane/195/2015... at 100.00%
+>Cluster 34
+0	1701aa, >A/SouthAustralia/11... *
+1	1701aa, >A/SouthAustralia/11... at 100.00%
+>Cluster 35
+0	1701aa, >A/Tasmania/1007/201... *
+1	1701aa, >A/Victoria/1005/201... at 99.76%
+2	1701aa, >A/Victoria/19/2015|... at 99.71%
+3	1701aa, >A/SouthAustralia/10... at 99.71%
+4	1701aa, >A/Victoria/897/2015... at 99.76%
+5	1701aa, >A/Victoria/16/2015|... at 99.59%
+6	1701aa, >A/Victoria/536/2015... at 99.82%
+7	1701aa, >A/Victoria/522/2015... at 99.65%
+8	1701aa, >A/Canberra/24/2015|... at 99.88%
+9	1701aa, >A/Victoria/13/2015|... at 99.65%
+10	1701aa, >A/Perth/29/2015|EPI... at 99.76%
+11	1701aa, >A/Brisbane/90/2015|... at 99.76%
+12	1701aa, >A/Brisbane/56/2015|... at 99.94%
+13	1701aa, >A/Sydney/27/2015|EP... at 99.59%
+14	1701aa, >A/Sydney/21/2015|EP... at 99.71%
+15	1701aa, >A/Sydney/17/2015|EP... at 99.59%
+16	1701aa, >A/Sydney/15/2015|EP... at 99.59%
+17	1701aa, >A/SouthAustralia/12... at 99.59%
+18	1701aa, >A/SouthAustralia/13... at 99.82%
+19	1701aa, >A/Tasmania/7/2015|E... at 99.65%
+20	1701aa, >A/Canberra/20/2015|... at 99.76%
+21	1701aa, >A/Victoria/5062/201... at 99.59%
+22	1701aa, >A/Sydney/13/2015|EP... at 99.59%
+23	1701aa, >A/Victoria/673/2014... at 99.59%
+24	1701aa, >A/Victoria/5062/201... at 99.59%
+25	1701aa, >A/Victoria/673/2014... at 99.59%
+26	1701aa, >A/SouthAustralia/11... at 99.82%
+27	1701aa, >A/SouthAustralia/16... at 99.82%
+28	1701aa, >A/SouthAustralia/12... at 99.59%
+29	1701aa, >A/Canberra/8/2015|E... at 99.82%
+30	1701aa, >A/Sydney/18/2015|EP... at 99.59%
+31	1701aa, >A/Brisbane/40/2015|... at 99.71%
+32	1701aa, >A/Sydney/12/2015|EP... at 99.59%
+33	1701aa, >A/SouthAustralia/41... at 99.71%
+34	1701aa, >A/Perth/36/2015|EPI... at 99.76%
+35	1701aa, >A/Perth/33/2015|EPI... at 99.76%
+36	1701aa, >A/Canberra/20/2015|... at 99.76%
+37	1701aa, >A/Victoria/522/2015... at 99.65%
+38	1701aa, >A/Victoria/16/2015|... at 99.59%
+39	1701aa, >A/Victoria/536/2015... at 99.82%
+40	1701aa, >A/Victoria/538/2015... at 99.65%
+41	1701aa, >A/Victoria/820/2015... at 99.71%
+42	1701aa, >A/Brisbane/134/2015... at 99.65%
+43	1701aa, >A/Sydney/53/2015|EP... at 99.82%
+44	1701aa, >A/Victoria/852/2015... at 99.82%
+45	1701aa, >A/Sydney/1010/2015|... at 99.53%
+46	1701aa, >A/Brisbane/1002/201... at 99.65%
+47	1701aa, >A/Perth/94/2015|EPI... at 99.65%
+48	1701aa, >A/Victoria/19/2015|... at 99.71%
+49	1701aa, >A/SouthAustralia/13... at 99.65%
+50	1701aa, >A/Sydney/1033/2015|... at 99.82%
+51	1701aa, >A/Victoria/24/2015|... at 99.82%
+52	1701aa, >A/Victoria/3073/201... at 99.76%
+53	1701aa, >A/Perth/65/2015|EPI... at 99.65%
+54	1701aa, >A/Tasmania/1007/201... at 100.00%
+55	1701aa, >A/Victoria/3009/201... at 99.71%
+56	1701aa, >A/Victoria/1006/201... at 99.53%
+57	1701aa, >A/SouthAustralia/10... at 99.71%
+58	1701aa, >A/Sydney/1036/2015|... at 99.76%
+59	1701aa, >A/Victoria/52/2015|... at 99.53%
+>Cluster 36
+0	1701aa, >A/Victoria/48/2015|... *
+1	1701aa, >A/Victoria/48/2015|... at 100.00%
+>Cluster 37
+0	1701aa, >A/Sydney/1020/2015|... *
+1	1701aa, >A/Sydney/1020/2015|... at 100.00%
+>Cluster 38
+0	1701aa, >A/Tasmania/1014/201... *
+1	1701aa, >A/Tasmania/1005/201... at 99.88%
+2	1701aa, >A/Sydney/20/2015|EP... at 99.71%
+3	1701aa, >A/Victoria/5071/201... at 99.65%
+4	1701aa, >A/Victoria/115/2014... at 99.65%
+5	1701aa, >A/Victoria/5076/201... at 99.65%
+6	1701aa, >A/TASMANIA/122/2014... at 99.65%
+7	1701aa, >A/Newcastle/22/2014... at 99.65%
+8	1701aa, >A/Newcastle/22/2014... at 99.65%
+9	1701aa, >A/VICTORIA/503/2014... at 99.65%
+10	1701aa, >A/Victoria/503/2014... at 99.65%
+11	1701aa, >A/Victoria/5076/201... at 99.65%
+12	1701aa, >A/Victoria/115/2014... at 99.65%
+13	1701aa, >A/Sydney/20/2015|EP... at 99.71%
+14	1701aa, >A/Victoria/516/2015... at 99.53%
+15	1701aa, >A/Tasmania/1005/201... at 99.88%
+16	1701aa, >A/Tasmania/1014/201... at 100.00%
+>Cluster 39
+0	1701aa, >A/Perth/114/2015|EP... *
+1	1701aa, >A/Perth/114/2015|EP... at 100.00%
+>Cluster 40
+0	1701aa, >A/Brisbane/1003/201... *
+1	1701aa, >A/Brisbane/1003/201... at 100.00%
+>Cluster 41
+0	1701aa, >A/Sydney/1030/2015|... *
+1	1701aa, >A/Sydney/1005/2015|... at 99.94%
+2	1701aa, >A/Sydney/1030/2015|... at 100.00%
+3	1701aa, >A/Sydney/1013/2015|... at 99.82%
+>Cluster 42
+0	1701aa, >A/Sydney/57/2015|EP... *
+1	1701aa, >A/Sydney/57/2015|EP... at 100.00%
+>Cluster 43
+0	1701aa, >A/Victoria/15/2015|... *
+1	1701aa, >A/Brisbane/119/2015... at 99.65%
+2	1701aa, >A/Brisbane/119/2015... at 99.65%
+3	1701aa, >A/Brisbane/184/2015... at 99.65%
+>Cluster 44
+0	1701aa, >A/Victoria/2502/201... *
+1	1701aa, >A/Victoria/2502/201... at 100.00%
+2	1701aa, >A/Victoria/2118/201... at 99.65%
+>Cluster 45
+0	1701aa, >A/Victoria/535/2015... *
+1	1701aa, >A/Victoria/535/2015... at 100.00%
+>Cluster 46
+0	1701aa, >A/Victoria/515/2015... *
+1	1701aa, >A/Victoria/539/2015... at 100.00%
+2	1701aa, >A/Victoria/515/2015... at 100.00%
+3	1701aa, >A/Victoria/3067/201... at 99.94%
+>Cluster 47
+0	1701aa, >A/Brisbane/115/2015... *
+1	1701aa, >A/Brisbane/115/2015... at 99.94%
+>Cluster 48
+0	1701aa, >A/Sydney/1006/2015|... *
+1	1701aa, >A/Sydney/1006/2015|... at 99.94%
+>Cluster 49
+0	1701aa, >A/Brisbane/1000/201... *
+1	1701aa, >A/Perth/15/2015|EPI... at 99.76%
+2	1701aa, >A/Perth/15/2015|EPI... at 99.76%
+3	1701aa, >A/Brisbane/1000/201... at 100.00%
+>Cluster 50
+0	1701aa, >A/Perth/43/2015|EPI... *
+1	1701aa, >A/SouthAustralia/60... at 99.59%
+2	1701aa, >A/Tasmania/1/2015|E... at 99.53%
+3	1701aa, >A/Sydney/529/2014|E... at 99.53%
+4	1701aa, >A/Sydney/236/2014|E... at 99.53%
+5	1701aa, >A/SYDNEY/156/2014|E... at 99.76%
+6	1701aa, >A/SYDNEY/66/2014|EP... at 99.65%
+7	1701aa, >A/PERTH/526/2014|EP... at 99.65%
+8	1701aa, >A/Sydney/156/2014|E... at 99.76%
+9	1701aa, >A/Sydney/529/2014|E... at 99.53%
+10	1701aa, >A/SouthAustralia/60... at 99.59%
+11	1701aa, >A/Perth/26/2015|EPI... at 99.53%
+12	1701aa, >A/Perth/43/2015|EPI... at 100.00%
+>Cluster 51
+0	1701aa, >A/Perth/24/2015|EPI... *
+1	1701aa, >A/Brisbane/105/2015... at 99.88%
+2	1701aa, >A/Victoria/510/2015... at 100.00%
+3	1701aa, >A/Brisbane/74/2015|... at 99.53%
+4	1701aa, >A/SouthAustralia/61... at 99.88%
+5	1701aa, >A/Newcastle/4/2015|... at 99.53%
+6	1701aa, >A/Canberra/15/2015|... at 100.00%
+7	1701aa, >A/SouthAustralia/53... at 99.94%
+8	1701aa, >A/Townsville/12/201... at 99.88%
+9	1701aa, >A/Sydney/24/2015|EP... at 99.53%
+10	1701aa, >A/Brisbane/64/2015|... at 99.94%
+11	1701aa, >A/Sydney/25/2015|EP... at 100.00%
+12	1701aa, >A/Victoria/2019/201... at 99.94%
+13	1701aa, >A/Victoria/2018/201... at 100.00%
+14	1701aa, >A/SouthAustralia/45... at 100.00%
+15	1701aa, >A/Townsville/1001/2... at 99.53%
+16	1701aa, >A/SouthAustralia/35... at 100.00%
+17	1701aa, >A/Townsville/6/2015... at 99.53%
+18	1701aa, >A/Darwin/13/2016|EP... at 99.53%
+19	1701aa, >A/Townsville/11/201... at 100.00%
+20	1701aa, >A/SouthAustralia/61... at 99.88%
+21	1701aa, >A/Townsville/12/201... at 99.88%
+22	1701aa, >A/Brisbane/105/2015... at 99.94%
+23	1701aa, >A/Brisbane/102/2015... at 99.94%
+24	1701aa, >A/Sydney/44/2015|EP... at 99.88%
+25	1701aa, >A/Newcastle/1002/20... at 100.00%
+26	1701aa, >A/Townsville/16/201... at 99.59%
+27	1701aa, >A/Brisbane/128/2015... at 99.88%
+>Cluster 52
+0	1701aa, >A/Canberra/13/2015|... *
+>Cluster 53
+0	1701aa, >A/Sydney/6/2015|EPI... *
+1	1701aa, >A/Sydney/6/2015|EPI... at 100.00%
+>Cluster 54
+0	1701aa, >A/Tasmania/25/2015|... *
+1	1701aa, >A/Tasmania/25/2015|... at 100.00%
+>Cluster 55
+0	1701aa, >A/SouthAustralia/57... *
+1	1701aa, >A/SouthAustralia/57... at 100.00%
+>Cluster 56
+0	1701aa, >A/SouthAustralia/49... *
+1	1701aa, >A/Sydney/5/2015|EPI... at 99.59%
+2	1701aa, >A/Sydney/5/2015|EPI... at 99.59%
+3	1701aa, >A/SouthAustralia/49... at 99.94%
+>Cluster 57
+0	1701aa, >A/Canberra/12/2015|... *
+1	1701aa, >A/Canberra/12/2015|... at 100.00%
+>Cluster 58
+0	1701aa, >A/Victoria/901/2015... *
+1	1701aa, >A/Victoria/901/2015... at 100.00%
+>Cluster 59
+0	1701aa, >A/Victoria/70/2012|... *
+1	1701aa, >A/VICTORIA/78/2012|... at 99.53%
+2	1701aa, >A/VICTORIA/78/2012|... at 99.53%
+3	1701aa, >A/SOUTHAUSTRALIA/66... at 99.65%
+4	1701aa, >A/VICTORIA/531/2012... at 99.94%
+5	1701aa, >A/Victoria/78/2012|... at 99.53%
+6	1701aa, >A/SouthAustralia/66... at 99.65%
+>Cluster 60
+0	1701aa, >A/Victoria/64/2012|... *
+1	1701aa, >A/Victoria/240/2012... at 100.00%
+2	1701aa, >A/SOUTHAUSTRALIA/16... at 99.82%
+3	1701aa, >A/VICTORIA/723/2012... at 99.82%
+4	1701aa, >A/SOUTHAUSTRALIA/10... at 99.82%
+5	1701aa, >A/TASMANIA/12/2012|... at 99.94%
+6	1701aa, >A/VICTORIA/806/2012... at 99.94%
+7	1701aa, >A/SouthAustralia/10... at 99.88%
+8	1701aa, >A/Victoria/84/2012|... at 100.00%
+9	1701aa, >A/Victoria/723/2012... at 99.82%
+10	1701aa, >A/Victoria/1002A/20... at 100.00%
+11	1701aa, >A/SouthAustralia/16... at 99.82%
+>Cluster 61
+0	1701aa, >A/Victoria/5064/201... *
+1	1701aa, >A/Victoria/5063/201... at 99.94%
+2	1701aa, >A/Victoria/5018/201... at 99.65%
+3	1701aa, >A/VICTORIA/2082/201... at 99.65%
+4	1701aa, >A/VICTORIA/3044/201... at 99.94%
+5	1701aa, >A/Victoria/5018/201... at 99.65%
+6	1701aa, >A/Victoria/5064/201... at 99.94%
+>Cluster 62
+0	1701aa, >A/Victoria/5057/201... *
+1	1701aa, >A/SYDNEY/37/2014|EP... at 99.65%
+2	1701aa, >A/PERTH/522/2014|EP... at 99.65%
+3	1701aa, >A/SOUTHAUSTRALIA/10... at 99.59%
+4	1701aa, >A/TASMANIA/8/2014|E... at 99.65%
+5	1701aa, >A/VICTORIA/640/2013... at 99.65%
+6	1701aa, >A/CANBERRA/113/2013... at 99.59%
+7	1701aa, >A/SOUTHAUSTRALIA/29... at 99.53%
+8	1701aa, >A/SouthAustralia/17... at 99.53%
+9	1701aa, >A/SouthAustrallia/1... at 99.53%
+10	1701aa, >A/VICTORIA/918/2012... at 99.53%
+11	1701aa, >A/TASMANIA/7/2012|E... at 99.53%
+12	1701aa, >A/Tasmania/7/2012|E... at 99.53%
+13	1701aa, >A/Victoria/918/2012... at 99.53%
+14	1701aa, >A/SouthAustralia/29... at 99.53%
+15	1701aa, >A/Canberra/113/2013... at 99.59%
+16	1701aa, >A/Victoria/640/2013... at 99.65%
+17	1701aa, >A/Tasmania/3/2014|E... at 99.53%
+18	1701aa, >A/Sydney/37/2014|EP... at 99.65%
+19	1701aa, >A/Perth/522/2014|EP... at 99.65%
+20	1701aa, >A/SouthAustralia/10... at 99.59%
+>Cluster 63
+0	1701aa, >A/Victoria/5049/201... *
+1	1701aa, >A/VICTORIA/5048/201... at 100.00%
+2	1701aa, >A/VICTORIA/1012/201... at 100.00%
+3	1701aa, >A/Victoria/1012/201... at 100.00%
+>Cluster 64
+0	1701aa, >A/Victoria/5021/201... *
+1	1701aa, >A/Sydney/1065/2014|... at 99.71%
+2	1701aa, >A/Brisbane/359/2014... at 99.76%
+3	1701aa, >A/VICTORIA/285/2014... at 99.94%
+4	1701aa, >A/VICTORIA/268/2014... at 99.94%
+5	1701aa, >A/SYDNEY/128/2014|E... at 99.82%
+6	1701aa, >A/SYDNEY/108/2014|E... at 99.94%
+7	1701aa, >A/SYDNEY/103/2014|E... at 99.76%
+8	1701aa, >A/Sydney/1007/2014|... at 99.88%
+9	1701aa, >A/SOUTHAUSTRALIA/91... at 99.82%
+10	1701aa, >A/SOUTHAUSTRALIA/91... at 99.82%
+11	1701aa, >A/SOUTHAUSTRALIA/10... at 99.65%
+12	1701aa, >A/SOUTHAUSTRALIA/10... at 99.65%
+13	1701aa, >A/BRISBANE/262/2014... at 99.88%
+14	1701aa, >A/SOUTHAUSTRALIA/16... at 99.94%
+15	1701aa, >A/SYDNEY/93/2014|EP... at 99.94%
+16	1701aa, >A/SYDNEY/92/2014|EP... at 99.88%
+17	1701aa, >A/SOUTHAUSTRALIA/10... at 99.76%
+18	1701aa, >A/NEWCASTLE/1/2013|... at 99.59%
+19	1701aa, >A/Newcastle/1/2013|... at 99.59%
+20	1701aa, >A/SouthAustralia/10... at 99.76%
+21	1701aa, >A/Sydney/1007/2014|... at 99.88%
+22	1701aa, >A/SouthAustralia/91... at 99.88%
+23	1701aa, >A/Sydney/103/2014|E... at 99.76%
+24	1701aa, >A/SouthAustralia/10... at 99.94%
+25	1701aa, >A/Brisbane/262/2014... at 99.88%
+26	1701aa, >A/Sydney/1065/2014|... at 99.88%
+27	1701aa, >A/Brisbane/359/2014... at 99.76%
+>Cluster 65
+0	1701aa, >A/Victoria/50/2012|... *
+1	1701aa, >A/VICTORIA/43/2012|... at 99.88%
+2	1701aa, >A/Victoria/527/2012... at 99.76%
+3	1701aa, >A/VICTORIA/327/2012... at 99.94%
+4	1701aa, >A/VICTORIA/1002/201... at 99.82%
+5	1701aa, >A/VICTORIA/535/2012... at 99.88%
+6	1701aa, >A/VICTORIA/43/2012|... at 99.88%
+7	1701aa, >A/VICTORIA/515/2012... at 99.94%
+8	1701aa, >A/Victoria/43/2012|... at 99.88%
+9	1701aa, >A/Victoria/50/2012|... at 100.00%
+10	1701aa, >A/Victoria/535/2012... at 99.88%
+11	1701aa, >A/Victoria/1002/201... at 99.76%
+>Cluster 66
+0	1701aa, >A/Victoria/3/2012|E... *
+1	1701aa, >A/Victoria/3/2012|E... at 100.00%
+>Cluster 67
+0	1701aa, >A/Victoria/213/2012... *
+1	1701aa, >A/Victoria/195/2012... at 99.53%
+2	1701aa, >A/VICTORIA/30/2012|... at 99.53%
+3	1701aa, >A/VICTORIA/30/2012|... at 99.53%
+4	1701aa, >A/VICTORIA/184/2012... at 99.53%
+5	1701aa, >A/SOUTHAUSTRALIA/14... at 99.53%
+6	1701aa, >A/SYDNEY/213/2012|E... at 99.53%
+7	1701aa, >A/TASMANIA/51/2012|... at 99.53%
+8	1701aa, >A/CANBERRA/33/2012|... at 99.53%
+9	1701aa, >A/SOUTHAUSTRALIA/45... at 99.53%
+10	1701aa, >A/SOUTHAUSTRALIA/39... at 99.53%
+11	1701aa, >A/SYDNEY/200/2012|E... at 99.53%
+12	1701aa, >A/SOUTHAUSTRALIA/26... at 99.53%
+13	1701aa, >A/SYDNEY/4/2012|EPI... at 99.53%
+14	1701aa, >A/Sydney/200/2012|E... at 99.53%
+15	1701aa, >A/SouthAustralia/39... at 99.53%
+16	1701aa, >A/Canberra/33/2012|... at 99.53%
+17	1701aa, >A/SouthAustralia/14... at 99.53%
+18	1701aa, >A/Victoria/184/2012... at 99.53%
+19	1701aa, >A/Victoria/213/2012... at 100.00%
+>Cluster 68
+0	1701aa, >A/Victoria/189/2012... *
+1	1701aa, >A/SouthAustralia/11... at 99.94%
+2	1701aa, >A/SouthAustralia/10... at 99.82%
+3	1701aa, >A/Perth/315/2011|EP... at 99.76%
+4	1701aa, >A/Perth/232/2011|EP... at 99.76%
+5	1701aa, >A/Perth/164/2011|EP... at 99.59%
+6	1701aa, >A/SouthAustralia/12... at 99.82%
+7	1701aa, >A/VICTORIA/120/2012... at 99.65%
+8	1701aa, >A/VICTORIA/120/2012... at 99.65%
+9	1701aa, >A/SYDNEY/245/2012|E... at 99.82%
+10	1701aa, >A/SYDNEY/233/2012|E... at 99.82%
+11	1701aa, >A/NEWCASTLE/57/2012... at 99.94%
+12	1701aa, >A/CANBERRA/37/2012|... at 100.00%
+13	1701aa, >A/CANBERRA/35/2012|... at 99.88%
+14	1701aa, >A/SOUTHAUSTRALIA/54... at 99.82%
+15	1701aa, >A/BRISBANE/27/2012|... at 99.65%
+16	1701aa, >A/SYDNEY/204/2012|E... at 99.94%
+17	1701aa, >A/SOUTHAUSTRALIA/31... at 99.76%
+18	1701aa, >A/TASMANIA/1/2012|E... at 99.76%
+19	1701aa, >A/SOUTHAUSTRALIA/1/... at 99.76%
+20	1701aa, >A/BRISBANE/413/2011... at 99.88%
+21	1701aa, >A/PERTH/317/2011|EP... at 99.88%
+22	1701aa, >A/VICTORIA/704/2011... at 99.71%
+23	1701aa, >A/SYDNEY/27/2011|EP... at 99.88%
+24	1701aa, >A/SOUTHAUSTRALIA/28... at 99.71%
+25	1701aa, >A/PERTH/86/2011|EPI... at 99.82%
+26	1701aa, >A/VICTORIA/555/2011... at 99.82%
+27	1701aa, >A/NEWCASTLE/181/201... at 99.76%
+28	1701aa, >A/VICTORIA/26/2011|... at 99.71%
+29	1701aa, >A/VICTORIA/812/2011... at 99.88%
+30	1701aa, >A/SOUTHAUSTRALIA/14... at 99.88%
+31	1701aa, >A/NEWCASTLE/5/2011|... at 99.82%
+32	1701aa, >A/NEWCASTLE/4/2010|... at 99.59%
+33	1701aa, >A/SouthAustralia/1/... at 99.76%
+34	1701aa, >A/Sydney/204/2012|E... at 100.00%
+35	1701aa, >A/Brisbane/27/2012|... at 99.65%
+36	1701aa, >A/SouthAustralia/54... at 99.82%
+37	1701aa, >A/SouthAustralia/10... at 99.82%
+38	1701aa, >A/SouthAustralia/11... at 99.94%
+39	1701aa, >A/Canberra/35/2012|... at 99.88%
+40	1701aa, >A/Victoria/120/2012... at 99.65%
+41	1701aa, >A/Sydney/233/2012|E... at 99.88%
+42	1701aa, >A/Sydney/245/2012|E... at 99.82%
+>Cluster 69
+0	1701aa, >A/Victoria/187/2012... *
+1	1701aa, >A/Victoria/187/2012... at 99.65%
+>Cluster 70
+0	1701aa, >A/Victoria/181/2012... *
+1	1701aa, >A/Victoria/163/2012... at 99.82%
+2	1701aa, >A/Victoria/113/2012... at 99.82%
+3	1701aa, >A/Townsville/1004/2... at 99.65%
+4	1701aa, >A/Townsville/4/2012... at 99.88%
+5	1701aa, >A/VICTORIA/9/2012|E... at 99.88%
+6	1701aa, >A/VICTORIA/27/2012|... at 99.88%
+7	1701aa, >A/VICTORIA/9/2012|E... at 99.88%
+8	1701aa, >A/VICTORIA/893/2012... at 99.94%
+9	1701aa, >A/PERTH/288/2012|EP... at 99.71%
+10	1701aa, >A/NEWCASTLE/33/2012... at 99.88%
+11	1701aa, >A/BRISBANE/157/2012... at 99.88%
+12	1701aa, >A/BRISBANE/61/2012|... at 99.76%
+13	1701aa, >A/SYDNEY/1002/2012|... at 99.76%
+14	1701aa, >A/TASMANIA/26/2012|... at 99.76%
+15	1701aa, >A/CANBERRA/5/2012|E... at 99.71%
+16	1701aa, >A/VICTORIA/13/2012|... at 99.76%
+17	1701aa, >A/TASMANIA/11/2012|... at 99.82%
+18	1701aa, >A/SYDNEY/39/2012|EP... at 99.88%
+19	1701aa, >A/Canberra/5/2012|E... at 99.71%
+20	1701aa, >A/Victoria/27/2012|... at 99.88%
+21	1701aa, >A/Victoria/346/2012... at 99.82%
+22	1701aa, >A/Brisbane/61/2012|... at 99.82%
+23	1701aa, >A/Victoria/113/2012... at 99.82%
+24	1701aa, >A/Sydney/1002/2012|... at 99.76%
+25	1701aa, >A/Victoria/173/2012... at 100.00%
+26	1701aa, >A/Townsville/1004/2... at 99.71%
+27	1701aa, >A/Perth/296/2012|EP... at 99.76%
+>Cluster 71
+0	1701aa, >A/Victoria/180/2012... *
+>Cluster 72
+0	1701aa, >A/Victoria/173/2012... *
+>Cluster 73
+0	1701aa, >A/Victoria/150/2012... *
+1	1701aa, >A/NEWCASTLE/8/2012|... at 99.88%
+2	1701aa, >A/CANBERRA/1001/201... at 99.94%
+3	1701aa, >A/CANBERRA/1/2012|E... at 99.88%
+4	1701aa, >A/BRISBANE/39/2012|... at 99.94%
+5	1701aa, >A/Canberra/1001/201... at 99.94%
+>Cluster 74
+0	1701aa, >A/Victoria/148/2012... *
+1	1701aa, >A/Victoria/147/2012... at 99.88%
+2	1701aa, >A/VICTORIA/92/2012|... at 99.53%
+3	1701aa, >A/Victoria/148/2012... at 99.88%
+4	1701aa, >A/Victoria/147/2012... at 99.88%
+>Cluster 75
+0	1701aa, >A/Victoria/142/2012... *
+1	1701aa, >A/BRISBANE/38/2012|... at 99.59%
+2	1701aa, >A/BRISBANE/26/2012|... at 99.59%
+3	1701aa, >A/PERTH/10/2010|EPI... at 99.53%
+4	1701aa, >A/Brisbane/38/2012|... at 99.59%
+5	1701aa, >A/Brisbane/26/2012|... at 99.65%
+6	1701aa, >A/Victoria/142/2012... at 100.00%
+>Cluster 76
+0	1701aa, >A/Victoria/140/2012... *
+>Cluster 77
+0	1701aa, >A/Victoria/122/2012... *
+1	1701aa, >A/Victoria/1003/201... at 99.82%
+2	1701aa, >A/TASMANIA/60/2012|... at 99.59%
+3	1701aa, >A/SOUTHAUSTRALIA/15... at 99.59%
+4	1701aa, >A/SYDNEY/205/2012|E... at 99.53%
+5	1701aa, >A/VICTORIA/448/2012... at 99.59%
+6	1701aa, >A/TASMANIA/22/2012|... at 99.59%
+7	1701aa, >A/Sydney/205/2012|E... at 99.53%
+8	1701aa, >A/Victoria/448/2012... at 99.59%
+9	1701aa, >A/Tasmania/60/2012|... at 99.59%
+10	1701aa, >A/Victoria/1003/201... at 99.82%
+11	1701aa, >A/SouthAustralia/15... at 99.59%
+>Cluster 78
+0	1701aa, >A/Sydney/1/2015|EPI... *
+>Cluster 79
+0	1701aa, >A/SouthAustralia/36... *
+1	1701aa, >A/VICTORIA/192/2012... at 99.94%
+2	1701aa, >A/VICTORIA/192/2012... at 99.94%
+3	1701aa, >A/VICTORIA/469/2012... at 99.88%
+4	1701aa, >A/SOUTHAUSTRALIA/13... at 99.76%
+5	1701aa, >A/SouthAustralia/30... at 99.82%
+6	1701aa, >A/SouthAustralia/30... at 99.82%
+7	1701aa, >A/VICTORIA/511/2012... at 100.00%
+8	1701aa, >A/SOUTHAUSTRALIA/30... at 99.94%
+9	1701aa, >A/BRISBANE/417/2011... at 99.53%
+10	1701aa, >A/TASMANIA/31/2011|... at 99.53%
+11	1701aa, >A/SouthAustralia/36... at 100.00%
+12	1701aa, >A/SouthAustralia/13... at 99.76%
+>Cluster 80
+0	1701aa, >A/SouthAustralia/21... *
+1	1701aa, >A/Victoria/361/2011... at 99.65%
+2	1701aa, >A/Victoria/361/2011... at 99.65%
+3	1701aa, >A/Victoria/361/2011... at 99.65%
+4	1701aa, >A/Victoria/361/2011... at 99.65%
+5	1701aa, >A/VICTORIA/725/2011... at 99.53%
+6	1701aa, >A/Victoria/361/2011... at 99.65%
+7	1701aa, >A/Victoria/361/2011... at 99.53%
+8	1701aa, >A/Victoria/361/2011... at 99.65%
+9	1701aa, >A/PERTH/81/2011|EPI... at 99.53%
+10	1701aa, >A/SOUTHAUSTRALIA/20... at 99.59%
+11	1701aa, >A/TASMANIA/26/2011|... at 99.65%
+12	1701aa, >A/SouthAustralia/03... at 99.71%
+13	1701aa, >A/VICTORIA/528/2011... at 99.71%
+14	1701aa, >A/SOUTHAUSTRALIA/3/... at 99.71%
+>Cluster 81
+0	1701aa, >A/SouthAustralia/20... *
+1	1701aa, >A/Perth/249/2011|EP... at 99.53%
+2	1701aa, >A/Victoria/721/2011... at 99.82%
+3	1701aa, >A/VICTORIA/649/2011... at 99.76%
+4	1701aa, >A/Brisbane/299/2011... at 99.82%
+5	1701aa, >A/SYDNEY/97/2011|EP... at 99.65%
+6	1701aa, >A/VICTORIA/893/2011... at 99.82%
+7	1701aa, >A/BRISBANE/299/2011... at 99.76%
+8	1701aa, >A/VICTORIA/892/2011... at 99.71%
+9	1701aa, >A/BRISBANE/395/2011... at 99.88%
+10	1701aa, >A/VICTORIA/714/2011... at 99.76%
+11	1701aa, >A/VICTORIA/362/2011... at 99.82%
+12	1701aa, >A/VICTORIA/362/2011... at 99.76%
+13	1701aa, >A/Brisbane/299/2011... at 99.59%
+14	1701aa, >A/Brisbane/299/2011... at 99.88%
+15	1701aa, >A/BRISBANE/358/2011... at 99.82%
+16	1701aa, >A/VICTORIA/103/2011... at 99.88%
+17	1701aa, >A/VICTORIA/853/2011... at 99.94%
+18	1701aa, >A/VICTORIA/636/2011... at 99.88%
+19	1701aa, >A/VICTORIA/864/2011... at 99.94%
+20	1701aa, >A/VICTORIA/862/2011... at 99.94%
+21	1701aa, >A/VICTORIA/861/2011... at 99.94%
+22	1701aa, >A/VICTORIA/853/2011... at 99.94%
+23	1701aa, >A/BRISBANE/299/2011... at 99.88%
+24	1701aa, >A/BRISBANE/281/2011... at 99.82%
+25	1701aa, >A/VICTORIA/546/2011... at 99.94%
+26	1701aa, >A/SOUTHAUSTRALIA/45... at 99.88%
+27	1701aa, >A/VICTORIA/511/2011... at 99.82%
+28	1701aa, >A/VICTORIA/529/2011... at 99.53%
+29	1701aa, >A/Perth/10/2010|EPI... at 99.53%
+30	1701aa, >A/BRISBANE/219/2010... at 99.53%
+31	1701aa, >A/BRISBANE/210/2010... at 99.53%
+32	1701aa, >A/Perth/10/2010|EPI... at 99.53%
+>Cluster 82
+0	1701aa, >A/SouthAustralia/11... *
+1	1701aa, >A/SYDNEY/223/2012|E... at 99.94%
+2	1701aa, >A/VICTORIA/802/2012... at 99.94%
+3	1701aa, >A/PERTH/41/2012|EPI... at 99.76%
+4	1701aa, >A/BRISBANE/382/2011... at 99.53%
+5	1701aa, >A/VICTORIA/5/2011|E... at 99.59%
+6	1701aa, >A/TOWNSVILLE/117/20... at 99.59%
+7	1701aa, >A/TOWNSVILLE/34/201... at 99.53%
+8	1701aa, >A/TOWNSVILLE/7/2011... at 99.53%
+9	1701aa, >A/TOWNSVILLE/87/201... at 99.59%
+10	1701aa, >A/TOWNSVILLE/97/201... at 99.53%
+11	1701aa, >A/TOWNSVILLE/93/201... at 99.59%
+12	1701aa, >A/TOWNSVILLE/92/201... at 99.53%
+13	1701aa, >A/TOWNSVILLE/86/201... at 99.59%
+14	1701aa, >A/TOWNSVILLE/106/20... at 99.59%
+15	1701aa, >A/TOWNSVILLE/104/20... at 99.53%
+16	1701aa, >A/TOWNSVILLE/102/20... at 99.59%
+17	1701aa, >A/TOWNSVILLE/100/20... at 99.59%
+18	1701aa, >A/Brisbane/210/2010... at 99.53%
+19	1701aa, >A/BRISBANE/262/2010... at 99.59%
+20	1701aa, >A/BRISBANE/122/2010... at 99.53%
+21	1701aa, >A/BRISBANE/252/2010... at 99.59%
+22	1701aa, >A/BRISBANE/218/2010... at 99.59%
+23	1701aa, >A/Brisbane/220/2010... at 99.59%
+24	1701aa, >A/Brisbane/220/2010... at 99.59%
+25	1701aa, >A/SouthAustralia/11... at 100.00%
+>Cluster 83
+0	1701aa, >A/SouthAustralia/1/... *
+1	1701aa, >A/Victoria/5075/201... at 99.76%
+2	1701aa, >A/Victoria/5075/201... at 99.76%
+3	1701aa, >A/SouthAustralia/1/... at 100.00%
+>Cluster 84
+0	1701aa, >A/Perth/327/2011|EP... *
+1	1701aa, >A/PERTH/305/2011|EP... at 99.76%
+>Cluster 85
+0	1701aa, >A/Perth/247/2013|EP... *
+1	1701aa, >A/Perth/247/2013|EP... at 99.94%
+>Cluster 86
+0	1701aa, >A/Perth/185/2011|EP... *
+>Cluster 87
+0	1701aa, >A/Perth/153/2012|EP... *
+1	1701aa, >A/Perth/153/2012|EP... at 100.00%
+>Cluster 88
+0	1701aa, >A/Perth/16/2009|EPI... *
+1	1701aa, >A/Perth/16/2009|EPI... at 100.00%
+2	1701aa, >A/Australia/55/2009... at 99.65%
+3	1701aa, >A/Australia/34/2009... at 99.76%
+4	1701aa, >A/Australia/22/2009... at 99.71%
+5	1701aa, >A/Australia/18/2009... at 99.71%
+6	1701aa, >A/Sydney/616/2009|E... at 99.71%
+7	1701aa, >A/Australia/2/2009|... at 99.53%
+8	1701aa, >A/PERTH/324/2009|EP... at 99.59%
+9	1701aa, >A/BRISBANE/100/2009... at 99.71%
+10	1701aa, >A/CANBERRA/20/2009|... at 99.71%
+11	1701aa, >A/SYDNEY/25/2009|EP... at 99.71%
+12	1701aa, >A/BRISBANE/52/2009|... at 99.53%
+13	1701aa, >A/Perth/16/2009|EPI... at 100.00%
+14	1701aa, >A/Perth/15/2009|EPI... at 100.00%
+15	1701aa, >A/BRISBANE/66/2009|... at 99.71%
+16	1701aa, >A/Canberra/18/2009|... at 99.59%
+17	1701aa, >A/Victoria/209/2009... at 99.59%
+18	1701aa, >A/Brisbane/53/2009|... at 99.59%
+19	1701aa, >A/Perth/15/2009|EPI... at 100.00%
+20	1701aa, >A/Perth/16/2009|EPI... at 100.00%
+21	1701aa, >A/Perth/16/2009|EPI... at 99.94%
+>Cluster 89
+0	1701aa, >A/Canberra/82/2014|... *
+1	1701aa, >A/CANBERRA/82/2014|... at 99.94%
+2	1701aa, >A/CANBERRA/82/2014|... at 99.82%
+3	1701aa, >A/Canberra/82/2014|... at 99.94%
+4	1701aa, >A/Canberra/82/2014|... at 99.94%
+>Cluster 90
+0	1701aa, >A/Sydney/30/2014|EP... *
+1	1701aa, >A/PERTH/510/2013|EP... at 99.53%
+2	1701aa, >A/Perth/510/2013|EP... at 99.53%
+3	1701aa, >A/Sydney/30/2014|EP... at 99.88%
+>Cluster 91
+0	1701aa, >A/Brisbane/21/2012|... *
+1	1701aa, >A/Brisbane/14/2012|... at 100.00%
+>Cluster 92
+0	1701aa, >A/Brisbane/14/2012|... *
+1	1701aa, >A/Brisbane/21/2012|... at 100.00%
+>Cluster 93
+0	1701aa, >A/Brisbane/501/2011... *
+1	1701aa, >A/TOWNSVILLE/73/201... at 99.76%
+2	1701aa, >A/TOWNSVILLE/48/201... at 99.82%
+3	1701aa, >A/TOWNSVILLE/98/201... at 99.59%
+4	1701aa, >A/TOWNSVILLE/87/201... at 99.71%
+5	1701aa, >A/TOWNSVILLE/105/20... at 99.71%
+>Cluster 94
+0	1701aa, >A/Sydney/602/2009|E... *
+1	1701aa, >A/PERTH/107/2009|EP... at 99.53%
+2	1701aa, >A/SYDNEY/603/2009|E... at 99.65%
+3	1701aa, >A/Sydney/1/2009|EPI... at 99.65%
+4	1701aa, >A/Victoria/502/2009... at 99.65%
+>Cluster 95
+0	1701aa, >A/Victoria/5060/201... *
+1	1701aa, >A/Victoria/5060/201... at 100.00%
+2	1701aa, >A/VICTORIA/5070/201... at 99.53%
+3	1701aa, >A/VICTORIA/5070/201... at 99.53%
+4	1701aa, >A/Victoria/5070/201... at 99.53%
+>Cluster 96
+0	1701aa, >A/TASMANIA/37/2014|... *
+1	1701aa, >A/SYDNEY/85/2014|EP... at 99.71%
+2	1701aa, >A/Sydney/85/2014|EP... at 99.71%
+3	1701aa, >A/Tasmania/37/2014|... at 100.00%
+>Cluster 97
+0	1701aa, >A/Victoria/8/2010|E... *
+1	1701aa, >A/DARWIN/6/2011|EPI... at 99.53%
+2	1701aa, >A/DARWIN/95/2011|EP... at 99.53%
+3	1701aa, >A/DARWIN/25/2011|EP... at 99.53%
+4	1701aa, >A/DARWIN/14/2011|EP... at 99.53%
+5	1701aa, >A/Sydney/DD2-01/201... at 99.76%
+6	1701aa, >A/BRISBANE/217/2010... at 99.76%
+7	1701aa, >A/VICTORIA/8/2010|E... at 99.94%
+8	1701aa, >A/VICTORIA/8/2010|E... at 100.00%
+9	1701aa, >A/CANBERRA/2/2010|E... at 99.65%
+>Cluster 98
+0	1701aa, >A/Victoria/208/2009... *
+1	1701aa, >A/Brisbane/11/2010|... at 99.53%
+2	1701aa, >A/PERTH/28/2011|EPI... at 99.76%
+3	1701aa, >A/Sydney/DD2-02/201... at 99.82%
+4	1701aa, >A/Australia/46/2009... at 99.88%
+5	1701aa, >A/Australia/30/2009... at 99.94%
+6	1701aa, >A/SOUTHAUSTRALIA/41... at 99.53%
+7	1701aa, >A/PERTH/49/2010|EPI... at 99.88%
+8	1701aa, >A/PERTH/501/2010|EP... at 99.71%
+9	1701aa, >A/Brisbane/11/2010|... at 99.53%
+10	1701aa, >A/PERTH/501/2010|EP... at 99.76%
+11	1701aa, >A/BRISBANE/31/2010|... at 99.94%
+12	1701aa, >A/PERTH/519/2010|EP... at 99.59%
+13	1701aa, >A/Brisbane/11/2010|... at 99.53%
+14	1701aa, >A/BRISBANE/11/2010|... at 99.59%
+15	1701aa, >A/VICTORIA/208/2009... at 100.00%
+16	1701aa, >A/Australia/19/2009... at 99.94%
+17	1701aa, >A/Victoria/208/2009... at 99.82%
+18	1701aa, >A/VICTORIA/206/2009... at 100.00%
+19	1701aa, >A/Victoria/208/2009... at 100.00%
+>Cluster 99
+0	1701aa, >A/Victoria/500/2009... *
+1	1701aa, >A/Victoria/500/2009... at 99.94%
+>Cluster 100
+0	1701aa, >A/SouthAustralia/55... *
+1	1701aa, >A/SouthAustralia/55... at 99.94%
+2	1701aa, >A/SouthAustralia/55... at 99.94%
+3	1701aa, >A/SOUTHAUSTRALIA/55... at 99.94%
+4	1701aa, >A/SOUTHAUSTRALIA/55... at 99.59%
+>Cluster 101
+0	1701aa, >A/TASMANIA/15/2014|... *
+1	1701aa, >A/Tasmania/15/2014|... at 100.00%
+>Cluster 102
+0	1701aa, >A/SYDNEY/37/2014|EP... *
+>Cluster 103
+0	1701aa, >A/SYDNEY/84/2014|EP... *
+1	1701aa, >A/Sydney/84/2014|EP... at 100.00%
+>Cluster 104
+0	1701aa, >A/NEWCASTLE/20/2014... *
+1	1701aa, >A/SYDNEY/69/2013|EP... at 99.76%
+2	1701aa, >A/Newcastle/20/2014... at 100.00%
+>Cluster 105
+0	1701aa, >A/VICTORIA/503/2014... *
+>Cluster 106
+0	1701aa, >A/SYDNEY/8/2014|EPI... *
+1	1701aa, >A/Sydney/8/2014|EPI... at 100.00%
+>Cluster 107
+0	1701aa, >A/TASMANIA/3/2014|E... *
+>Cluster 108
+0	1701aa, >A/SYDNEY/83/2013|EP... *
+>Cluster 109
+0	1701aa, >A/BRISBANE/134/2013... *
+>Cluster 110
+0	1701aa, >A/BRISBANE/24/2013|... *
+1	1701aa, >A/TASMANIA/1/2013|E... at 99.59%
+>Cluster 111
+0	1701aa, >A/BRISBANE/16/2013|... *
+1	1701aa, >A/Brisbane/16/2013|... at 100.00%
+>Cluster 112
+0	1701aa, >A/Victoria/361/2011... *
+1	1701aa, >A/Victoria/361/2011... at 100.00%
+2	1701aa, >A/Tasmania/32/2011|... at 99.53%
+3	1701aa, >A/Victoria/361/2011... at 100.00%
+>Cluster 113
+0	1701aa, >A/PERTH/164/2013|EP... *
+1	1701aa, >A/Perth/164/2013|EP... at 100.00%
+>Cluster 114
+0	1701aa, >A/BRISBANE/3/2013|E... *
+>Cluster 115
+0	1701aa, >A/SOUTHAUSTRALIA/8/... *
+1	1701aa, >A/SouthAustralia/8/... at 100.00%
+>Cluster 116
+0	1701aa, >A/VICTORIA/175/2012... *
+1	1701aa, >A/VICTORIA/87/2012|... at 99.76%
+2	1701aa, >A/VICTORIA/175/2012... at 100.00%
+3	1701aa, >A/VICTORIA/87/2012|... at 99.76%
+4	1701aa, >A/VICTORIA/873/2012... at 99.71%
+5	1701aa, >A/Victoria/87/2012|... at 99.76%
+6	1701aa, >A/Victoria/175/2012... at 100.00%
+>Cluster 117
+0	1701aa, >A/VICTORIA/7/2012|E... *
+1	1701aa, >A/VICTORIA/7/2012|E... at 100.00%
+2	1701aa, >A/VICTORIA/920/2012... at 99.88%
+3	1701aa, >A/Victoria/7/2012|E... at 100.00%
+>Cluster 118
+0	1701aa, >A/Sydney/195/2012|E... *
+1	1701aa, >A/SYDNEY/195/2012|E... at 99.82%
+2	1701aa, >A/VICTORIA/641/2012... at 99.76%
+3	1701aa, >A/SYDNEY/1001/2012|... at 99.76%
+4	1701aa, >A/VICTORIA/829/2012... at 99.82%
+5	1701aa, >A/VICTORIA/342/2012... at 99.82%
+6	1701aa, >A/BRISBANE/11/2012|... at 99.65%
+7	1701aa, >A/Brisbane/11/2012|... at 99.65%
+8	1701aa, >A/Sydney/1001/2012|... at 99.76%
+9	1701aa, >A/Victoria/641/2012... at 99.76%
+10	1701aa, >A/Sydney/195/2012|E... at 99.88%
+>Cluster 119
+0	1701aa, >A/BRISBANE/132/2012... *
+>Cluster 120
+0	1701aa, >A/Maryland/02/2012|... *
+>Cluster 121
+0	1701aa, >A/DARWIN/1001/2012|... *
+1	1701aa, >A/Darwin/1001/2012|... at 100.00%
+>Cluster 122
+0	1701aa, >A/VICTORIA/346/2012... *
+>Cluster 123
+0	1701aa, >A/Perth/10/2010|EPI... *
+1	1701aa, >A/TOWNSVILLE/20/201... at 99.53%
+2	1701aa, >A/Victoria/563/2010... at 99.65%
+3	1701aa, >A/Perth/10/2010|EPI... at 99.71%
+4	1701aa, >A/TOWNSVILLE/60/201... at 99.53%
+5	1701aa, >A/Victoria/563/2010... at 99.59%
+>Cluster 124
+0	1701aa, >A/SOUTHAUSTRALIA/17... *
+1	1701aa, >A/SOUTHAUSTRALIA/31... at 99.76%
+2	1701aa, >A/SOUTHAUSTRALIA/29... at 99.71%
+3	1701aa, >A/SOUTHAUSTRALIA/34... at 99.88%
+>Cluster 125
+0	1701aa, >A/VICTORIA/335/2011... *
+>Cluster 126
+0	1701aa, >A/VICTORIA/304/2011... *
+>Cluster 127
+0	1701aa, >A/BRISBANE/233/2011... *
+>Cluster 128
+0	1701aa, >A/NEWCASTLE/48/2011... *
+>Cluster 129
+0	1701aa, >A/BRISBANE/159/2011... *
+1	1701aa, >A/DARWIN/92/2011|EP... at 99.59%
+>Cluster 130
+0	1701aa, >A/VICTORIA/803/2011... *
+>Cluster 131
+0	1701aa, >A/VICTORIA/1034/201... *
+1	1701aa, >A/VICTORIA/1035/201... at 99.88%
+>Cluster 132
+0	1701aa, >A/TASMANIA/2/2011|E... *
+1	1701aa, >A/TOWNSVILLE/3/2011... at 99.76%
+2	1701aa, >A/VICTORIA/650/2010... at 99.53%
+3	1701aa, >A/VICTORIA/563/2010... at 99.53%
+4	1701aa, >A/SYDNEY/13/2010|EP... at 99.53%
+5	1701aa, >A/Victoria/563/2010... at 99.53%
+>Cluster 133
+0	1701aa, >A/VICTORIA/506/2011... *
+1	1701aa, >A/VICTORIA/500/2011... at 99.82%
+2	1701aa, >A/BRISBANE/1/2011|E... at 99.88%
+>Cluster 134
+0	1701aa, >A/Brisbane/11/2010|... *
+>Cluster 135
+0	1701aa, >A/BRISBANE/253/2010... *
+1	1701aa, >A/BRISBANE/258/2010... at 99.76%
+>Cluster 136
+0	1701aa, >A/PERTH/56/2010|EPI... *
+>Cluster 137
+0	1701aa, >A/VICTORIA/4/2010|E... *
+>Cluster 138
+0	1701aa, >A/Perth/673/2009|EP... *
+>Cluster 139
+0	1701aa, >A/Victoria/210/2009... *
+1	1701aa, >A/Victoria/210/2009... at 99.71%
+2	1701aa, >A/Victoria/210/2009... at 99.65%
+>Cluster 140
+0	1701aa, >A/PERTH/160/2009|EP... *
+>Cluster 141
+0	1701aa, >A/BRISBANE/54/2009|... *
+>Cluster 142
+0	1701aa, >A/Sydney/3/2009|EPI... *
+>Cluster 143
+0	1701aa, >A/Victoria/2036/201... *
+1	1701aa, >A/Victoria/23/2017|... at 100.00%
+2	1701aa, >A/Victoria/2013/201... at 99.53%
+3	1701aa, >A/Victoria/2012/201... at 99.53%
+4	1701aa, >A/Victoria/2011/201... at 99.53%
+5	1701aa, >A/Victoria/2017/201... at 99.53%
+6	1701aa, >A/Victoria/2015/201... at 99.53%
+7	1701aa, >A/Victoria/2014/201... at 99.53%
+8	1701aa, >A/Victoria/2010/201... at 99.53%
+9	1701aa, >A/Brisbane/52/2017|... at 99.53%
+10	1701aa, >A/Newcastle/27/2017... at 99.53%
+11	1701aa, >A/Newcastle/2/2017|... at 99.53%
+12	1701aa, >A/Victoria/1033/201... at 100.00%
+13	1701aa, >A/Victoria/573/2017... at 99.94%
+14	1701aa, >A/Brisbane/119/2017... at 99.94%
+>Cluster 144
+0	1701aa, >A/Victoria/533/2017... *
+1	1701aa, >A/Victoria/21/2017|... at 99.71%
+2	1701aa, >A/SouthAustralia/18... at 99.94%
+3	1701aa, >A/SouthAustralia/19... at 99.76%
+4	1701aa, >A/Victoria/2044/201... at 100.00%
+5	1701aa, >A/Victoria/2043/201... at 100.00%
+6	1701aa, >A/Victoria/517/2017... at 100.00%
+7	1701aa, >A/Victoria/17/2017|... at 100.00%
+8	1701aa, >A/SouthAustralia/17... at 99.94%
+9	1701aa, >A/SouthAustralia/16... at 99.94%
+10	1701aa, >A/SouthAustralia/14... at 99.71%
+11	1701aa, >A/SouthAustralia/14... at 100.00%
+12	1701aa, >A/Victoria/512/2017... at 100.00%
+13	1701aa, >A/Brisbane/28/2017|... at 99.53%
+14	1701aa, >A/SouthAustralia/35... at 99.53%
+15	1701aa, >A/Sydney/337/2016|E... at 99.53%
+16	1701aa, >A/Newcastle/108/201... at 99.53%
+17	1701aa, >A/Newcastle/109/201... at 99.53%
+18	1701aa, >A/Victoria/1037/201... at 100.00%
+19	1701aa, >A/Sydney/1179/2017|... at 100.00%
+20	1701aa, >A/Sydney/1177/2017|... at 99.65%
+21	1701aa, >A/Tasmania/1032/201... at 100.00%
+22	1701aa, >A/Tasmania/1031/201... at 100.00%
+23	1701aa, >A/Brisbane/1076/201... at 99.94%
+24	1701aa, >A/Sydney/1163/2017|... at 99.88%
+25	1701aa, >A/Sydney/1162/2017|... at 99.94%
+26	1701aa, >A/Sydney/1158/2017|... at 99.94%
+27	1701aa, >A/Tasmania/004/2017... at 100.00%
+28	1701aa, >A/Tasmania/18/2017|... at 99.88%
+29	1701aa, >A/Perth/77/2017|EPI... at 99.71%
+30	1701aa, >A/Tasmania/006/2017... at 100.00%
+31	1701aa, >A/Victoria/580/2017... at 99.94%
+32	1701aa, >A/Victoria/559/2017... at 99.76%
+33	1701aa, >A/Tasmania/35/2017|... at 99.65%
+34	1701aa, >A/Victoria/2074/201... at 100.00%
+35	1701aa, >A/Tasmania/49/2017|... at 100.00%
+36	1701aa, >A/Tasmania/47/2017|... at 99.94%
+37	1701aa, >A/Tasmania/45/2017|... at 100.00%
+38	1701aa, >A/Tasmania/44/2017|... at 100.00%
+39	1701aa, >A/Tasmania/1003/201... at 99.94%
+40	1701aa, >A/Tasmania/1002/201... at 99.94%
+41	1701aa, >A/Townsville/1004/2... at 99.82%
+42	1701aa, >A/Sydney/1085/2017|... at 99.65%
+43	1701aa, >A/Tasmania/29/2017|... at 100.00%
+44	1701aa, >A/Victoria/609/2017... at 100.00%
+45	1701aa, >A/Tasmania/8/2017|E... at 100.00%
+46	1701aa, >A/Tasmania/7/2017|E... at 100.00%
+47	1701aa, >A/Tasmania/28/2017|... at 100.00%
+48	1701aa, >A/Tasmania/1001/201... at 99.94%
+49	1701aa, >A/Sydney/1041/2017|... at 100.00%
+50	1701aa, >A/SouthAustralia/10... at 99.94%
+51	1701aa, >A/Perth/99/2017|EPI... at 99.76%
+52	1701aa, >A/Perth/106/2017|EP... at 99.76%
+53	1701aa, >A/Tasmania/39/2017|... at 100.00%
+54	1701aa, >A/Tasmania/27/2017|... at 100.00%
+55	1701aa, >A/Tasmania/19/2017|... at 100.00%
+56	1701aa, >A/Tasmania/900/2017... at 100.00%
+57	1701aa, >A/SouthAustralia/19... at 100.00%
+58	1701aa, >A/Tasmania/21/2017|... at 99.94%
+59	1701aa, >A/Tasmania/18/2017|... at 100.00%
+60	1701aa, >A/Tasmania/3/2017|E... at 100.00%
+61	1701aa, >A/Victoria/2035/201... at 100.00%
+62	1701aa, >A/Canberra/22/2017|... at 100.00%
+63	1701aa, >A/Perth/151/2018|EP... at 99.59%
+64	1701aa, >A/Newcastle/56/2018... at 99.65%
+65	1701aa, >A/Sydney/98/2018|EP... at 99.53%
+66	1701aa, >A/Sydney/1017/2018|... at 99.65%
+67	1701aa, >A/Victoria/2059/201... at 99.53%
+68	1701aa, >A/Brisbane/01/2018_... at 99.53%
+69	1701aa, >A/Townsville/1002/2... at 99.65%
+70	1701aa, >A/Brisbane/43/2018|... at 99.53%
+71	1701aa, >A/Sydney/521/2018|E... at 99.59%
+72	1701aa, >A/Canberra/8/2018|E... at 99.53%
+73	1701aa, >A/Newcastle/21/2018... at 99.59%
+74	1701aa, >A/Victoria/2036/201... at 99.53%
+75	1701aa, >A/Sydney/93/2018|EP... at 99.53%
+76	1701aa, >A/Sydney/83/2018|EP... at 99.59%
+77	1701aa, >A/Newcastle/44/2018... at 99.65%
+78	1701aa, >A/Brisbane/117/2018... at 99.65%
+79	1701aa, >A/Sydney/515/2018|E... at 99.65%
+80	1701aa, >A/Sydney/47/2018|EP... at 99.59%
+81	1701aa, >A/Newcastle/9/2018|... at 99.65%
+82	1701aa, >A/Sydney/67/2018|EP... at 99.65%
+83	1701aa, >A/Brisbane/43/2018|... at 99.53%
+84	1701aa, >A/Townsville/10/201... at 99.59%
+85	1701aa, >A/SouthAustralia/13... at 99.59%
+86	1701aa, >A/Newcastle/13/2018... at 99.53%
+87	1701aa, >A/Newcastle/12/2018... at 99.65%
+88	1701aa, >A/Newcastle/7/2018|... at 99.53%
+89	1701aa, >A/Brisbane/27/2018|... at 99.59%
+90	1701aa, >A/Brisbane/28/2018|... at 99.59%
+91	1701aa, >A/Townsville/1000/2... at 99.65%
+92	1701aa, >A/SouthAustralia/4/... at 99.53%
+93	1701aa, >A/SouthAustralia/3/... at 99.53%
+94	1701aa, >A/Sydney/23/2018|EP... at 99.59%
+95	1701aa, >A/Sydney/25/2018|EP... at 99.53%
+96	1701aa, >A/Canberra/3/2018|E... at 99.53%
+97	1701aa, >A/Brisbane/43/2018|... at 99.65%
+98	1701aa, >A/Brisbane/55/2018|... at 99.65%
+99	1701aa, >A/Perth/12/2018|EPI... at 99.59%
+100	1701aa, >A/Canberra/1/2018|E... at 99.65%
+101	1701aa, >A/Sydney/17/2018|EP... at 99.59%
+102	1701aa, >A/SouthAustralia/11... at 99.59%
+103	1701aa, >A/SouthAustralia/8/... at 99.65%
+104	1701aa, >A/Brisbane/40/2018|... at 99.53%
+105	1701aa, >A/Brisbane/01/2018|... at 99.53%
+106	1701aa, >A/Brisbane/190/2017... at 99.59%
+107	1701aa, >A/SouthAustralia/10... at 99.88%
+108	1701aa, >A/Sydney/1195/2017|... at 99.82%
+109	1701aa, >A/Tasmania/1038/201... at 100.00%
+110	1701aa, >A/SouthAustralia/10... at 100.00%
+111	1701aa, >A/Brisbane/1089/201... at 99.76%
+112	1701aa, >A/Perth/200/2017|EP... at 99.94%
+113	1701aa, >A/Victoria/170/2017... at 99.88%
+114	1701aa, >A/Victoria/160/2017... at 99.94%
+115	1701aa, >A/Victoria/113/2017... at 100.00%
+116	1701aa, >A/Victoria/106/2017... at 100.00%
+117	1701aa, >A/Townsville/1008/2... at 100.00%
+118	1701aa, >A/Tasmania/1010/201... at 100.00%
+119	1701aa, >A/SouthAustralia/10... at 100.00%
+120	1701aa, >A/Perth/345/2017|EP... at 99.94%
+121	1701aa, >A/Perth/13/2018|EPI... at 99.59%
+122	1701aa, >A/Brisbane/23/2018|... at 99.53%
+123	1701aa, >A/Sydney/4/2018|EPI... at 99.76%
+124	1701aa, >A/Brisbane/16/2018|... at 99.65%
+125	1701aa, >A/Brisbane/11/2018|... at 99.65%
+126	1701aa, >A/Brisbane/10/2018|... at 99.53%
+127	1701aa, >A/Brisbane/06/2018|... at 99.59%
+128	1701aa, >A/Newcastle/5/2018|... at 99.65%
+129	1701aa, >A/Newcastle/206/201... at 99.53%
+130	1701aa, >A/SouthAustralia/27... at 99.59%
+131	1701aa, >A/Brisbane/01/2018|... at 99.53%
+132	1701aa, >A/Brisbane/190/2017... at 99.65%
+133	1701aa, >A/Brisbane/01/2018|... at 99.53%
+134	1701aa, >A/Brisbane/192/2017... at 99.65%
+135	1701aa, >A/Brisbane/190/2017... at 99.65%
+136	1701aa, >A/SouthAustralia/27... at 99.65%
+137	1701aa, >A/SouthAustralia/27... at 99.65%
+138	1701aa, >A/SouthAustralia/27... at 99.65%
+139	1701aa, >A/SouthAustralia/10... at 99.71%
+140	1701aa, >A/Brisbane/01/2018|... at 99.59%
+141	1701aa, >A/SouthAustralia/10... at 99.88%
+142	1701aa, >A/SouthAustralia/10... at 99.71%
+143	1701aa, >A/Perth/336/2017|EP... at 99.82%
+144	1701aa, >A/SouthAustralia/27... at 99.53%
+145	1701aa, >A/Sydney/1207/2017|... at 99.53%
+146	1701aa, >A/SouthAustralia/27... at 99.76%
+147	1701aa, >A/SouthAustralia/27... at 99.71%
+148	1701aa, >A/SouthAustralia/15... at 100.00%
+149	1701aa, >A/Sydney/221/2017|E... at 99.76%
+150	1701aa, >A/Brisbane/192/2017... at 99.76%
+151	1701aa, >A/Brisbane/190/2017... at 99.71%
+152	1701aa, >A/Tasmania/74/2017|... at 99.88%
+153	1701aa, >A/Tasmania/73/2017|... at 99.94%
+154	1701aa, >A/Tasmania/72/2017|... at 99.76%
+155	1701aa, >A/Tasmania/71/2017|... at 99.94%
+156	1701aa, >A/Tasmania/68/2017|... at 99.82%
+157	1701aa, >A/Tasmania/67/2017|... at 99.76%
+158	1701aa, >A/Victoria/184/2017... at 100.00%
+159	1701aa, >A/Victoria/204/2017... at 100.00%
+160	1701aa, >A/Tasmania/63/2017|... at 99.88%
+161	1701aa, >A/Tasmania/59/2017|... at 100.00%
+162	1701aa, >A/Tasmania/58/2017|... at 99.94%
+163	1701aa, >A/Perth/233/2017|EP... at 99.94%
+164	1701aa, >A/Victoria/887/2017... at 99.94%
+165	1701aa, >A/SouthAustralia/25... at 99.94%
+166	1701aa, >A/Victoria/882/2017... at 99.94%
+167	1701aa, >A/Tasmania/61/2017|... at 99.88%
+168	1701aa, >A/Victoria/862/2017... at 99.88%
+169	1701aa, >A/Victoria/857/2017... at 99.94%
+170	1701aa, >A/Newcastle/605/201... at 99.94%
+171	1701aa, >A/Newcastle/606/201... at 99.94%
+172	1701aa, >A/Victoria/734/2017... at 99.76%
+>Cluster 145
+0	1701aa, >A/Sydney/149/2017|E... *
+1	1701aa, >A/Sydney/1021/2017|... at 99.94%
+2	1701aa, >A/Sydney/86/2017|EP... at 99.88%
+3	1701aa, >A/Sydney/82/2017|EP... at 99.59%
+4	1701aa, >A/Newcastle/50/2017... at 99.94%
+5	1701aa, >A/Newcastle/49/2017... at 99.94%
+6	1701aa, >A/Newcastle/47/2017... at 99.94%
+7	1701aa, >A/Newcastle/42/2017... at 99.94%
+8	1701aa, >A/Newcastle/82/2017... at 99.94%
+9	1701aa, >A/Newcastle/73/2017... at 99.88%
+10	1701aa, >A/Newcastle/72/2017... at 99.94%
+11	1701aa, >A/Newcastle/70/2017... at 99.94%
+12	1701aa, >A/Newcastle/68/2017... at 99.88%
+13	1701aa, >A/Newcastle/62/2017... at 99.82%
+14	1701aa, >A/Newcastle/55/2017... at 99.94%
+15	1701aa, >A/Sydney/131/2017|E... at 99.82%
+16	1701aa, >A/Brisbane/47/2017|... at 99.94%
+17	1701aa, >A/Sydney/107/2017|E... at 99.88%
+18	1701aa, >A/Sydney/97/2017|EP... at 99.88%
+19	1701aa, >A/Sydney/96/2017|EP... at 99.94%
+20	1701aa, >A/Sydney/57/2017|EP... at 99.94%
+21	1701aa, >A/Sydney/50/2017|EP... at 99.71%
+22	1701aa, >A/Sydney/1000/2017|... at 99.94%
+23	1701aa, >A/SouthAustralia/56... at 99.94%
+24	1701aa, >A/SouthAustralia/45... at 99.59%
+25	1701aa, >A/Canberra/1/2017|E... at 99.88%
+26	1701aa, >A/Perth/60/2017|EPI... at 99.94%
+27	1701aa, >A/Tasmania/7/2017|E... at 99.59%
+28	1701aa, >A/Newcastle/29/2017... at 99.59%
+29	1701aa, >A/SouthAustralia/39... at 99.53%
+30	1701aa, >A/Perth/41/2017|EPI... at 99.59%
+31	1701aa, >A/Newcastle/13/2017... at 99.59%
+32	1701aa, >A/Newcastle/7/2017|... at 99.71%
+33	1701aa, >A/Sydney/51/2017|EP... at 99.88%
+34	1701aa, >A/Sydney/1149/2017|... at 99.76%
+35	1701aa, >A/Townsville/1012/2... at 99.59%
+36	1701aa, >A/Brisbane/1056/201... at 99.82%
+37	1701aa, >A/Townsville/1011/2... at 99.59%
+38	1701aa, >A/Brisbane/1045/201... at 99.71%
+39	1701aa, >A/Brisbane/1040/201... at 99.88%
+40	1701aa, >A/Victoria/575/2017... at 99.53%
+41	1701aa, >A/Sydney/1100/2017|... at 99.94%
+42	1701aa, >A/Victoria/7/2017|E... at 99.94%
+>Cluster 146
+0	1701aa, >A/Victoria/15/2017|... *
+1	1701aa, >A/SouthAustralia/10... at 99.59%
+2	1701aa, >A/Newcastle/45/2017... at 99.59%
+3	1701aa, >A/Victoria/11/2017|... at 99.82%
+4	1701aa, >A/Victoria/25/2017|... at 99.82%
+5	1701aa, >A/Victoria/540/2017... at 99.88%
+6	1701aa, >A/Victoria/528/2017... at 99.65%
+7	1701aa, >A/Victoria/527/2017... at 99.65%
+8	1701aa, >A/Sydney/144/2017|E... at 99.88%
+9	1701aa, >A/Sydney/143/2017|E... at 99.88%
+10	1701aa, >A/SouthAustralia/18... at 99.53%
+11	1701aa, >A/Victoria/22/2017|... at 99.88%
+12	1701aa, >A/Victoria/19/2017|... at 99.88%
+13	1701aa, >A/Newcastle/89/2017... at 99.59%
+14	1701aa, >A/Victoria/509/2017... at 99.82%
+15	1701aa, >A/Victoria/508/2017... at 99.82%
+16	1701aa, >A/Newcastle/66/2017... at 99.82%
+17	1701aa, >A/Sydney/132/2017|E... at 99.59%
+18	1701aa, >A/Brisbane/38/2017|... at 99.82%
+19	1701aa, >A/Sydney/120/2017|E... at 99.82%
+20	1701aa, >A/Victoria/2018/201... at 99.88%
+21	1701aa, >A/SouthAustralia/10... at 99.53%
+22	1701aa, >A/SouthAustralia/10... at 99.53%
+23	1701aa, >A/Sydney/99/2017|EP... at 99.88%
+24	1701aa, >A/SouthAustralia/49... at 99.53%
+25	1701aa, >A/SouthAustralia/47... at 99.59%
+26	1701aa, >A/Sydney/17/2017|EP... at 99.59%
+27	1701aa, >A/Sydney/1173/2017|... at 99.82%
+28	1701aa, >A/Sydney/1172/2017|... at 99.82%
+29	1701aa, >A/SouthAustralia/10... at 99.88%
+30	1701aa, >A/Sydney/1160/2017|... at 99.53%
+31	1701aa, >A/Brisbane/1071/201... at 99.88%
+32	1701aa, >A/Sydney/1156/2017|... at 99.82%
+33	1701aa, >A/Victoria/128/2017... at 99.88%
+34	1701aa, >A/Sydney/1140/2017|... at 99.76%
+35	1701aa, >A/SouthAustralia/10... at 99.59%
+36	1701aa, >A/SouthAustralia/10... at 99.59%
+37	1701aa, >A/Victoria/1027/201... at 99.71%
+38	1701aa, >A/Brisbane/1054/201... at 99.53%
+39	1701aa, >A/Brisbane/1052/201... at 99.53%
+40	1701aa, >A/Brisbane/1051/201... at 99.88%
+41	1701aa, >A/Brisbane/1047/201... at 99.76%
+42	1701aa, >A/Sydney/1129/2017|... at 99.76%
+43	1701aa, >A/Canberra/1009/201... at 99.88%
+44	1701aa, >A/Brisbane/1046/201... at 99.82%
+45	1701aa, >A/Victoria/1020/201... at 99.59%
+46	1701aa, >A/Sydney/1119/2017|... at 99.88%
+47	1701aa, >A/Townsville/1010/2... at 99.65%
+48	1701aa, >A/Victoria/747/2017... at 99.82%
+49	1701aa, >A/Victoria/742/2017... at 99.59%
+50	1701aa, >A/Victoria/2094/201... at 99.82%
+51	1701aa, >A/Canberra/41/2017|... at 99.88%
+52	1701aa, >A/Victoria/578/2017... at 99.59%
+53	1701aa, >A/Victoria/576/2017... at 99.82%
+54	1701aa, >A/Victoria/572/2017... at 99.76%
+55	1701aa, >A/Brisbane/1008/201... at 99.88%
+56	1701aa, >A/Canberra/31/2017|... at 99.88%
+57	1701aa, >A/Victoria/583/2017... at 99.76%
+58	1701aa, >A/Victoria/581/2017... at 99.76%
+59	1701aa, >A/Victoria/554/2017... at 99.65%
+60	1701aa, >A/Victoria/549/2017... at 99.59%
+61	1701aa, >A/Victoria/545/2017... at 99.59%
+62	1701aa, >A/Victoria/60/2017|... at 99.71%
+63	1701aa, >A/Victoria/2029/201... at 99.65%
+64	1701aa, >A/Victoria/654/2017... at 99.88%
+65	1701aa, >A/Victoria/2075/201... at 99.65%
+66	1701aa, >A/Brisbane/124/2017... at 99.82%
+67	1701aa, >A/Townsville/12/201... at 99.76%
+68	1701aa, >A/Canberra/43/2017|... at 99.88%
+69	1701aa, >A/Victoria/652/2017... at 99.53%
+70	1701aa, >A/Victoria/651/2017... at 99.65%
+71	1701aa, >A/Victoria/650/2017... at 99.82%
+72	1701aa, >A/Victoria/649/2017... at 99.65%
+73	1701aa, >A/Victoria/640/2017... at 99.88%
+74	1701aa, >A/Victoria/632/2017... at 99.71%
+75	1701aa, >A/Sydney/1093/2017|... at 99.71%
+76	1701aa, >A/Sydney/1091/2017|... at 99.88%
+77	1701aa, >A/Brisbane/1027/201... at 99.82%
+78	1701aa, >A/Victoria/605/2017... at 99.59%
+79	1701aa, >A/Victoria/589/2017... at 99.82%
+80	1701aa, >A/Victoria/50/2017|... at 99.88%
+81	1701aa, >A/Victoria/48/2017|... at 99.88%
+82	1701aa, >A/Victoria/40/2017|... at 99.82%
+83	1701aa, >A/Victoria/1007/201... at 99.88%
+84	1701aa, >A/Sydney/1042/2017|... at 99.82%
+85	1701aa, >A/Sydney/1039/2017|... at 99.88%
+86	1701aa, >A/Sydney/1034/2017|... at 99.82%
+87	1701aa, >A/Canberra/38/2017|... at 99.88%
+88	1701aa, >A/Canberra/37/2017|... at 99.53%
+89	1701aa, >A/Canberra/36/2017|... at 99.53%
+90	1701aa, >A/Canberra/35/2017|... at 99.53%
+91	1701aa, >A/Canberra/34/2017|... at 99.53%
+92	1701aa, >A/Canberra/33/2017|... at 99.88%
+93	1701aa, >A/Canberra/32/2017|... at 99.53%
+94	1701aa, >A/Canberra/28/2017|... at 99.88%
+95	1701aa, >A/Victoria/47/2017|... at 99.88%
+96	1701aa, >A/Victoria/45/2017|... at 99.88%
+97	1701aa, >A/Victoria/42/2017|... at 99.53%
+98	1701aa, >A/Victoria/37/2017|... at 99.65%
+99	1701aa, >A/Victoria/2039/201... at 99.88%
+100	1701aa, >A/Victoria/2038/201... at 99.88%
+101	1701aa, >A/Canberra/25/2017|... at 99.88%
+102	1701aa, >A/Canberra/19/2017|... at 99.82%
+103	1701aa, >A/Victoria/2040/201... at 99.53%
+104	1701aa, >A/Victoria/164/2017... at 99.82%
+105	1701aa, >A/Sydney/1197/2017|... at 99.82%
+106	1701aa, >A/Tasmania/1036/201... at 99.59%
+107	1701aa, >A/Sydney/1186/2017|... at 99.88%
+108	1701aa, >A/Victoria/178/2017... at 99.88%
+109	1701aa, >A/Victoria/161/2017... at 99.88%
+110	1701aa, >A/Victoria/154/2017... at 99.59%
+111	1701aa, >A/Victoria/139/2017... at 99.88%
+112	1701aa, >A/Victoria/94/2017|... at 99.88%
+113	1701aa, >A/Victoria/81/2017|... at 99.59%
+114	1701aa, >A/Victoria/73/2017|... at 99.82%
+115	1701aa, >A/Victoria/151/2017... at 99.88%
+116	1701aa, >A/Victoria/150/2017... at 99.76%
+117	1701aa, >A/Victoria/147/2017... at 99.59%
+118	1701aa, >A/Perth/153/2017|EP... at 99.76%
+119	1701aa, >A/Canberra/1008/201... at 99.82%
+120	1701aa, >A/Sydney/1105/2017|... at 99.88%
+121	1701aa, >A/Sydney/1102/2017|... at 99.88%
+122	1701aa, >A/Victoria/949/2017... at 99.88%
+123	1701aa, >A/Perth/332/2017|EP... at 99.76%
+124	1701aa, >A/Canberra/74/2017|... at 99.82%
+125	1701aa, >A/Tasmania/76/2017|... at 99.76%
+126	1701aa, >A/Victoria/190/2017... at 99.65%
+127	1701aa, >A/Victoria/201/2017... at 99.71%
+128	1701aa, >A/Perth/225/2017|EP... at 99.71%
+129	1701aa, >A/Victoria/212/2017... at 99.82%
+130	1701aa, >A/Perth/213/2017|EP... at 99.88%
+131	1701aa, >A/Victoria/888/2017... at 99.82%
+132	1701aa, >A/Victoria/215/2017... at 99.82%
+133	1701aa, >A/Victoria/214/2017... at 99.82%
+134	1701aa, >A/Victoria/209/2017... at 99.88%
+135	1701aa, >A/Victoria/208/2017... at 99.65%
+136	1701aa, >A/Victoria/868/2017... at 99.88%
+137	1701aa, >A/Sydney/1169/2017|... at 99.88%
+138	1701aa, >A/Victoria/747/2017... at 99.82%
+139	1701aa, >A/Victoria/742/2017... at 99.65%
+140	1701aa, >A/Victoria/726/2017... at 99.88%
+141	1701aa, >A/Victoria/707/2017... at 99.65%
+142	1701aa, >A/Victoria/706/2017... at 99.88%
+143	1701aa, >A/Victoria/723/2017... at 99.88%
+144	1701aa, >A/Victoria/720/2017... at 99.65%
+>Cluster 147
+0	1701aa, >A/SouthAustralia/17... *
+1	1701aa, >A/SouthAustralia/10... at 100.00%
+2	1701aa, >A/SouthAustralia/10... at 99.88%
+3	1701aa, >A/Sydney/101/2017|E... at 99.53%
+4	1701aa, >A/Sydney/89/2017|EP... at 99.53%
+5	1701aa, >A/Sydney/88/2017|EP... at 99.53%
+6	1701aa, >A/Sydney/113/2017|E... at 99.53%
+7	1701aa, >A/SouthAustralia/19... at 99.82%
+8	1701aa, >A/SouthAustralia/19... at 99.94%
+9	1701aa, >A/SouthAustralia/19... at 100.00%
+10	1701aa, >A/SouthAustralia/18... at 100.00%
+11	1701aa, >A/SouthAustralia/16... at 100.00%
+12	1701aa, >A/SouthAustralia/16... at 100.00%
+13	1701aa, >A/SouthAustralia/15... at 99.82%
+14	1701aa, >A/SouthAustralia/10... at 100.00%
+15	1701aa, >A/SouthAustralia/10... at 99.94%
+16	1701aa, >A/Sydney/126/2017|E... at 99.53%
+17	1701aa, >A/SouthAustralia/13... at 99.88%
+18	1701aa, >A/SouthAustralia/12... at 99.94%
+19	1701aa, >A/SouthAustralia/12... at 99.53%
+20	1701aa, >A/SouthAustralia/12... at 100.00%
+21	1701aa, >A/Sydney/110/2017|E... at 99.53%
+22	1701aa, >A/Sydney/64/2017|EP... at 99.53%
+23	1701aa, >A/Sydney/77/2017|EP... at 99.53%
+24	1701aa, >A/Sydney/63/2017|EP... at 99.53%
+25	1701aa, >A/Sydney/55/2017|EP... at 99.53%
+26	1701aa, >A/Victoria/1023/201... at 99.53%
+27	1701aa, >A/SouthAustralia/20... at 99.76%
+28	1701aa, >A/SouthAustralia/10... at 100.00%
+29	1701aa, >A/Brisbane/116/2017... at 99.53%
+30	1701aa, >A/Victoria/629/2017... at 99.53%
+31	1701aa, >A/Brisbane/1022/201... at 100.00%
+32	1701aa, >A/SouthAustralia/10... at 100.00%
+33	1701aa, >A/Victoria/54/2017|... at 100.00%
+34	1701aa, >A/Victoria/43/2017|... at 99.53%
+35	1701aa, >A/SouthAustralia/20... at 99.94%
+36	1701aa, >A/SouthAustralia/20... at 99.94%
+37	1701aa, >A/Sydney/1196/2017|... at 99.53%
+38	1701aa, >A/Victoria/133/2017... at 99.53%
+39	1701aa, >A/Victoria/118/2017... at 99.53%
+40	1701aa, >A/Victoria/146/2017... at 99.53%
+41	1701aa, >A/SouthAustralia/16... at 100.00%
+42	1701aa, >A/Victoria/859/2017... at 99.53%
+>Cluster 148
+0	1701aa, >A/Sydney/1017/2017|... *
+1	1701aa, >A/Sydney/154/2017|E... at 99.94%
+2	1701aa, >A/Sydney/141/2017|E... at 100.00%
+3	1701aa, >A/Sydney/1010/2017|... at 99.94%
+4	1701aa, >A/Sydney/139/2017|E... at 100.00%
+5	1701aa, >A/Sydney/1012/2017|... at 99.88%
+6	1701aa, >A/Newcastle/75/2017... at 100.00%
+7	1701aa, >A/Brisbane/43/2017|... at 99.65%
+8	1701aa, >A/Perth/78/2017|EPI... at 100.00%
+9	1701aa, >A/Perth/69/2017|EPI... at 99.59%
+10	1701aa, >A/Sydney/67/2017|EP... at 99.59%
+11	1701aa, >A/Sydney/49/2017|EP... at 99.53%
+12	1701aa, >A/Perth/61/2017|EPI... at 99.65%
+13	1701aa, >A/Perth/56/2017|EPI... at 99.65%
+14	1701aa, >A/Perth/55/2017|EPI... at 99.65%
+15	1701aa, >A/Perth/53/2017|EPI... at 99.65%
+16	1701aa, >A/Brisbane/14/2017|... at 99.53%
+17	1701aa, >A/SouthAustralia/34... at 99.53%
+18	1701aa, >A/SouthAustralia/28... at 99.65%
+19	1701aa, >A/Darwin/1003/2017|... at 99.59%
+20	1701aa, >A/Perth/46/2017|EPI... at 99.59%
+21	1701aa, >A/Perth/42/2017|EPI... at 99.65%
+22	1701aa, >A/Perth/34/2017|EPI... at 99.65%
+23	1701aa, >A/Perth/40/2017|EPI... at 99.53%
+24	1701aa, >A/Perth/35/2017|EPI... at 99.65%
+25	1701aa, >A/Perth/27/2017|EPI... at 99.65%
+26	1701aa, >A/Perth/20/2017|EPI... at 99.65%
+27	1701aa, >A/Perth/11/2017|EPI... at 99.65%
+28	1701aa, >A/Perth/14/2017|EPI... at 99.65%
+29	1701aa, >A/Perth/51/2017|EPI... at 99.59%
+30	1701aa, >A/Perth/47/2017|EPI... at 99.65%
+31	1701aa, >A/Perth/43/2017|EPI... at 99.65%
+32	1701aa, >A/Perth/45/2017|EPI... at 99.65%
+33	1701aa, >A/Perth/32/2017|EPI... at 99.53%
+34	1701aa, >A/Perth/48/2017|EPI... at 99.65%
+35	1701aa, >A/Newcastle/15/2017... at 99.53%
+36	1701aa, >A/Newcastle/14/2017... at 99.53%
+37	1701aa, >A/Townsville/5/2017... at 99.53%
+38	1701aa, >A/Darwin/1005/2017|... at 99.53%
+39	1701aa, >A/Darwin/1001/2017|... at 99.65%
+40	1701aa, >A/Darwin/1002/2017|... at 99.59%
+41	1701aa, >A/Darwin/1004/2017|... at 99.59%
+42	1701aa, >A/Perth/105/2016|EP... at 99.53%
+43	1701aa, >A/Tasmania/220/2016... at 99.59%
+44	1701aa, >A/Tasmania/219/2016... at 99.59%
+45	1701aa, >A/Brisbane/290/2016... at 99.53%
+46	1701aa, >A/Victoria/600/2016... at 99.65%
+47	1701aa, >A/Brisbane/1082/201... at 100.00%
+48	1701aa, >A/Sydney/1167/2017|... at 99.94%
+49	1701aa, >A/Sydney/1164/2017|... at 99.94%
+50	1701aa, >A/Victoria/1034/201... at 99.94%
+51	1701aa, >A/Victoria/600/2016... at 99.65%
+52	1701aa, >A/Perth/236/2017|EP... at 99.94%
+53	1701aa, >A/Townsville/1007/2... at 100.00%
+54	1701aa, >A/Newcastle/196/201... at 99.88%
+55	1701aa, >A/Brisbane/1065/201... at 100.00%
+56	1701aa, >A/Sydney/1145/2017|... at 100.00%
+57	1701aa, >A/Sydney/1144/2017|... at 100.00%
+58	1701aa, >A/Victoria/1031/201... at 99.94%
+59	1701aa, >A/Tasmania/1021/201... at 100.00%
+60	1701aa, >A/Tasmania/1020/201... at 100.00%
+61	1701aa, >A/Sydney/1138/2017|... at 100.00%
+62	1701aa, >A/Brisbane/1050/201... at 100.00%
+63	1701aa, >A/Brisbane/1049/201... at 99.94%
+64	1701aa, >A/Brisbane/1048/201... at 100.00%
+65	1701aa, >A/Sydney/1130/2017|... at 99.88%
+66	1701aa, >A/Sydney/1128/2017|... at 100.00%
+67	1701aa, >A/Sydney/1117/2017|... at 99.88%
+68	1701aa, >A/Sydney/1111/2017|... at 99.88%
+69	1701aa, >A/SouthAustralia/10... at 99.94%
+70	1701aa, >A/Brisbane/290/2016... at 99.53%
+71	1701aa, >A/Brisbane/1028/201... at 100.00%
+72	1701aa, >A/Sydney/1050/2017|... at 99.94%
+73	1701aa, >A/Brisbane/1026/201... at 99.94%
+74	1701aa, >A/Sydney/1048/2017|... at 100.00%
+75	1701aa, >A/Victoria/627/2017... at 100.00%
+76	1701aa, >A/Victoria/2060/201... at 100.00%
+77	1701aa, >A/Townsville/13/201... at 99.76%
+78	1701aa, >A/Canberra/47/2017|... at 99.94%
+79	1701aa, >A/Victoria/648/2017... at 100.00%
+80	1701aa, >A/Victoria/647/2017... at 99.94%
+81	1701aa, >A/Sydney/1074/2017|... at 100.00%
+82	1701aa, >A/Sydney/1071/2017|... at 100.00%
+83	1701aa, >A/Sydney/1069/2017|... at 100.00%
+84	1701aa, >A/Sydney/1068/2017|... at 100.00%
+85	1701aa, >A/Sydney/1063/2017|... at 100.00%
+86	1701aa, >A/Sydney/1047/2017|... at 99.94%
+87	1701aa, >A/Townsville/1005/2... at 100.00%
+88	1701aa, >A/Sydney/1067/2017|... at 99.94%
+89	1701aa, >A/Sydney/1066/2017|... at 100.00%
+90	1701aa, >A/Sydney/1046/2017|... at 100.00%
+91	1701aa, >A/Sydney/1036/2017|... at 99.94%
+92	1701aa, >A/Sydney/1033/2017|... at 99.94%
+93	1701aa, >A/Brisbane/1011/201... at 99.94%
+94	1701aa, >A/Brisbane/1010/201... at 99.94%
+95	1701aa, >A/Brisbane/1009/201... at 99.94%
+96	1701aa, >A/Newcastle/16/2018... at 99.82%
+97	1701aa, >A/Sydney/19/2018|EP... at 99.76%
+98	1701aa, >A/Sydney/1189/2017|... at 100.00%
+99	1701aa, >A/Sydney/1193/2017|... at 99.88%
+100	1701aa, >A/Darwin/1019/2017|... at 99.94%
+101	1701aa, >A/Victoria/163/2017... at 100.00%
+102	1701aa, >A/Victoria/145/2017... at 100.00%
+103	1701aa, >A/Victoria/74/2017|... at 99.94%
+104	1701aa, >A/Townsville/1009/2... at 99.76%
+105	1701aa, >A/Sydney/1115/2017|... at 100.00%
+106	1701aa, >A/Newcastle/1000/20... at 99.88%
+107	1701aa, >A/Townsville/16/201... at 99.88%
+108	1701aa, >A/Brisbane/08/2018|... at 99.76%
+109	1701aa, >A/Sydney/546/2017|E... at 99.94%
+110	1701aa, >A/Sydney/220/2017|E... at 100.00%
+111	1701aa, >A/Brisbane/1098/201... at 99.94%
+112	1701aa, >A/Brisbane/189/2017... at 99.94%
+113	1701aa, >A/Brisbane/188/2017... at 99.88%
+114	1701aa, >A/Victoria/221/2017... at 99.94%
+115	1701aa, >A/Tasmania/57/2017|... at 100.00%
+116	1701aa, >A/Victoria/2145/201... at 99.76%
+117	1701aa, >A/Victoria/876/2017... at 99.88%
+118	1701aa, >A/Victoria/210/2017... at 99.88%
+119	1701aa, >A/Victoria/896/2017... at 99.94%
+120	1701aa, >A/SouthAustralia/24... at 99.94%
+121	1701aa, >A/Victoria/216/2017... at 99.94%
+122	1701aa, >A/Victoria/855/2017... at 99.94%
+123	1701aa, >A/Victoria/854/2017... at 99.94%
+124	1701aa, >A/Victoria/219/2017... at 99.94%
+125	1701aa, >A/Victoria/869/2017... at 99.94%
+126	1701aa, >A/Victoria/843/2017... at 99.94%
+127	1701aa, >A/Victoria/200/2017... at 100.00%
+128	1701aa, >A/Victoria/197/2017... at 100.00%
+129	1701aa, >A/Victoria/159/2017... at 99.94%
+130	1701aa, >A/Victoria/748/2017... at 99.88%
+131	1701aa, >A/Victoria/738/2017... at 100.00%
+132	1701aa, >A/Victoria/732/2017... at 100.00%
+133	1701aa, >A/Victoria/724/2017... at 99.94%
+134	1701aa, >A/Victoria/714/2017... at 99.94%
+135	1701aa, >A/Victoria/2156/201... at 99.76%
+136	1701aa, >A/Sydney/168/2017|E... at 99.94%
+137	1701aa, >A/SouthAustralia/23... at 99.94%
+138	1701aa, >A/SouthAustralia/23... at 99.82%
+139	1701aa, >A/Sydney/190/2017|E... at 99.94%
+>Cluster 149
+0	1701aa, >A/Brisbane/1001/201... *
+1	1701aa, >A/Victoria/566/2016... at 99.82%
+2	1701aa, >A/Victoria/566/2016... at 99.82%
+>Cluster 150
+0	1701aa, >A/Brisbane/29/2017|... *
+1	1701aa, >A/Sydney/111/2017|E... at 99.59%
+2	1701aa, >A/Sydney/102/2017|E... at 99.82%
+3	1701aa, >A/Sydney/98/2017|EP... at 99.71%
+4	1701aa, >A/Sydney/95/2017|EP... at 99.71%
+5	1701aa, >A/Victoria/13/2017|... at 99.53%
+6	1701aa, >A/Brisbane/32/2017|... at 99.88%
+7	1701aa, >A/Brisbane/27/2017|... at 99.76%
+8	1701aa, >A/Brisbane/91/2017|... at 99.59%
+9	1701aa, >A/Sydney/133/2017|E... at 99.71%
+10	1701aa, >A/Brisbane/29/2017|... at 100.00%
+11	1701aa, >A/Brisbane/50/2017|... at 99.71%
+12	1701aa, >A/Brisbane/46/2017|... at 99.71%
+13	1701aa, >A/Brisbane/45/2017|... at 99.88%
+14	1701aa, >A/Brisbane/44/2017|... at 99.82%
+15	1701aa, >A/Sydney/108/2017|E... at 99.76%
+16	1701aa, >A/SouthAustralia/74... at 99.82%
+17	1701aa, >A/Sydney/70/2017|EP... at 99.65%
+18	1701aa, >A/Sydney/65/2017|EP... at 99.71%
+19	1701aa, >A/Brisbane/32/2017|... at 99.82%
+20	1701aa, >A/Brisbane/29/2017|... at 99.88%
+21	1701aa, >A/Sydney/69/2017|EP... at 99.71%
+22	1701aa, >A/Brisbane/27/2017|... at 99.65%
+23	1701aa, >A/SouthAustralia/80... at 99.82%
+24	1701aa, >A/Townsville/1/2017... at 99.71%
+25	1701aa, >A/Brisbane/1053/201... at 99.71%
+26	1701aa, >A/Sydney/147/2017|E... at 99.53%
+27	1701aa, >A/Brisbane/29/2017|... at 100.00%
+28	1701aa, >A/Victoria/561/2017... at 99.65%
+29	1701aa, >A/Brisbane/121/2017... at 99.71%
+30	1701aa, >A/Brisbane/127/2017... at 99.82%
+31	1701aa, >A/Brisbane/126/2017... at 99.76%
+>Cluster 151
+0	1701aa, >A/Brisbane/321/2016... *
+1	1701aa, >A/Sydney/87/2017|EP... at 99.59%
+2	1701aa, >A/Victoria/900/2017... at 99.53%
+3	1701aa, >A/Victoria/500/2017... at 99.71%
+4	1701aa, >A/Sydney/114/2017|E... at 99.65%
+5	1701aa, >A/Brisbane/34/2017|... at 99.53%
+6	1701aa, >A/SouthAustralia/50... at 99.59%
+7	1701aa, >A/Perth/58/2017|EPI... at 99.59%
+8	1701aa, >A/Victoria/1/2017|E... at 99.53%
+9	1701aa, >A/Brisbane/72/2017|... at 99.71%
+10	1701aa, >A/Brisbane/24/2017|... at 99.88%
+11	1701aa, >A/Brisbane/21/2017|... at 99.53%
+12	1701aa, >A/Brisbane/15/2017|... at 99.82%
+13	1701aa, >A/Brisbane/8/2017|E... at 99.82%
+14	1701aa, >A/SouthAustralia/24... at 99.88%
+15	1701aa, >A/Perth/2/2017|EPI_... at 99.59%
+16	1701aa, >A/Newcastle/9/2017|... at 99.59%
+17	1701aa, >A/Newcastle/8/2017|... at 99.59%
+18	1701aa, >A/SouthAustralia/8/... at 99.65%
+19	1701aa, >A/SouthAustralia/5/... at 99.59%
+20	1701aa, >A/SouthAustralia/20... at 99.88%
+21	1701aa, >A/Brisbane/321/2016... at 100.00%
+22	1701aa, >A/Brisbane/19/2017|... at 99.76%
+23	1701aa, >A/SouthAustralia/41... at 99.76%
+24	1701aa, >A/Brisbane/313/2016... at 99.65%
+25	1701aa, >A/Brisbane/308/2016... at 99.65%
+26	1701aa, >A/Brisbane/318/2016... at 99.88%
+27	1701aa, >A/Brisbane/323/2016... at 99.88%
+28	1701aa, >A/Brisbane/322/2016... at 99.71%
+29	1701aa, >A/Brisbane/321/2016... at 99.88%
+30	1701aa, >A/Brisbane/316/2016... at 99.76%
+31	1701aa, >A/Brisbane/2/2017|E... at 99.82%
+32	1701aa, >A/Brisbane/3/2017|E... at 99.71%
+33	1701aa, >A/SouthAustralia/17... at 99.65%
+34	1701aa, >A/Victoria/663/2016... at 99.59%
+35	1701aa, >A/Victoria/668/2016... at 99.59%
+36	1701aa, >A/Tasmania/194/2016... at 99.65%
+37	1701aa, >A/Brisbane/273/2016... at 99.71%
+38	1701aa, >A/Newcastle/190/201... at 99.71%
+39	1701aa, >A/Newcastle/116/201... at 99.71%
+40	1701aa, >A/Brisbane/1074/201... at 99.65%
+41	1701aa, >A/Newcastle/190/201... at 99.71%
+42	1701aa, >A/Brisbane/273/2016... at 99.71%
+43	1701aa, >A/Victoria/668/2016... at 99.59%
+44	1701aa, >A/SouthAustralia/17... at 99.65%
+45	1701aa, >A/Brisbane/3/2017|E... at 99.71%
+46	1701aa, >A/Canberra/40/2017|... at 99.71%
+47	1701aa, >A/Victoria/53/2017|... at 99.65%
+48	1701aa, >A/Brisbane/45/2018|... at 99.53%
+49	1701aa, >A/Victoria/101/2017... at 99.71%
+50	1701aa, >A/Victoria/134/2017... at 99.53%
+51	1701aa, >A/Victoria/126/2017... at 99.71%
+52	1701aa, >A/SouthAustralia/26... at 99.59%
+53	1701aa, >A/Brisbane/195/2017... at 99.59%
+54	1701aa, >A/Victoria/196/2017... at 99.65%
+55	1701aa, >A/Brisbane/1069/201... at 99.59%
+>Cluster 152
+0	1701aa, >A/Sydney/100/2017|E... *
+1	1701aa, >A/Tasmania/219/2016... at 99.59%
+2	1701aa, >A/Newcastle/44/2017... at 99.71%
+3	1701aa, >A/Newcastle/43/2017... at 99.65%
+4	1701aa, >A/Victoria/507/2017... at 99.59%
+5	1701aa, >A/Sydney/138/2017|E... at 99.65%
+6	1701aa, >A/Sydney/115/2017|E... at 99.65%
+7	1701aa, >A/Brisbane/61/2017|... at 99.76%
+8	1701aa, >A/Brisbane/58/2017|... at 99.82%
+9	1701aa, >A/Brisbane/57/2017|... at 99.71%
+10	1701aa, >A/Brisbane/48/2017|... at 99.76%
+11	1701aa, >A/SouthAustralia/76... at 99.65%
+12	1701aa, >A/SouthAustralia/57... at 99.59%
+13	1701aa, >A/SouthAustralia/46... at 99.65%
+14	1701aa, >A/Newcastle/18/2017... at 99.59%
+15	1701aa, >A/Newcastle/32/2017... at 99.76%
+16	1701aa, >A/Brisbane/22/2017|... at 99.59%
+17	1701aa, >A/Brisbane/9/2017|E... at 99.53%
+18	1701aa, >A/SouthAustralia/33... at 99.59%
+19	1701aa, >A/SouthAustralia/23... at 99.59%
+20	1701aa, >A/Newcastle/12/2017... at 99.65%
+21	1701aa, >A/Newcastle/11/2017... at 99.59%
+22	1701aa, >A/SouthAustralia/17... at 99.82%
+23	1701aa, >A/Tasmania/219/2016... at 99.59%
+24	1701aa, >A/SouthAustralia/19... at 99.65%
+25	1701aa, >A/Tasmania/217/2016... at 99.65%
+26	1701aa, >A/Brisbane/324/2016... at 99.59%
+27	1701aa, >A/Victoria/146/2016... at 99.88%
+28	1701aa, >A/Newcastle/503/201... at 99.59%
+29	1701aa, >A/Newcastle/501/201... at 99.59%
+30	1701aa, >A/Victoria/146/2016... at 99.88%
+31	1701aa, >A/Brisbane/324/2016... at 99.59%
+32	1701aa, >A/Sydney/1081/2017|... at 99.53%
+33	1701aa, >A/Victoria/2027/201... at 99.71%
+34	1701aa, >A/Newcastle/1001/20... at 99.53%
+35	1701aa, >A/Victoria/192/2017... at 99.59%
+>Cluster 153
+0	1701aa, >A/Sydney/92/2017|EP... *
+1	1701aa, >A/SouthAustralia/15... at 99.76%
+>Cluster 154
+0	1701aa, >A/Newcastle/51/2017... *
+1	1701aa, >A/Newcastle/39/2017... at 99.76%
+2	1701aa, >A/Newcastle/77/2017... at 99.65%
+3	1701aa, >A/Newcastle/53/2017... at 99.71%
+4	1701aa, >A/Newcastle/38/2017... at 99.71%
+5	1701aa, >A/SouthAustralia/26... at 99.59%
+6	1701aa, >A/Brisbane/1/2017|E... at 99.59%
+7	1701aa, >A/Brisbane/1/2017|E... at 99.59%
+8	1701aa, >A/Newcastle/93/2017... at 99.65%
+9	1701aa, >A/Sydney/1113/2017|... at 99.59%
+>Cluster 155
+0	1701aa, >A/Newcastle/46/2017... *
+1	1701aa, >A/Newcastle/28/2017... at 99.53%
+2	1701aa, >A/Newcastle/20/2017... at 99.53%
+3	1701aa, >A/Sydney/56/2017|EP... at 99.53%
+4	1701aa, >A/Newcastle/22/2017... at 99.53%
+5	1701aa, >A/Newcastle/31/2017... at 99.53%
+6	1701aa, >A/Newcastle/25/2017... at 99.53%
+7	1701aa, >A/Newcastle/23/2017... at 99.53%
+8	1701aa, >A/Brisbane/1019/201... at 100.00%
+9	1701aa, >A/Victoria/46/2017|... at 99.94%
+10	1701aa, >A/Victoria/725/2017... at 99.82%
+>Cluster 156
+0	1701aa, >A/Brisbane/13/2017|... *
+1	1701aa, >A/Newcastle/78/2017... at 99.71%
+2	1701aa, >A/SouthAustralia/48... at 99.76%
+3	1701aa, >A/Brisbane/13/2017|... at 100.00%
+4	1701aa, >A/Brisbane/4/2017|E... at 99.65%
+5	1701aa, >A/Brisbane/1/2017|E... at 99.59%
+6	1701aa, >A/Perth/1001/2018|E... at 99.53%
+>Cluster 157
+0	1701aa, >A/Brisbane/285/2016... *
+1	1701aa, >A/Brisbane/285/2016... at 99.76%
+2	1701aa, >A/SouthAustralia/16... at 100.00%
+3	1701aa, >A/Brisbane/285/2016... at 100.00%
+4	1701aa, >A/Brisbane/285/2016... at 100.00%
+>Cluster 158
+0	1701aa, >A/Victoria/541/2017... *
+1	1701aa, >A/Victoria/518/2017... at 100.00%
+2	1701aa, >A/Newcastle/74/2017... at 100.00%
+3	1701aa, >A/Victoria/511/2017... at 100.00%
+4	1701aa, >A/Sydney/134/2017|E... at 99.53%
+5	1701aa, >A/SouthAustralia/65... at 99.65%
+6	1701aa, >A/SouthAustralia/61... at 99.65%
+7	1701aa, >A/SouthAustralia/63... at 99.65%
+8	1701aa, >A/Brisbane/26/2017|... at 99.65%
+9	1701aa, >A/SouthAustralia/58... at 99.65%
+10	1701aa, >A/SouthAustralia/22... at 99.59%
+11	1701aa, >A/SouthAustralia/15... at 99.65%
+12	1701aa, >A/Victoria/1025/201... at 99.94%
+13	1701aa, >A/Victoria/741/2017... at 100.00%
+14	1701aa, >A/Victoria/521/2017... at 100.00%
+15	1701aa, >A/Victoria/587/2017... at 99.94%
+16	1701aa, >A/Victoria/579/2017... at 99.82%
+17	1701aa, >A/Victoria/564/2017... at 99.94%
+18	1701aa, >A/Victoria/560/2017... at 99.65%
+19	1701aa, >A/Canberra/44/2017|... at 100.00%
+20	1701aa, >A/Victoria/2080/201... at 99.94%
+21	1701aa, >A/Victoria/26/2017|... at 100.00%
+22	1701aa, >A/SouthAustralia/10... at 99.94%
+23	1701aa, >A/SouthAustralia/10... at 100.00%
+24	1701aa, >A/Perth/112/2017|EP... at 100.00%
+25	1701aa, >A/Victoria/34/2017|... at 100.00%
+26	1701aa, >A/Victoria/2037/201... at 100.00%
+27	1701aa, >A/Sydney/150/2017|E... at 100.00%
+28	1701aa, >A/Victoria/90/2017|... at 99.94%
+29	1701aa, >A/Perth/135/2017|EP... at 100.00%
+30	1701aa, >A/Victoria/962/2017... at 100.00%
+31	1701aa, >A/Victoria/193/2017... at 99.94%
+32	1701aa, >A/Victoria/642/2017... at 100.00%
+33	1701aa, >A/Canberra/72/2017|... at 99.82%
+34	1701aa, >A/Canberra/70/2017|... at 99.82%
+35	1701aa, >A/Victoria/850/2017... at 99.94%
+36	1701aa, >A/Victoria/741/2017... at 100.00%
+37	1701aa, >A/Victoria/739/2017... at 100.00%
+38	1701aa, >A/SouthAustralia/24... at 100.00%
+>Cluster 159
+0	1701aa, >A/SouthAustralia/14... *
+1	1701aa, >A/SouthAustralia/11... at 99.76%
+2	1701aa, >A/SouthAustralia/93... at 99.71%
+3	1701aa, >A/SouthAustralia/73... at 99.71%
+4	1701aa, >A/Townsville/1001/2... at 99.59%
+5	1701aa, >A/Tasmania/9/2017|E... at 99.65%
+6	1701aa, >A/Newcastle/24/2017... at 99.65%
+7	1701aa, >A/Brisbane/35/2017|... at 99.59%
+8	1701aa, >A/SouthAustralia/10... at 99.76%
+9	1701aa, >A/Victoria/639/2017... at 99.53%
+10	1701aa, >A/Victoria/153/2017... at 99.53%
+>Cluster 160
+0	1701aa, >A/Sydney/1011/2017|... *
+>Cluster 161
+0	1701aa, >A/Sydney/103/2017|E... *
+1	1701aa, >A/Sydney/103/2017|E... at 99.65%
+2	1701aa, >A/Tasmania/37/2017|... at 99.59%
+>Cluster 162
+0	1701aa, >A/SouthAustralia/90... *
+1	1701aa, >A/SouthAustralia/12... at 99.59%
+2	1701aa, >A/SouthAustralia/11... at 99.59%
+3	1701aa, >A/SouthAustralia/10... at 99.59%
+4	1701aa, >A/SouthAustralia/92... at 99.59%
+5	1701aa, >A/SouthAustralia/84... at 99.59%
+>Cluster 163
+0	1701aa, >A/Newcastle/36/2017... *
+>Cluster 164
+0	1701aa, >A/Newcastle/35/2017... *
+>Cluster 165
+0	1701aa, >A/Brisbane/53/2017|... *
+1	1701aa, >A/SouthAustralia/75... at 100.00%
+2	1701aa, >A/SouthAustralia/70... at 99.88%
+>Cluster 166
+0	1701aa, >A/Victoria/2008/201... *
+1	1701aa, >A/Victoria/708/2017... at 99.59%
+2	1701aa, >A/Victoria/586/2017... at 99.59%
+3	1701aa, >A/Victoria/563/2017... at 99.59%
+4	1701aa, >A/Victoria/534/2017... at 99.59%
+5	1701aa, >A/Victoria/2093/201... at 99.53%
+6	1701aa, >A/Canberra/49/2017|... at 99.59%
+7	1701aa, >A/Canberra/45/2017|... at 99.59%
+8	1701aa, >A/Victoria/628/2017... at 99.59%
+9	1701aa, >A/Brisbane/129/2017... at 99.53%
+10	1701aa, >A/Victoria/27/2017|... at 99.59%
+11	1701aa, >A/Victoria/1006/201... at 99.59%
+12	1701aa, >A/Victoria/51/2017|... at 99.65%
+13	1701aa, >A/Victoria/148/2017... at 99.59%
+14	1701aa, >A/Victoria/107/2017... at 99.59%
+15	1701aa, >A/Victoria/102/2017... at 99.59%
+16	1701aa, >A/Victoria/2163/201... at 99.53%
+>Cluster 167
+0	1701aa, >A/Brisbane/4/2017|E... *
+>Cluster 168
+0	1701aa, >A/Sydney/83/2017|EP... *
+>Cluster 169
+0	1701aa, >A/SouthAustralia/78... *
+1	1701aa, >A/Sydney/1123/2017|... at 99.65%
+2	1701aa, >A/Perth/142/2017|EP... at 99.71%
+>Cluster 170
+0	1701aa, >A/SouthAustralia/72... *
+1	1701aa, >A/SouthAustralia/71... at 99.94%
+2	1701aa, >A/SouthAustralia/67... at 100.00%
+3	1701aa, >A/Newcastle/5/2017|... at 99.59%
+>Cluster 171
+0	1701aa, >A/Perth/68/2017|EPI... *
+>Cluster 172
+0	1701aa, >A/Brisbane/33/2017|... *
+>Cluster 173
+0	1701aa, >A/Sydney/66/2017|EP... *
+>Cluster 174
+0	1701aa, >A/Sydney/61/2017|EP... *
+>Cluster 175
+0	1701aa, >A/Perth/54/2017|EPI... *
+>Cluster 176
+0	1701aa, >A/Brisbane/23/2017|... *
+1	1701aa, >A/Sydney/12/2017|EP... at 99.59%
+2	1701aa, >A/Tasmania/201/2016... at 99.59%
+3	1701aa, >A/Perth/186/2016|EP... at 99.53%
+4	1701aa, >A/Tasmania/206/2016... at 99.59%
+5	1701aa, >A/SouthAustralia/4/... at 99.53%
+6	1701aa, >A/Tasmania/213/2016... at 99.59%
+7	1701aa, >A/Tasmania/191/2016... at 99.59%
+8	1701aa, >A/Canberra/79/2016|... at 99.53%
+9	1701aa, >A/Victoria/102/2016... at 99.65%
+10	1701aa, >A/Sydney/1092/2016|... at 99.65%
+11	1701aa, >A/Victoria/548/2016... at 99.59%
+12	1701aa, >A/Perth/88/2016|EPI... at 99.53%
+13	1701aa, >A/Perth/193/2016|EP... at 99.53%
+14	1701aa, >A/Newcastle/1008/20... at 99.59%
+15	1701aa, >A/Victoria/548/2016... at 99.59%
+16	1701aa, >A/Sydney/1092/2016|... at 99.65%
+17	1701aa, >A/Tasmania/213/2016... at 99.59%
+>Cluster 177
+0	1701aa, >A/Brisbane/11/2017|... *
+1	1701aa, >A/Perth/240/2016|EP... at 99.71%
+>Cluster 178
+0	1701aa, >A/SouthAustralia/31... *
+1	1701aa, >A/SouthAustralia/25... at 100.00%
+>Cluster 179
+0	1701aa, >A/SouthAustralia/3/... *
+1	1701aa, >A/SouthAustralia/15... at 99.59%
+2	1701aa, >A/SouthAustralia/16... at 99.53%
+3	1701aa, >A/Victoria/123/2016... at 99.53%
+4	1701aa, >A/Victoria/648/2016... at 99.65%
+5	1701aa, >A/Canberra/93/2016|... at 99.65%
+6	1701aa, >A/Victoria/2074/201... at 99.65%
+7	1701aa, >A/Victoria/2074/201... at 99.65%
+8	1701aa, >A/Victoria/123/2016... at 99.53%
+9	1701aa, >A/Victoria/648/2016... at 99.65%
+10	1701aa, >A/Canberra/93/2016|... at 99.65%
+>Cluster 180
+0	1701aa, >A/Brisbane/318/2016... *
+>Cluster 181
+0	1701aa, >A/Brisbane/299/2016... *
+>Cluster 182
+0	1701aa, >A/Sydney/42/2017|EP... *
+>Cluster 183
+0	1701aa, >A/SouthAustralia/13... *
+1	1701aa, >A/SouthAustralia/13... at 100.00%
+2	1701aa, >A/SouthAustralia/13... at 100.00%
+>Cluster 184
+0	1701aa, >A/Sydney/1048/2016|... *
+1	1701aa, >A/Sydney/1065/2016|... at 99.88%
+2	1701aa, >A/Sydney/143/2016|E... at 100.00%
+3	1701aa, >A/Tasmania/11/2016|... at 100.00%
+4	1701aa, >A/Sydney/143/2016|E... at 100.00%
+5	1701aa, >A/Sydney/1065/2016|... at 99.88%
+>Cluster 185
+0	1701aa, >A/Newcastle/62/2016... *
+>Cluster 186
+0	1701aa, >A/Perth/191/2016|EP... *
+1	1701aa, >A/Sydney/1100/2016|... at 99.71%
+2	1701aa, >A/Victoria/71/2016|... at 99.71%
+3	1701aa, >A/Victoria/564/2016... at 99.76%
+4	1701aa, >A/Victoria/45/2016|... at 99.76%
+5	1701aa, >A/Perth/89/2016|EPI... at 99.76%
+6	1701aa, >A/Victoria/39/2016|... at 99.76%
+7	1701aa, >A/Victoria/547/2016... at 99.71%
+8	1701aa, >A/Victoria/544/2016... at 99.76%
+9	1701aa, >A/Victoria/513/2016... at 99.76%
+10	1701aa, >A/Victoria/2045/201... at 99.71%
+11	1701aa, >A/Victoria/2045/201... at 99.71%
+12	1701aa, >A/Victoria/513/2016... at 99.76%
+13	1701aa, >A/Victoria/71/2016|... at 99.71%
+>Cluster 187
+0	1701aa, >A/Brisbane/312/2016... *
+1	1701aa, >A/Newcastle/30/2016... at 99.59%
+2	1701aa, >A/Brisbane/1004/201... at 99.59%
+3	1701aa, >A/Brisbane/136/2016... at 99.59%
+4	1701aa, >A/Brisbane/1004/201... at 99.59%
+>Cluster 188
+0	1701aa, >A/SouthAustralia/15... *
+1	1701aa, >A/Victoria/151/2016... at 99.76%
+2	1701aa, >A/Brisbane/297/2016... at 99.76%
+3	1701aa, >A/SouthAustralia/14... at 100.00%
+4	1701aa, >A/SouthAustralia/14... at 100.00%
+5	1701aa, >A/SouthAustralia/11... at 99.76%
+6	1701aa, >A/Newcastle/192/201... at 99.76%
+7	1701aa, >A/Brisbane/1010/201... at 99.94%
+8	1701aa, >A/SouthAustralia/18... at 99.76%
+9	1701aa, >A/SouthAustralia/11... at 99.76%
+10	1701aa, >A/SouthAustralia/14... at 100.00%
+>Cluster 189
+0	1701aa, >A/SouthAustralia/14... *
+>Cluster 190
+0	1701aa, >A/Tasmania/215/2016... *
+1	1701aa, >A/Victoria/2079/201... at 99.65%
+2	1701aa, >A/Victoria/52/2016|... at 99.82%
+3	1701aa, >A/Victoria/52/2016|... at 99.82%
+4	1701aa, >A/Victoria/2079/201... at 99.65%
+>Cluster 191
+0	1701aa, >A/Townsville/51/201... *
+1	1701aa, >A/Townsville/51/201... at 100.00%
+>Cluster 192
+0	1701aa, >A/Brisbane/296/2016... *
+1	1701aa, >A/Brisbane/296/2016... at 100.00%
+>Cluster 193
+0	1701aa, >A/SouthAustralia/10... *
+1	1701aa, >A/SouthAustralia/10... at 100.00%
+2	1701aa, >A/Brisbane/158/2016... at 99.94%
+3	1701aa, >A/Brisbane/158/2016... at 99.94%
+4	1701aa, >A/SouthAustralia/10... at 100.00%
+>Cluster 194
+0	1701aa, >A/Victoria/624/2016... *
+1	1701aa, >A/Victoria/624/2016... at 100.00%
+>Cluster 195
+0	1701aa, >A/Perth/22/2016|EPI... *
+1	1701aa, >A/Perth/22/2016|EPI... at 100.00%
+>Cluster 196
+0	1701aa, >A/Perth/78/2016|EPI... *
+1	1701aa, >A/Perth/78/2016|EPI... at 100.00%
+>Cluster 197
+0	1701aa, >A/SouthAustralia/32... *
+>Cluster 198
+0	1701aa, >A/Sydney/80/2016|EP... *
+>Cluster 199
+0	1701aa, >A/Canberra/11/2016|... *
+1	1701aa, >A/Canberra/11/2016|... at 100.00%
+>Cluster 200
+0	1701aa, >A/Sydney/171/2016|E... *
+>Cluster 201
+0	1701aa, >A/Perth/141/2016|EP... *
+>Cluster 202
+0	1701aa, >A/SouthAustralia/29... *
+>Cluster 203
+0	1701aa, >A/Sydney/1143/2017|... *
+1	1701aa, >A/Sydney/1142/2017|... at 99.94%
+2	1701aa, >A/Victoria/729/2017... at 99.88%
+3	1701aa, >A/Sydney/151/2017|E... at 99.88%
+4	1701aa, >A/Sydney/3/2018|EPI... at 99.65%
+5	1701aa, >A/Victoria/729/2017... at 99.88%
+>Cluster 204
+0	1701aa, >A/Sydney/1132/2017|... *
+1	1701aa, >A/Brisbane/1037/201... at 99.76%
+>Cluster 205
+0	1701aa, >A/Newcastle/17/2015... *
+1	1701aa, >A/SouthAustralia/16... at 99.94%
+>Cluster 206
+0	1701aa, >A/Victoria/9/2015|E... *
+>Cluster 207
+0	1701aa, >A/SouthAustralia/12... *
+>Cluster 208
+0	1701aa, >A/Victoria/640/2015... *
+>Cluster 209
+0	1701aa, >A/Brisbane/140/2017... *
+1	1701aa, >A/Darwin/1016/2017|... at 99.59%
+2	1701aa, >A/Victoria/872/2017... at 99.59%
+3	1701aa, >A/Victoria/237/2017... at 99.59%
+4	1701aa, >A/Victoria/653/2017... at 99.71%
+5	1701aa, >A/Victoria/624/2017... at 99.59%
+>Cluster 210
+0	1701aa, >A/Victoria/617/2017... *
+>Cluster 211
+0	1701aa, >A/Tasmania/14/2017|... *
+>Cluster 212
+0	1701aa, >A/SouthAustralia/16... *
+1	1701aa, >A/Sydney/100/2018|E... at 99.53%
+2	1701aa, >A/SouthAustralia/53... at 99.53%
+3	1701aa, >A/Newcastle/39/2018... at 99.53%
+>Cluster 213
+0	1701aa, >A/SouthAustralia/17... *
+>Cluster 214
+0	1701aa, >A/Newcastle/104/201... *
+1	1701aa, >A/SouthAustralia/15... at 99.82%
+2	1701aa, >A/SouthAustralia/14... at 99.88%
+3	1701aa, >A/Brisbane/154/2018... at 99.88%
+4	1701aa, >A/Victoria/28/2018|... at 99.88%
+5	1701aa, >A/Victoria/2051/201... at 99.88%
+>Cluster 215
+0	1701aa, >A/Victoria/2093/201... *
+1	1701aa, >A/Victoria/708/2018... at 99.76%
+>Cluster 216
+0	1701aa, >A/Victoria/2104/201... *
+>Cluster 217
+0	1701aa, >A/SouthAustralia/19... *
+1	1701aa, >A/SouthAustralia/10... at 99.53%
+>Cluster 218
+0	1701aa, >A/Brisbane/1016/201... *
+1	1701aa, >A/SouthAustralia/82... at 99.76%
+2	1701aa, >A/Sydney/172/2018|E... at 99.76%
+3	1701aa, >A/Darwin/16/2018|EP... at 99.76%
+4	1701aa, >A/Brisbane/120/2018... at 99.82%
+>Cluster 219
+0	1701aa, >A/Tasmania/1001/201... *
+1	1701aa, >A/Victoria/909/2018... at 99.53%
+2	1701aa, >A/SouthAustralia/98... at 99.53%
+3	1701aa, >A/Victoria/908/2018... at 99.53%
+4	1701aa, >A/SouthAustralia/12... at 99.53%
+5	1701aa, >A/Victoria/1003/201... at 99.53%
+6	1701aa, >A/Brisbane/161/2018... at 99.53%
+7	1701aa, >A/Brisbane/36/2018|... at 99.59%
+8	1701aa, >A/Brisbane/36/2018|... at 99.59%
+9	1701aa, >A/Brisbane/36/2018|... at 99.53%
+10	1701aa, >A/Victoria/731/2018... at 99.59%
+11	1701aa, >A/Sydney/179/2018|E... at 99.53%
+12	1701aa, >A/Victoria/901/2018... at 99.59%
+13	1701aa, >A/Victoria/18/2018|... at 99.59%
+14	1701aa, >A/Canberra/9/2018|E... at 99.59%
+15	1701aa, >A/Perth/43/2018|EPI... at 99.53%
+16	1701aa, >A/Brisbane/36/2018|... at 99.53%
+17	1701aa, >A/Brisbane/40/2018|... at 99.53%
+18	1701aa, >A/Newcastle/11/2018... at 99.53%
+19	1701aa, >A/Brisbane/28/2018|... at 99.53%
+20	1701aa, >A/Brisbane/25/2018|... at 99.71%
+21	1701aa, >A/SouthAustralia/5/... at 99.59%
+22	1701aa, >A/Sydney/15/2018|EP... at 99.53%
+23	1701aa, >A/Sydney/18/2018|EP... at 99.59%
+24	1701aa, >A/Brisbane/57/2018|... at 99.59%
+25	1701aa, >A/Brisbane/32/2018|... at 99.53%
+26	1701aa, >A/Brisbane/36/2018|... at 99.59%
+27	1701aa, >A/Townsville/04/201... at 99.53%
+28	1701aa, >A/Sydney/11/2018|EP... at 99.59%
+29	1701aa, >A/Sydney/10/2018|EP... at 99.59%
+30	1701aa, >A/Sydney/7/2018|EPI... at 99.59%
+31	1701aa, >A/Brisbane/19/2018|... at 99.59%
+32	1701aa, >A/Brisbane/17/2018|... at 99.59%
+33	1701aa, >A/Brisbane/12/2018|... at 99.59%
+>Cluster 220
+0	1701aa, >A/Victoria/1004/201... *
+>Cluster 221
+0	1701aa, >A/Sydney/182/2018|E... *
+1	1701aa, >A/Sydney/68/2018|EP... at 99.53%
+>Cluster 222
+0	1701aa, >A/SouthAustralia/12... *
+1	1701aa, >A/Victoria/23/2018|... at 99.53%
+2	1701aa, >A/Newcastle/1001/20... at 99.59%
+3	1701aa, >A/SouthAustralia/26... at 99.53%
+>Cluster 223
+0	1701aa, >A/Perth/1036/2018|E... *
+>Cluster 224
+0	1701aa, >A/Perth/103/2018|EP... *
+1	1701aa, >A/Perth/1008/2018|E... at 99.76%
+2	1701aa, >A/Brisbane/34/2018|... at 99.59%
+>Cluster 225
+0	1701aa, >A/Victoria/2042/201... *
+>Cluster 226
+0	1701aa, >A/Sydney/1020/2018|... *
+1	1701aa, >A/Sydney/22/2018|EP... at 99.53%
+2	1701aa, >A/Newcastle/48/2018... at 99.71%
+3	1701aa, >A/SouthAustralia/10... at 99.53%
+4	1701aa, >A/SouthAustralia/10... at 99.59%
+5	1701aa, >A/SouthAustralia/19... at 99.53%
+6	1701aa, >A/SouthAustralia/10... at 99.59%
+7	1701aa, >A/Sydney/22/2018|EP... at 99.53%
+>Cluster 227
+0	1701aa, >A/Perth/1024/2018|E... *
+>Cluster 228
+0	1701aa, >A/Brisbane/34/2018|... *
+1	1701aa, >A/Brisbane/34/2018|... at 99.82%
+>Cluster 229
+0	1701aa, >A/Newcastle/19/2018... *
+>Cluster 230
+0	1701aa, >A/SouthAustralia/22... *
+>Cluster 231
+0	1701aa, >A/Townsville/23/201... *
+1	1701aa, >A/Brisbane/64/2018|... at 99.53%
+>Cluster 232
+0	1701aa, >A/Brisbane/106/2018... *
+1	1701aa, >A/Brisbane/112/2018... at 99.82%
+2	1701aa, >A/Brisbane/1002/201... at 99.76%
+3	1701aa, >A/Brisbane/94/2018|... at 100.00%
+4	1701aa, >A/Brisbane/85/2018|... at 99.88%
+5	1701aa, >A/Brisbane/77/2018|... at 99.94%
+6	1701aa, >A/Brisbane/89/2018|... at 100.00%
+7	1701aa, >A/Brisbane/88/2018|... at 100.00%
+8	1701aa, >A/Brisbane/73/2018|... at 99.94%
+>Cluster 233
+0	1701aa, >A/Brisbane/101/2018... *
+>Cluster 234
+0	1701aa, >A/SouthAustralia/10... *
+>Cluster 235
+0	1701aa, >A/Sydney/34/2018|EP... *
+>Cluster 236
+0	1701aa, >A/SouthAustralia/10... *
+1	1701aa, >A/SouthAustralia/10... at 99.88%
+>Cluster 237
+0	1701aa, >A/Brisbane/32/2018|... *
+>Cluster 238
+0	1701aa, >A/Brisbane/1001/201... *
+1	1701aa, >A/Brisbane/58/2018|... at 99.94%
+2	1701aa, >A/SouthAustralia/6/... at 99.59%
+3	1701aa, >A/Sydney/24/2018|EP... at 99.59%
+4	1701aa, >A/Brisbane/54/2018|... at 99.94%
+5	1701aa, >A/Brisbane/56/2018|... at 100.00%
+6	1701aa, >A/Brisbane/1000/201... at 100.00%
+>Cluster 239
+0	1701aa, >A/Brisbane/67/2018|... *
+1	1701aa, >A/Brisbane/66/2018|... at 100.00%
+>Cluster 240
+0	1701aa, >A/Sydney/1002/2018|... *
+>Cluster 241
+0	1701aa, >A/SouthAustralia/2/... *
+1	1701aa, >A/SouthAustralia/27... at 99.88%
+>Cluster 242
+0	1701aa, >A/Sydney/1000/2018|... *
+>Cluster 243
+0	1701aa, >A/Perth/207/2017|EP... *
+>Cluster 244
+0	1701aa, >A/Victoria/123/2017... *
+>Cluster 245
+0	1701aa, >A/Victoria/72/2017|... *
+>Cluster 246
+0	1701aa, >A/Victoria/120/2017... *
+>Cluster 247
+0	1701aa, >A/Perth/134/2017|EP... *
+>Cluster 248
+0	1701aa, >A/Brisbane/203/2017... *
+>Cluster 249
+0	1701aa, >A/Brisbane/201/2017... *
+>Cluster 250
+0	1701aa, >A/Brisbane/196/2017... *
+>Cluster 251
+0	1701aa, >A/Brisbane/185/2017... *
+>Cluster 252
+0	1701aa, >A/Sydney/1200/2017|... *
+>Cluster 253
+0	1701aa, >A/Sydney/224/2017|E... *
+>Cluster 254
+0	1701aa, >A/Perth/317/2017|EP... *
+>Cluster 255
+0	1701aa, >A/Victoria/943/2017... *
+>Cluster 256
+0	1701aa, >A/Victoria/893/2017... *
+>Cluster 257
+0	1701aa, >A/SouthAustralia/25... *
+1	1701aa, >A/SouthAustralia/24... at 99.53%
+>Cluster 258
+0	1701aa, >A/Victoria/746/2017... *

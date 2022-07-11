@@ -1,0 +1,14 @@
+#NEXUS
+begin taxa;
+    dimensions ntax=4;
+	Taxlabels
+	A
+	B
+	C
+	D
+;
+end;
+
+begin trees;
+    tree TREE1 = [&R] (A:0.1,B:0.2,(C:0.3,D:0.4)[&branch="B1"]:0.5)[&branch="B2"];
+end;

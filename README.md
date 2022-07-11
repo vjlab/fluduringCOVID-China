@@ -1,5 +1,3 @@
-This repository will be updated with all materials soon.
-
 # Genomic epidemiology of seasonal influenza circulation in China during prolonged border closure from 2020 to 2021
 
 Ruopeng Xie1,2, Dillon C. Adam1, Kimberly M. Edwards1,2, Shreya Gurung1,2, Xiaoman Wei1,2, Benjamin J. Cowling1, Vijaykrishna Dhanasekaran1,2*
